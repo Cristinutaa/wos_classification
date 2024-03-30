@@ -1,0 +1,6 @@
+Given the following 6 classes: agricultural sciences; engineering and technology; humanities; medical and health sciences; natural sciences; social sciences 
+Return the most relevant classes for the FOLLOWING abstract. Return ONLY THE CLASSES separated by "&" in the ORDER OF RELEVANCE WITH THEIR RELEVANCE SCORE (between 0 and 100) in one line and never any aditional context: 
+{} 
+Please, DON'T RETURN OTHER CLASSES, ONLY A SUBSET OF THE 6, otherwise the result is invalid!!! The results of my study depends on it.
+ DON'T RETURN MORE THAN FIVE RESULTS. ONLY THE MOST RELEVANT AND MAX 5 (1,2,3,4,5 RESULTS)!!!! 
+Example of answer: "medical and health sciences:70&natural sciences:60" 

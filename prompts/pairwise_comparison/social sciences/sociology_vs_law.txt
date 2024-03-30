@@ -1,0 +1,3 @@
+Given the abstract '{}' and the disciplines 'sociology' and 'law', with the descriptions:
+'Sociology; Demography; Anthropology, ethnology; Social topics (Womenís and gender studies; Social issues; Family studies, Social work)' (for sociology) and
+'Law, criminology, penology' (for law), which one is more relevant? Choose only one and only write your choice, no additional information. Choose only between 'sociology' and 'law'

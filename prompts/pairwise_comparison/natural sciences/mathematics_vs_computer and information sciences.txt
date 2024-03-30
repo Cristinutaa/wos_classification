@@ -1,0 +1,3 @@
+Given the abstract '{}' and the disciplines 'mathematics' and 'computer and information sciences', with the descriptions:
+'Pure mathematics, Applied mathematics; Statistics and probability (this excludes applied statistics)' (for mathematics) and
+'Computer sciences, information science and bioinformatics (hardware development to be in Electrical Engineering, social aspect to be in Media and Communication)' (for computer and information sciences), which one is more relevant? Choose only one and only write your choice, no additional information. Choose only between 'mathematics' and 'computer and information sciences'

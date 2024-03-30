@@ -1,0 +1,3 @@
+Given the abstract '{}' and the disciplines 'agricultural biotechnology' and 'other agricultural sciences', with the descriptions:
+'Agricultural biotechnology and food biotechnology; GM technology (crops and livestock), livestock cloning, marker assisted selection, diagnostics (DNA chips and biosensing devices for the early/accurate detection of diseases) biomass feedstock production technologies, biopharming; agricultural biotechnology related ethics' (for agricultural biotechnology) and
+'Other agricultural sciences' (for other agricultural sciences), which one is more relevant? Choose only one and only write your choice, no additional information. Choose only between 'agricultural biotechnology' and 'other agricultural sciences'

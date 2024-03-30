@@ -1,0 +1,16 @@
+Given the following 9 classes: psychology;economics and business;educational sciences;sociology;law;political science;social and economic geography;media and communications;other social sciences 
+The classes description: 
+psychology: Psychology (including human - machine relations); Psychology, special (including therapy for learning, speech, hearing, visual and other physical and mental disabilities) 
+economics and business: Economics, Econometrics; Industrial relations; Business and Management 
+educational sciences: Education, general; including training, pedagogy, didactics; Education, special (to gifted persons, those with learning disabilities) 
+sociology: Sociology; Demography; Anthropology, ethnology; Social topics (Womenís and gender studies; Social issues; Family studies, Social work) 
+law: Law, criminology, penology 
+political science: Political science; public administration; organisation theory 
+social and economic geography: Environmental sciences (social aspects); Cultural and economic geography; Urban studies (Planning and development); Transport planning and social aspects of transport (transport engineering to be Civil Engineering) 
+media and communications: Journalism; Information science (social aspects); Library science; Media and socio-cultural communication 
+other social sciences: Social sciences, interdisciplinary; Other social sciences 
+Return the most relevant classes for the FOLLOWING abstract. Return ONLY THE CLASSES separated by "&" in the ORDER OF RELEVANCE WITH THEIR RELEVANCE SCORE (between 0 and 100) in one line and never any aditional context: 
+{} 
+Please, DON'T RETURN OTHER CLASSES, ONLY A SUBSET OF THE 9, otherwise the result is invalid!!! The results of my study depends on it.
+ DON'T RETURN MORE THAN FIVE RESULTS. ONLY THE MOST RELEVANT AND MAX 5 (1,2,3,4,5 RESULTS)!!!! 
+Example of answer: "other social sciences:70&other social sciences:60" 

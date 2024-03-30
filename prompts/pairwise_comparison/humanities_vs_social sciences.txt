@@ -1,0 +1,3 @@
+Given the abstract '{}' and the disciplines 'humanities' and 'social sciences', with the descriptions:
+'history; archaeology; languages and linguistics; literature; philosophy and ethics; religion; arts (arts, history of arts, performing arts, music); other humanities' (for humanities) and
+'psychology; economics and business; educational sciences; sociology; law; political science; social and economic geography; media and communications; other social sciences' (for social sciences), which one is more relevant? Choose only one and only write your choice, no additional information. Choose only between 'humanities' and 'social sciences'

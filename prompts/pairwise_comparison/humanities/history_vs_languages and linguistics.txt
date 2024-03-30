@@ -1,0 +1,3 @@
+Given the abstract '{}' and the disciplines 'history' and 'languages and linguistics', with the descriptions:
+'History (history of science and technology to be in Educational Sciences, history of specific sciences to be under the respective headings)' (for history) and
+'General language studies; Specific languages; Linguistics' (for languages and linguistics), which one is more relevant? Choose only one and only write your choice, no additional information. Choose only between 'history' and 'languages and linguistics'

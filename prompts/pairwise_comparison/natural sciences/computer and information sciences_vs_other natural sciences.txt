@@ -1,0 +1,3 @@
+Given the abstract '{}' and the disciplines 'computer and information sciences' and 'other natural sciences', with the descriptions:
+'Computer sciences, information science and bioinformatics (hardware development to be in Electrical Engineering, social aspect to be in Media and Communication)' (for computer and information sciences) and
+'Other natural sciences' (for other natural sciences), which one is more relevant? Choose only one and only write your choice, no additional information. Choose only between 'computer and information sciences' and 'other natural sciences'

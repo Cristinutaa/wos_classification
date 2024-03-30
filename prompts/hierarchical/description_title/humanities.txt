@@ -1,0 +1,23 @@
+Given the following 8 classes: history;archaeology;languages and linguistics;literature;philosophy and ethics;religion;arts (arts, history of arts, performing arts, music);other humanities 
+The classes description and example of abstracts: 
+history: History (history of science and technology to be in Educational Sciences, history of specific sciences to be under the respective headings) 
+ Example abstract: The economic space of cities: an analysis of leather tanners in eighteenth- and nineteenth-century Rome;Navigating Family Welfare and Dwelling Space for Mercantile Migrants in Venice, 1550-1700;Navigating Family Welfare and Dwelling Space for Mercantile Migrants in Venice, 1550-1700 
+archaeology: Archaeology 
+ Example abstract: The Function of the Iron Age Site of Khirbet Qeiyafa;Sustaining Tangible Neighborhood Change through African American Archaeology in Easton, Maryland: Evaluating The Hill Community Project;Two Pre-Islamic Places of Worship in the Tourism Landscape of the UAE 
+languages and linguistics: General language studies; Specific languages; Linguistics 
+ Example abstract: Geocentric directional systems in Australia: a typology;The landscape of non-canonical 'only' in German;Mica preposing as focus fronting 
+literature: General literature studies; Literary theory; Specific literatures 
+ Example abstract: Carl Akeley's 'lost' decorative taxidermy and anthropomorphic groups The European connection;Hecataeus and the Origin of Wine A Note on F-15 Fowler;Carl Akeley's 'lost' decorative taxidermy and anthropomorphic groups The European connection 
+philosophy and ethics: Philosophy, History and philosophy of science and technology; Ethics (except ethics related to specific subfields) 
+ Example abstract: Action and Rationalization;The arch-grammar of the representation of lifeworld in the Indian collection Ocean of the Streams of Story;The arch-grammar of the representation of lifeworld in the Indian collection Ocean of the Streams of Story 
+religion: Theology; Religious studies 
+ Example abstract: A Blemished Offering: Economy, Eucharist, and the Limits of Epiphanic Conversion;A Blemished Offering: Economy, Eucharist, and the Limits of Epiphanic Conversion;A Blemished Offering: Economy, Eucharist, and the Limits of Epiphanic Conversion 
+arts (arts, history of arts, performing arts, music): Arts, Art history; Architectural design; Performing arts studies (Musicology, Theater science, Dramaturgy); Folklore studies; Studies on Film, Radio and Television 
+ Example abstract: Jiimaan, That Teaching Sister: Practices of Archival Care;Identity in Diversity: Programmatic Pictures of the Enlightenment;A Costume Analysis of the Film 'Lost in Translation' (Coppola, 2003) 
+other humanities: Other humanities 
+ Example abstract: Adaptation as augmentation: performing writing as a means of survival;Carle Van Loo at the 1737 Salon;Adaptation as augmentation: performing writing as a means of survival 
+Return the most relevant classes for the FOLLOWING abstract. Return ONLY THE CLASSES separated by "&" in the ORDER OF RELEVANCE WITH THEIR RELEVANCE SCORE (between 0 and 100) in one line and never any aditional context: 
+{} 
+Please, DON'T RETURN OTHER CLASSES, ONLY A SUBSET OF THE 8, otherwise the result is invalid!!! The results of my study depends on it.
+ DON'T RETURN MORE THAN FIVE RESULTS. ONLY THE MOST RELEVANT AND MAX 5 (1,2,3,4,5 RESULTS)!!!! 
+Example of answer: "history:70&history:60" 

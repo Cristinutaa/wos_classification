@@ -1,0 +1,15 @@
+Given the following 8 classes: history;archaeology;languages and linguistics;literature;philosophy and ethics;religion;arts (arts, history of arts, performing arts, music);other humanities 
+The classes description: 
+history: History (history of science and technology to be in Educational Sciences, history of specific sciences to be under the respective headings) 
+archaeology: Archaeology 
+languages and linguistics: General language studies; Specific languages; Linguistics 
+literature: General literature studies; Literary theory; Specific literatures 
+philosophy and ethics: Philosophy, History and philosophy of science and technology; Ethics (except ethics related to specific subfields) 
+religion: Theology; Religious studies 
+arts (arts, history of arts, performing arts, music): Arts, Art history; Architectural design; Performing arts studies (Musicology, Theater science, Dramaturgy); Folklore studies; Studies on Film, Radio and Television 
+other humanities: Other humanities 
+Return the most relevant classes for the FOLLOWING abstract. Return ONLY THE CLASSES separated by "&" in the ORDER OF RELEVANCE WITH THEIR RELEVANCE SCORE (between 0 and 100) in one line and never any aditional context: 
+{} 
+Please, DON'T RETURN OTHER CLASSES, ONLY A SUBSET OF THE 8, otherwise the result is invalid!!! The results of my study depends on it.
+ DON'T RETURN MORE THAN FIVE RESULTS. ONLY THE MOST RELEVANT AND MAX 5 (1,2,3,4,5 RESULTS)!!!! 
+Example of answer: "literature:70&other humanities:60" 

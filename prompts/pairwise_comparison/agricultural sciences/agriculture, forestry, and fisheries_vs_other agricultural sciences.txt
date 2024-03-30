@@ -1,0 +1,3 @@
+Given the abstract '{}' and the disciplines 'agriculture, forestry, and fisheries' and 'other agricultural sciences', with the descriptions:
+'Agriculture; Forestry; Fishery; Soil science; Horticulture, viticulture; Agronomy, plant breeding and plant protection' (for agriculture, forestry, and fisheries) and
+'Other agricultural sciences' (for other agricultural sciences), which one is more relevant? Choose only one and only write your choice, no additional information. Choose only between 'agriculture, forestry, and fisheries' and 'other agricultural sciences'

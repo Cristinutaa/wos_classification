@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 nohup python3 WoS_data/multilabel_trainer.py --model_name bert-base-uncased --output_dir  WoS_data/results/1000/BERT_base --train_path WoS_data/different_size/train1000.csv --test_path WoS_data/test_new.csv --learning_rate 5e-5 --label_col label --train_batch_size 16 --test_batch_size 16 --epochs 3 &> results/1000/results_base.txt &

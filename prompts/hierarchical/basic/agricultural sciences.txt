@@ -1,0 +1,6 @@
+Given the following 5 classes: agriculture, forestry, and fisheries;animal and dairy science;veterinary science;agricultural biotechnology;other agricultural sciences 
+Return the most relevant classes for the FOLLOWING abstract. Return ONLY THE CLASSES separated by "&" in the ORDER OF RELEVANCE WITH THEIR RELEVANCE SCORE (between 0 and 100) in one line and never any aditional context: 
+{} 
+Please, DON'T RETURN OTHER CLASSES, ONLY A SUBSET OF THE 5, otherwise the result is invalid!!! The results of my study depends on it.
+ DON'T RETURN MORE THAN FIVE RESULTS. ONLY THE MOST RELEVANT AND MAX 5 (1,2,3,4,5 RESULTS)!!!! 
+Example of answer: "agricultural biotechnology:70&animal and dairy science:60" 

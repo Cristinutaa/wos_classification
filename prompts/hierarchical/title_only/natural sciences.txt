@@ -1,0 +1,14 @@
+Given the following 7 classes: mathematics;computer and information sciences;physical sciences;chemical sciences;earth and related environmental sciences;biological sciences;other natural sciences 
+The classes abstract example: 
+mathematics: Asymptotic comparison of some Bayesian information bounds;Stability and convergence ofFiterative scheme with an application to the fractional differential equation;Asymptotic comparison of some Bayesian information bounds 
+computer and information sciences: More Than Meets the Eye: A Closer Look at Encodings in Visualization;Uncertain regression model with moving average time series errors;More Than Meets the Eye: A Closer Look at Encodings in Visualization 
+physical sciences: On stringy origin of minimal flavor violation;Characterization of Laser-Induced Ionization Dynamics in Solid Dielectrics;Characterization of Laser-Induced Ionization Dynamics in Solid Dielectrics 
+chemical sciences: s-Tetrazine: Robust and Green Photoorganocatalyst for Aerobic Oxidation of N,N-Disubstituted Hydroxylamines to Nitrones;Phosphorylation of 2-Aryl Quinoxaline Derivatives via C-H/P-H Cross Coupling under Transition-Metal-Free Conditions;Phosphorylation of 2-Aryl Quinoxaline Derivatives via C-H/P-H Cross Coupling under Transition-Metal-Free Conditions 
+earth and related environmental sciences: Errors in positioning of borehole measurements and how they influence seismic inversion;Models of Climate, Geophysical Boundary Layers, and the Active Land Layer: In Memory of V. N. Lykosov;Models of Climate, Geophysical Boundary Layers, and the Active Land Layer: In Memory of V. N. Lykosov 
+biological sciences: NOTES ON THE NEST AND BREEDING OF GOELDI'S ANTBIRD (AKLETOS GOELDII), A BAMBOO SPECIALIST, FROM UCAYALI, PERU;Contribution to the knowledge of Chinese Gryllacrididae (Orthoptera) VI: new descriptions of Ocellarnaca Gorochov, 2004;Rosalydia, a new genus of Neocoelidiinae (Hemiptera: Cicadellidae) from Brazilian Amazon, with description of three new species 
+other natural sciences:  
+Return the most relevant classes for the FOLLOWING abstract. Return ONLY THE CLASSES separated by "&" in the ORDER OF RELEVANCE WITH THEIR RELEVANCE SCORE (between 0 and 100) in one line and never any aditional context: 
+{} 
+Please, DON'T RETURN OTHER CLASSES, ONLY A SUBSET OF THE 7, otherwise the result is invalid!!! The results of my study depends on it.
+ DON'T RETURN MORE THAN FIVE RESULTS. ONLY THE MOST RELEVANT AND MAX 5 (1,2,3,4,5 RESULTS)!!!! 
+Example of answer: "earth and related environmental sciences:70&computer and information sciences:60" 

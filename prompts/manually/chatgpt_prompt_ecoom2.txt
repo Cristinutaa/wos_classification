@@ -1,0 +1,48 @@
+Given the following disciplines coded with the structure D+number (e.g. D243) and their description:
+ - D1: Pure mathematics, Applied mathematics; Statistics and probability (this excludes applied statistics);
+ - D2: Computer sciences, information science and bioinformatics (hardware development to be in Electrical Engineering, social aspect to be in Media and Communication);
+ - D3: Atomic, molecular and chemical physics (physics of atoms and molecules including collision, interaction with radiation; magnetic resonances; Moessbauer effect); Condensed matter physics (including formerly solid state physics, superconductivity); Particles and fields physics; Nuclear physics; Fluids and plasma physics (including surface physics); Optics (including laser optics and quantum optics), Acoustics; Astronomy (including astrophysics, space science);
+ - D4: Organic chemistry; Inorganic and nuclear chemistry; Physical chemistry, Polymer science, Electrochemistry (dry cells, batteries, fuel cells, corrosion metals, electrolysis); Colloid chemistry; Analytical chemistry;
+ - D5: Geosciences, multidisciplinary; Mineralogy; Palaeontology; Geochemistry and geophysics; Physical geography; Geology; Volcanology; Environmental sciences (social aspects to be in Social and economic geography); Meteorology and atmospheric sciences; climatic research; Oceanography, Hydrology, Water resources;
+ - D6: Cell biology, Microbiology; Virology; Biochemistry and molecular biology; Biochemical research methods; Mycology; Biophysics; Genetics and heredity (medical genetics to be 3); reproductive biology (medical aspects to be 3); developmental biology; Plant sciences, botany; Zoology, Ornithology, Entomology, Behavioural sciences biology; Marine biology, freshwater biology, limnology; Ecology; Biodiversity conservation; Biology (theoretical, mathematical, thermal, cryobiology, biological rhythm), Evolutionary biology; other biological topics;
+ - D7: Other natural sciences
+ - D8: Civil engineering; Architecture engineering; Construction engineering, Municipal and structural engineering; Transport engineering;
+ - D9: Electrical and electronic engineering; Robotics and automatic control; Automation and control systems; Communication engineering and systems; telecommunications; Computer hardware and architecture;
+ - D10: Mechanical engineering; Applied mechanics; Thermodynamics; Aerospace engineering; Nuclear related engineering; (nuclear physics to be in Physical sciences); Audio engineering, reliability analysis;
+ - D11: Chemical engineering (plants, products); Chemical process engineering;
+ - D12: Materials engineering; Ceramics; Coating and films; Composites (including laminates, reinforced plastics, cermets, combined natural and synthetic fibre fabrics; filled composites); Paper and wood; textiles; including synthetic dyes, colours, fibres; (nanoscale materials to be in Nano-technology; biomaterials to be in Industrial biotechnology);
+ - D13: Medical engineering; Medical laboratory technology (including laboratory samples analysis; diagnostic technologies); (Biomaterials to be in Industrial biotechnology [physical characteristics of living material as related to medical implants, devices, sensors]);
+ - D14: Environmental and geological engineering, geotechnics; Petroleum engineering, (fuel, oils), Energy and fuels; Remote sensing; Mining and mineral processing; Marine engineering, sea vessels; Ocean engineering;
+ - D15: Environmental biotechnology; Bioremediation, diagnostic biotechnologies (DNA chips and biosensing devices) in environmental management; environmental biotechnology related ethics;
+ - D16: Industrial biotechnology; Bioprocessing technologies (industrial processes relying on biological agents to drive the process) biocatalysis, fermentation; bioproducts (products that are manufactured using biological material as feedstock) biomaterials, bioplastics, biofuels, bioderived bulk and fine chemicals, bio-derived novel materials;
+ - D17: Nano-materials [production and properties]; Nano-processes [applications on nano-scale]; (biomaterials to be in Industrial biotechnology);
+ - D18: Food and beverages; Other engineering and technologies;
+ - D19: Anatomy and morphology (plant science to be biological studies); Human genetics; Immunology; Neurosciences (including psychophysiology); Pharmacology and pharmacy; Medicinal chemistry; Toxicology; Physiology (including cytology); Pathology;
+ - D20: Andrology; Obstetrics and gynaecology; Paediatrics; Cardiac and Cardiovascular systems; Peripheral vascular disease; Hematology; Respiratory systems; Critical care medicine and Emergency medicine; Anaesthesiology; Orthopaedics; Surgery; Radiology, nuclear medicine and medical imaging; Transplantation; Dentistry, oral surgery and medicine; Dermatology and venereal diseases; Allergy; Rheumatology; Endocrinology and metabolism (including diabetes, hormones); Gastroenterology and hepatology; Urology and nephrology; Oncology; Ophthalmology; Otorhinolaryngology; Psychiatry; Clinical neurology; Geriatrics and gerontology; General and internal medicine; other clinical medicine subjects; Integrative and complementary medicine (alternative practice systems);
+ - D21: Health care sciences and services (including hospital administration, health care financing); Health policy and services; Nursing; Nutrition, Dietetics; Public and environmental health; Tropical medicine; Parasitology; Infectious diseases; epidemiology; Occupational health; Sport and fitness sciences; Social biomedical sciences (includes family planning, sexual health, psycho-oncology, political and social effects of biomedical research); Medical ethics; Substance abuse;
+ - D22: Health-related biotechnology; Technologies involving the manipulation of cells, tissues, organs or the whole organism (assisted reproduction); Technologies involving identifying the functioning of DNA, proteins and enzymes and how they influence the onset of disease and maintenance of well-being (gene-based diagnostics and therapeutic interventions (pharmacogenomics, gene-based therapeutics); Biomaterials (as related to medical implants, devices, sensors); Medical biotechnology related ethics;
+ - D23: Forensic science; Other medical sciences
+ - D24: Agriculture; Forestry; Fishery; Soil science; Horticulture, viticulture; Agronomy, plant breeding and plant protection;
+ - D25: Animal and dairy science; Husbandry; Pets;
+ - D26: Veterinary science
+ - D27: Agricultural biotechnology and food biotechnology; GM technology (crops and livestock), livestock cloning, marker assisted selection, diagnostics (DNA chips and biosensing devices for the early/accurate detection of diseases) biomass feedstock production technologies, biopharming; agricultural biotechnology related ethics;
+ - D28: Other agricultural sciences
+ - D29: Psychology (including human - machine relations); Psychology, special (including therapy for learning, speech, hearing, visual and other physical and mental disabilities);
+ - D30: Economics, Econometrics; Industrial relations; Business and Management;
+ - D31: Education, general; including training, pedagogy, didactics; Education, special (to gifted persons, those with learning disabilities);
+ - D32: Sociology; Demography; Anthropology, ethnology; Social topics (Womenís and gender studies; Social issues; Family studies, Social work);
+ - D33: Law, criminology, penology;
+ - D34: Political science; public administration; organisation theory;
+ - D35: Environmental sciences (social aspects); Cultural and economic geography; Urban studies (Planning and development); Transport planning and social aspects of transport (transport engineering to be Civil Engineering);
+ - D36: Journalism; Information science (social aspects); Library science; Media and socio-cultural communication;
+ - D37: Social sciences, interdisciplinary; Other social sciences;
+ - D38: History (history of science and technology to be in Educational Sciences, history of specific sciences to be under the respective headings);
+ - D39: Archaeology;
+ - D40: General language studies; Specific languages; Linguistics;
+ - D41: General literature studies; Literary theory; Specific literatures;
+ - D42: Philosophy, History and philosophy of science and technology; Ethics (except ethics related to specific subfields);
+ - D43: Theology; Religious studies;
+ - D44: Arts, Art history; Architectural design; Performing arts studies (Musicology, Theater science, Dramaturgy); Folklore studies; Studies on Film, Radio and Television;
+ - D45: Other humanities
+Classify the following abstract in up to 3 disciplines from the list.
+Example of answer: "D40,D42"

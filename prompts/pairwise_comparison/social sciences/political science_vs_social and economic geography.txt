@@ -1,0 +1,3 @@
+Given the abstract '{}' and the disciplines 'political science' and 'social and economic geography', with the descriptions:
+'Political science; public administration; organisation theory' (for political science) and
+'Environmental sciences (social aspects); Cultural and economic geography; Urban studies (Planning and development); Transport planning and social aspects of transport (transport engineering to be Civil Engineering)' (for social and economic geography), which one is more relevant? Choose only one and only write your choice, no additional information. Choose only between 'political science' and 'social and economic geography'

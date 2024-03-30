@@ -1,0 +1,18 @@
+Given the following 11 classes: civil engineering;electrical engineering, electronic engineering, information engineering;mechanical engineering;chemical engineering;materials engineering;medical engineering;environmental engineering;environmental biotechnology;industrial biotechnology;nano-technology;other engineering and technologies 
+The classes description: 
+civil engineering: Civil engineering; Architecture engineering; Construction engineering, Municipal and structural engineering; Transport engineering 
+electrical engineering, electronic engineering, information engineering: Electrical and electronic engineering; Robotics and automatic control; Automation and control systems; Communication engineering and systems; telecommunications; Computer hardware and architecture 
+mechanical engineering: Mechanical engineering; Applied mechanics; Thermodynamics; Aerospace engineering; Nuclear related engineering; (nuclear physics to be in Physical sciences); Audio engineering, reliability analysis 
+chemical engineering: Chemical engineering (plants, products); Chemical process engineering 
+materials engineering: Materials engineering; Ceramics; Coating and films; Composites (including laminates, reinforced plastics, cermets, combined natural and synthetic fibre fabrics; filled composites); Paper and wood; textiles; including synthetic dyes, colours, fibres; (nanoscale materials to be in Nano-technology; biomaterials to be in Industrial biotechnology) 
+medical engineering: Medical engineering; Medical laboratory technology (including laboratory samples analysis; diagnostic technologies); (Biomaterials to be in Industrial biotechnology [physical characteristics of living material as related to medical implants, devices, sensors]) 
+environmental engineering: Environmental and geological engineering, geotechnics; Petroleum engineering, (fuel, oils), Energy and fuels; Remote sensing; Mining and mineral processing; Marine engineering, sea vessels; Ocean engineering 
+environmental biotechnology: Environmental biotechnology; Bioremediation, diagnostic biotechnologies (DNA chips and biosensing devices) in environmental management; environmental biotechnology related ethics 
+industrial biotechnology: Industrial biotechnology; Bioprocessing technologies (industrial processes relying on biological agents to drive the process) biocatalysis, fermentation; bioproducts (products that are manufactured using biological material as feedstock) biomaterials, bioplastics, biofuels, bioderived bulk and fine chemicals, bio-derived novel materials 
+nano-technology: Nano-materials [production and properties]; Nano-processes [applications on nano-scale]; (biomaterials to be in Industrial biotechnology) 
+other engineering and technologies: Food and beverages; Other engineering and technologies 
+Return the most relevant classes for the FOLLOWING abstract. Return ONLY THE CLASSES separated by "&" in the ORDER OF RELEVANCE WITH THEIR RELEVANCE SCORE (between 0 and 100) in one line and never any aditional context: 
+{} 
+Please, DON'T RETURN OTHER CLASSES, ONLY A SUBSET OF THE 11, otherwise the result is invalid!!! The results of my study depends on it.
+ DON'T RETURN MORE THAN FIVE RESULTS. ONLY THE MOST RELEVANT AND MAX 5 (1,2,3,4,5 RESULTS)!!!! 
+Example of answer: "environmental engineering:70&industrial biotechnology:60" 

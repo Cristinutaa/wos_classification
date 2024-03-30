@@ -1,0 +1,1847 @@
+Discipline: Psychology
+  Psychology: 5.816015849683645
+  Clinical medicine: 4.003860164887838
+  Health sciences: 3.173860803987985
+  Basic medicine: 2.8260113759826164
+  Sociology: 1.6439700901131207
+  Economics and business: 1.488170256279159
+  Educational sciences: 1.1432223429411388
+  Computer and information sciences: 0.8286955965999873
+  Biological sciences: 0.7071643126477919
+  Electrical engineering, electronic engineering, information engineering: 0.49227327922285424
+  Languages and linguistics: 0.436147504313926
+  Social and economic geography: 0.42869559659998724
+  Earth and related environmental sciences: 0.4089729660637822
+  Media and communications: 0.36916980890905604
+  Other engineering and technologies: 0.35977503674825845
+  Mathematics: 0.28263564900619925
+  Law: 0.2509362817153448
+  Political Science: 0.23343771969067553
+  Other social sciences: 0.1823224899341727
+  Civil engineering: 0.17901195117274876
+  Philosophy and ethics: 0.17712021473764938
+  Physical sciences: 0.16672844634754266
+  Chemical sciences: 0.1622675273215313
+  Environmental engineering: 0.1543299034958778
+  Mechanical engineering: 0.102843995654119
+  Materials engineering: 0.10085000319550073
+  Art (arts, history of arts, performing arts, music): 0.08186872882980763
+  Agriculture, forestry, and fisheries: 0.07862210008308301
+  History: 0.07324087684540168
+  Veterinary science: 0.07196267655141561
+  Medical engineering: 0.05272576212692529
+  Religion: 0.04445580622483543
+  Chemical engineering: 0.04164376557806608
+  Environmental biotechnology: 0.04081293538697514
+  Nano-technology: 0.04055729532817792
+  Animal and dairy science: 0.036914424490317635
+  Literature: 0.02680386016488784
+  Other humanities: 0.024682047676870964
+  Other agricultural sciences: 0.011785006710551544
+  Industrial Biotechnology: 0.006825589569885601
+  Archaeology: 0.005189493193583435
+  Health biotechnology: 0.0024669265673931103
+
+Discipline: Educational sciences
+  Educational sciences: 5.3530013483981955
+  Psychology: 3.995443344027526
+  Health sciences: 2.7979262565676293
+  Clinical medicine: 2.0796484865392664
+  Sociology: 1.470544473892221
+  Economics and business: 1.1898916631794298
+  Computer and information sciences: 1.1227042358301949
+  Languages and linguistics: 1.0604919328590692
+  Basic medicine: 0.8227553819686614
+  Electrical engineering, electronic engineering, information engineering: 0.5421955642349002
+  Social and economic geography: 0.4737992281582741
+  Earth and related environmental sciences: 0.46752220207374345
+  Biological sciences: 0.3501650625377784
+  Other engineering and technologies: 0.34890965732087226
+  Media and communications: 0.34560840656530434
+  Mathematics: 0.2662388989631283
+  Political Science: 0.24280466824754732
+  Chemical sciences: 0.22866973543497465
+  Physical sciences: 0.18407960199004975
+  Other social sciences: 0.16283070628167573
+  Environmental engineering: 0.1565071837076301
+  History: 0.1487422699586181
+  Philosophy and ethics: 0.14525503324499
+  Art (arts, history of arts, performing arts, music): 0.13321244246059422
+  Law: 0.12684242339703353
+  Civil engineering: 0.10829032408053192
+  Materials engineering: 0.1062444785418701
+  Mechanical engineering: 0.09387641233086902
+  Veterinary science: 0.04682196494164691
+  Agriculture, forestry, and fisheries: 0.04672897196261682
+  Nano-technology: 0.044962105361045245
+  Literature: 0.043055749290928536
+  Chemical engineering: 0.03910354768215
+  Religion: 0.03901055470311991
+  Environmental biotechnology: 0.03556981447900683
+  Other humanities: 0.0332914864927698
+  Medical engineering: 0.02887431998884084
+  Animal and dairy science: 0.01064769609894453
+  Other agricultural sciences: 0.0072069558748314505
+  Industrial Biotechnology: 0.005905054168410285
+  Archaeology: 0.004556655972474078
+  Health biotechnology: 0.0029757753289626635
+
+Discipline: Health sciences
+  Health sciences: 5.631349225382512
+  Clinical medicine: 5.145608902105616
+  Basic medicine: 2.7624538347162932
+  Psychology: 2.3854093721521417
+  Biological sciences: 1.8626121156890019
+  Sociology: 1.0780085375797401
+  Economics and business: 0.7819655618974531
+  Other engineering and technologies: 0.7729195644875054
+  Earth and related environmental sciences: 0.6175835771499832
+  Computer and information sciences: 0.6134203079284378
+  Chemical sciences: 0.611578492973284
+  Educational sciences: 0.6038754856348026
+  Electrical engineering, electronic engineering, information engineering: 0.39610532879274785
+  Social and economic geography: 0.3767758645498585
+  Mathematics: 0.29167825795002156
+  Environmental engineering: 0.24493261067677108
+  Veterinary science: 0.21715190176986907
+  Agriculture, forestry, and fisheries: 0.21668185524485586
+  Media and communications: 0.18389371192862966
+  Civil engineering: 0.17847378771164085
+  Physical sciences: 0.17164372391961244
+  Medical engineering: 0.17126960525684684
+  Environmental biotechnology: 0.16525492829392296
+  Materials engineering: 0.15016547556237708
+  Mechanical engineering: 0.147661758357715
+  Languages and linguistics: 0.14683677874238574
+  Law: 0.14137848338049785
+  Political Science: 0.1398244520120869
+  Other social sciences: 0.11806801285433353
+  Chemical engineering: 0.09219626840615856
+  Philosophy and ethics: 0.08593217900139095
+  Nano-technology: 0.07042064367595569
+  Animal and dairy science: 0.06582569907429613
+  History: 0.04353206388795626
+  Art (arts, history of arts, performing arts, music): 0.02966089500695477
+  Other agricultural sciences: 0.02466305338385534
+  Religion: 0.02381888819607655
+  Industrial Biotechnology: 0.02145906278478584
+  Literature: 0.012393879802388603
+  Other humanities: 0.011309894958990839
+  Health biotechnology: 0.006609429708858938
+  Archaeology: 0.005362367499640271
+
+Discipline: Other engineering and technologies
+  Other engineering and technologies: 4.847544474071715
+  Electrical engineering, electronic engineering, information engineering: 2.7449755243363714
+  Chemical sciences: 2.3732538703386794
+  Computer and information sciences: 2.094241254427508
+  Mechanical engineering: 1.731484060970271
+  Biological sciences: 1.7109981295021293
+  Materials engineering: 1.6543658216261392
+  Earth and related environmental sciences: 1.6308652047598202
+  Physical sciences: 1.4581326859553467
+  Environmental engineering: 1.4171508735623035
+  Economics and business: 0.8726270545628209
+  Health sciences: 0.8233374457754606
+  Basic medicine: 0.7735205157798384
+  Civil engineering: 0.6999741314124249
+  Mathematics: 0.6939348111593107
+  Clinical medicine: 0.6446651012854698
+  Agriculture, forestry, and fisheries: 0.5909579336968201
+  Chemical engineering: 0.4661618975603932
+  Nano-technology: 0.46207267083217257
+  Environmental biotechnology: 0.292752815696263
+  Psychology: 0.2887929319059179
+  Social and economic geography: 0.2567656305965694
+  Animal and dairy science: 0.1632606359692761
+  Medical engineering: 0.14093405500059697
+  Sociology: 0.09840012735304653
+  Veterinary science: 0.09469892943845266
+  Educational sciences: 0.07746647033071995
+  Media and communications: 0.057766545946591315
+  Other agricultural sciences: 0.050543240339077485
+  Industrial Biotechnology: 0.04681219405420464
+  Political Science: 0.03313169100967087
+  Languages and linguistics: 0.03236558283917698
+  Other social sciences: 0.02751024794046245
+  Philosophy and ethics: 0.018555736856767622
+  Law: 0.012536315517172762
+  History: 0.01240697257929717
+  Art (arts, history of arts, performing arts, music): 0.0120686910494687
+  Archaeology: 0.009790265451506347
+  Other humanities: 0.0044573566283280935
+  Literature: 0.003303219644207426
+  Religion: 0.0029947864846579376
+  Health biotechnology: 0.0027361006089067536
+
+Discipline: Chemical sciences
+  Chemical sciences: 6.894837000278131
+  Materials engineering: 4.259694348074305
+  Physical sciences: 3.5373135420783743
+  Nano-technology: 2.811631753838947
+  Environmental engineering: 2.7299196346229855
+  Chemical engineering: 1.7928066400245928
+  Other engineering and technologies: 1.768104167581573
+  Biological sciences: 1.7067908011652249
+  Earth and related environmental sciences: 1.5199156822273945
+  Mechanical engineering: 1.0026495688961106
+  Basic medicine: 0.9974089851126433
+  Clinical medicine: 0.5750003659625547
+  Health sciences: 0.5191910763690659
+  Electrical engineering, electronic engineering, information engineering: 0.4963184166996033
+  Environmental biotechnology: 0.4037518481109013
+  Agriculture, forestry, and fisheries: 0.376685257564446
+  Computer and information sciences: 0.3578089089924319
+  Civil engineering: 0.2719101781505716
+  Mathematics: 0.2662304393014507
+  Industrial Biotechnology: 0.17490814339876745
+  Medical engineering: 0.13555253026510328
+  Economics and business: 0.11104035835053358
+  Psychology: 0.10271836985639629
+  Other agricultural sciences: 0.07292169865179395
+  Social and economic geography: 0.06412395883653185
+  Animal and dairy science: 0.04453764290837761
+  Veterinary science: 0.04410580709381816
+  Sociology: 0.04319090070703965
+  Educational sciences: 0.04092925211892319
+  Media and communications: 0.015421662055538478
+  Languages and linguistics: 0.013972450338881325
+  Archaeology: 0.011783994261707143
+  Political Science: 0.009456472413742626
+  Health biotechnology: 0.00917834087216196
+  Philosophy and ethics: 0.00880505906635633
+  Other social sciences: 0.007970664441614334
+  History: 0.0065434104782398665
+  Law: 0.0052405837834672755
+  Art (arts, history of arts, performing arts, music): 0.0038938415821293164
+  Other humanities: 0.0021006250640434473
+  Religion: 0.0018298127735570096
+  Literature: 0.001720024007143589
+
+Discipline: Environmental engineering
+  Environmental engineering: 6.120692063618766
+  Earth and related environmental sciences: 4.557382610604458
+  Chemical sciences: 3.4300652551336035
+  Materials engineering: 2.453423400051885
+  Chemical engineering: 2.2993055416974317
+  Mechanical engineering: 2.0742651314082736
+  Physical sciences: 1.8752669074654267
+  Other engineering and technologies: 1.318632635549081
+  Civil engineering: 1.2732234439544212
+  Electrical engineering, electronic engineering, information engineering: 1.1936101853884378
+  Nano-technology: 1.181117918221548
+  Computer and information sciences: 0.8435672806369859
+  Biological sciences: 0.7833808944144001
+  Economics and business: 0.7024006705114646
+  Social and economic geography: 0.6131388317934187
+  Environmental biotechnology: 0.4833769032747301
+  Agriculture, forestry, and fisheries: 0.35711719981640755
+  Mathematics: 0.2696912853465307
+  Basic medicine: 0.24981540979026562
+  Health sciences: 0.23762247809862105
+  Clinical medicine: 0.2292710183392868
+  Other agricultural sciences: 0.2149328490750534
+  Psychology: 0.1148550218514897
+  Sociology: 0.0753826505158548
+  Political Science: 0.038694099099998006
+  Medical engineering: 0.03686815270100377
+  Educational sciences: 0.030602063419209354
+  Media and communications: 0.025233980563149808
+  Other social sciences: 0.025084312825527328
+  Industrial Biotechnology: 0.022140847318951926
+  Animal and dairy science: 0.02164195486021033
+  Veterinary science: 0.018987846979705056
+  Languages and linguistics: 0.012671868452036479
+  Philosophy and ethics: 0.01054658657779729
+  Law: 0.008321526211809782
+  Art (arts, history of arts, performing arts, music): 0.006904671628983656
+  Archaeology: 0.006665203248787692
+  History: 0.006635269701263196
+  Other humanities: 0.00207539262836503
+  Religion: 0.0017860350022949052
+  Literature: 0.0013070982419029753
+  Health biotechnology: 0.0012172975993294886
+
+Discipline: Earth and related environmental sciences
+  Earth and related environmental sciences: 6.060685970650183
+  Environmental engineering: 3.9284919262316134
+  Biological sciences: 1.7452524872001234
+  Chemical sciences: 1.5657887977533862
+  Other engineering and technologies: 1.335784859329783
+  Chemical engineering: 1.3353482080172605
+  Social and economic geography: 1.2698248257675646
+  Civil engineering: 1.2264764807616568
+  Economics and business: 1.1731365263103821
+  Agriculture, forestry, and fisheries: 1.1575198205448722
+  Mechanical engineering: 1.1425709344338089
+  Electrical engineering, electronic engineering, information engineering: 0.9953595095806435
+  Materials engineering: 0.9498450315930067
+  Computer and information sciences: 0.9428671723830887
+  Physical sciences: 0.6063802462370931
+  Health sciences: 0.5329457696193428
+  Clinical medicine: 0.44170276888302884
+  Environmental biotechnology: 0.42070925872018355
+  Basic medicine: 0.41804654189284063
+  Mathematics: 0.33623007243274716
+  Psychology: 0.2747649788523776
+  Sociology: 0.2565026798404082
+  Other agricultural sciences: 0.18585934690662512
+  Nano-technology: 0.18288840562338396
+  Political Science: 0.1292487885066525
+  Other social sciences: 0.09941951060805836
+  Educational sciences: 0.0908063494237915
+  Media and communications: 0.06954742375725612
+  Veterinary science: 0.048673778660593504
+  Archaeology: 0.0483227452524872
+  Animal and dairy science: 0.04341683932944057
+  Medical engineering: 0.04290313190294354
+  Philosophy and ethics: 0.02773163924039795
+  Languages and linguistics: 0.025445641192486174
+  History: 0.025111731365263103
+  Law: 0.024349732015959177
+  Industrial Biotechnology: 0.020770903611363207
+  Art (arts, history of arts, performing arts, music): 0.0171235808832343
+  Other humanities: 0.0072261511327248755
+  Literature: 0.006078871213548177
+  Religion: 0.005145636055411908
+  Health biotechnology: 0.0016609873456737273
+
+Discipline: History
+  Sociology: 2.4890050745809624
+  History: 1.8333077041365524
+  Economics and business: 1.7927110564354913
+  Psychology: 1.630478240811933
+  Social and economic geography: 1.5554359526372443
+  Political Science: 1.4906966015685068
+  Health sciences: 1.2052898662155929
+  Philosophy and ethics: 0.9946178686759957
+  Clinical medicine: 0.8954328771336306
+  Educational sciences: 0.8396124865446717
+  Earth and related environmental sciences: 0.813778256189451
+  Computer and information sciences: 0.7853298477625711
+  Biological sciences: 0.695678917422728
+  Basic medicine: 0.589881593110872
+  Mathematics: 0.5192987851760725
+  Media and communications: 0.490542826387821
+  Electrical engineering, electronic engineering, information engineering: 0.48746732277410426
+  Art (arts, history of arts, performing arts, music): 0.44687067507304323
+  Law: 0.4299554051976011
+  Religion: 0.4282638782100569
+  Other social sciences: 0.4031985237582654
+  Literature: 0.39304936183300015
+  Other engineering and technologies: 0.37521144087344305
+  Languages and linguistics: 0.3647547285868061
+  Physical sciences: 0.28371520836536984
+  Other humanities: 0.2738735968014762
+  Environmental engineering: 0.2465016146393972
+  Chemical sciences: 0.22128248500691988
+  Civil engineering: 0.16930647393510687
+  Mechanical engineering: 0.16146393972012918
+  Materials engineering: 0.15900353682915577
+  Agriculture, forestry, and fisheries: 0.14562509610948793
+  Archaeology: 0.13701368599108105
+  Veterinary science: 0.06412425034599416
+  Chemical engineering: 0.057819467937874826
+  Environmental biotechnology: 0.057819467937874826
+  Nano-technology: 0.05243733661387052
+  Animal and dairy science: 0.0345994156543134
+  Other agricultural sciences: 0.03137013685991081
+  Medical engineering: 0.031062586498539137
+  Industrial Biotechnology: 0.007688759034291865
+  Health biotechnology: 0.0004613255420575119
+
+Discipline: Agriculture, forestry, and fisheries
+  Biological sciences: 5.9338134242207685
+  Agriculture, forestry, and fisheries: 5.70595349348579
+  Earth and related environmental sciences: 3.7967676323456656
+  Other engineering and technologies: 1.6281128030344676
+  Chemical sciences: 1.2572425924907922
+  Environmental engineering: 0.9545654444505525
+  Basic medicine: 0.8045736902864054
+  Health sciences: 0.6057391017536145
+  Environmental biotechnology: 0.5319663569897202
+  Social and economic geography: 0.47471277005112417
+  Computer and information sciences: 0.4437359133637513
+  Materials engineering: 0.41248419548128196
+  Clinical medicine: 0.41171458413501183
+  Electrical engineering, electronic engineering, information engineering: 0.3487988565774284
+  Civil engineering: 0.3148260128635039
+  Economics and business: 0.29929635534055304
+  Veterinary science: 0.26664284536309163
+  Mechanical engineering: 0.26122807981969104
+  Chemical engineering: 0.24811720081358915
+  Physical sciences: 0.2375900170413941
+  Animal and dairy science: 0.1940245176186026
+  Mathematics: 0.17772524874938156
+  Psychology: 0.16296520257270078
+  Other agricultural sciences: 0.15463690836127755
+  Sociology: 0.10103897531746468
+  Nano-technology: 0.0954592930570062
+  Political Science: 0.05315815513165851
+  Medical engineering: 0.03974492881095047
+  Educational sciences: 0.03155406519707548
+  Other social sciences: 0.027321202792589743
+  Media and communications: 0.023583090539277665
+  Industrial Biotechnology: 0.020092353361552417
+  Languages and linguistics: 0.017673574844703426
+  History: 0.01286350393051509
+  Archaeology: 0.011599142433071299
+  Law: 0.010911989445330108
+  Philosophy and ethics: 0.009015447199164422
+  Art (arts, history of arts, performing arts, music): 0.006404265845747897
+  Literature: 0.004095431806937497
+  Health biotechnology: 0.0032158759826287726
+  Religion: 0.0025562091143972294
+  Other humanities: 0.0020889450827332196
+
+Discipline: Biological sciences
+  Biological sciences: 6.0077248802881
+  Basic medicine: 2.8084926194150936
+  Clinical medicine: 2.2644425976492935
+  Agriculture, forestry, and fisheries: 1.7516324349994064
+  Chemical sciences: 1.74352764256599
+  Earth and related environmental sciences: 1.6799319324072974
+  Health sciences: 1.5626973762317464
+  Other engineering and technologies: 1.3735723613914281
+  Environmental biotechnology: 0.9792789584075349
+  Environmental engineering: 0.6537259092168269
+  Computer and information sciences: 0.6443468281293284
+  Mathematics: 0.4996873639637501
+  Psychology: 0.4685424828841664
+  Materials engineering: 0.43807036289524715
+  Physical sciences: 0.4307333095888243
+  Veterinary science: 0.41043175432347934
+  Electrical engineering, electronic engineering, information engineering: 0.410083501523606
+  Social and economic geography: 0.3514345640903874
+  Nano-technology: 0.31887292730222805
+  Economics and business: 0.27754956666270925
+  Chemical engineering: 0.23926550318572162
+  Animal and dairy science: 0.23205508726107088
+  Mechanical engineering: 0.22628517155407812
+  Medical engineering: 0.2024852586172781
+  Sociology: 0.17932644742569948
+  Civil engineering: 0.16574458823063834
+  Industrial Biotechnology: 0.10431754323479361
+  Other agricultural sciences: 0.0923423958209664
+  Educational sciences: 0.07363963750049468
+  Health biotechnology: 0.06989591990185604
+  Political Science: 0.05009299932723891
+  Media and communications: 0.041671613439392144
+  Languages and linguistics: 0.03784874747714591
+  Other social sciences: 0.02816098777157782
+  Philosophy and ethics: 0.025762792354268076
+  History: 0.02466263010012268
+  Law: 0.019153903993034942
+  Archaeology: 0.018473228066009734
+  Art (arts, history of arts, performing arts, music): 0.010906644505124857
+  Literature: 0.006743440579366022
+  Religion: 0.005192132652657406
+  Other humanities: 0.00485970952550556
+
+Discipline: Computer and information sciences
+  Computer and information sciences: 6.04570081758792
+  Electrical engineering, electronic engineering, information engineering: 5.317822634276102
+  Other engineering and technologies: 2.0200778468880802
+  Mathematics: 1.6842311152838085
+  Economics and business: 1.3328639048624966
+  Earth and related environmental sciences: 1.096330634119626
+  Environmental engineering: 0.8757188123459688
+  Mechanical engineering: 0.837049642060791
+  Clinical medicine: 0.8311915659351407
+  Physical sciences: 0.808825255251731
+  Civil engineering: 0.7760532801314399
+  Biological sciences: 0.7316140515588937
+  Psychology: 0.6368383992489145
+  Health sciences: 0.6060517153698706
+  Basic medicine: 0.5534463873567265
+  Chemical sciences: 0.43445604975941793
+  Materials engineering: 0.3531080076673317
+  Social and economic geography: 0.3310937683370496
+  Medical engineering: 0.26209756288385555
+  Media and communications: 0.258880021906662
+  Educational sciences: 0.25176035676563785
+  Sociology: 0.20185424245980518
+  Chemical engineering: 0.15169385439893596
+  Agriculture, forestry, and fisheries: 0.14767437311739623
+  Environmental biotechnology: 0.11818839729296249
+  Languages and linguistics: 0.10457497163869656
+  Nano-technology: 0.09088330790595783
+  Political Science: 0.06461487305871767
+  Philosophy and ethics: 0.06401830771036264
+  Other social sciences: 0.05074717364941517
+  Law: 0.031402808747017175
+  History: 0.027715839298986817
+  Art (arts, history of arts, performing arts, music): 0.025251339827093846
+  Veterinary science: 0.02500684583186637
+  Other agricultural sciences: 0.01767202597504205
+  Animal and dairy science: 0.017613347416187457
+  Industrial Biotechnology: 0.013994836286820796
+  Other humanities: 0.008166099440597738
+  Literature: 0.006689355709423777
+  Religion: 0.004762743027031256
+  Archaeology: 0.0044400109533309865
+  Health biotechnology: 0.0025133982709384657
+
+Discipline: Basic medicine
+  Basic medicine: 5.349607890209259
+  Clinical medicine: 5.211819309406634
+  Biological sciences: 3.614812147401272
+  Health sciences: 2.915826431400792
+  Psychology: 2.2419677509702716
+  Chemical sciences: 1.280468531188733
+  Other engineering and technologies: 0.779198175489137
+  Computer and information sciences: 0.5831432801184332
+  Earth and related environmental sciences: 0.5279878365942464
+  Sociology: 0.4627595726803505
+  Electrical engineering, electronic engineering, information engineering: 0.39490057216020485
+  Environmental biotechnology: 0.3315228263913896
+  Agriculture, forestry, and fisheries: 0.3306725883247309
+  Physical sciences: 0.321019885567959
+  Materials engineering: 0.320289681110711
+  Economics and business: 0.28112871604049133
+  Mathematics: 0.2753470971872124
+  Environmental engineering: 0.2712459488656824
+  Veterinary science: 0.2650042011763294
+  Medical engineering: 0.24348817668947306
+  Nano-technology: 0.24016724682911214
+  Educational sciences: 0.20638778858080262
+  Mechanical engineering: 0.15362301444404433
+  Languages and linguistics: 0.1521726083303325
+  Chemical engineering: 0.14177969831552834
+  Social and economic geography: 0.10310887048373545
+  Civil engineering: 0.1009382627135598
+  Animal and dairy science: 0.08718441163525788
+  Industrial Biotechnology: 0.08519385427919818
+  Media and communications: 0.07588124674908975
+  Law: 0.07542111791301565
+  Health biotechnology: 0.0667086784299604
+  Philosophy and ethics: 0.04925379106149722
+  Political Science: 0.04074140759412635
+  Other social sciences: 0.035459928780058415
+  History: 0.021916136518225104
+  Art (arts, history of arts, performing arts, music): 0.021666066498619612
+  Other agricultural sciences: 0.018485175849237787
+  Religion: 0.010682991237546513
+  Other humanities: 0.008352338654823351
+  Literature: 0.008082263033649421
+  Archaeology: 0.004201176329372224
+
+Discipline: Sociology
+  Sociology: 3.9184664717532773
+  Psychology: 3.3172215410732813
+  Health sciences: 2.858035461661794
+  Clinical medicine: 2.3576110534754315
+  Economics and business: 2.3375695557860983
+  Social and economic geography: 1.356149203055739
+  Basic medicine: 1.1494624162972744
+  Political Science: 0.9953315099500142
+  Educational sciences: 0.8537913797981703
+  Earth and related environmental sciences: 0.8524002640762048
+  Mathematics: 0.6356219937753466
+  Computer and information sciences: 0.6163114212958597
+  Law: 0.5769121946618881
+  Biological sciences: 0.5670564934452513
+  Media and communications: 0.44904743940394226
+  Electrical engineering, electronic engineering, information engineering: 0.36996604734509103
+  Other social sciences: 0.3564321418466472
+  Other engineering and technologies: 0.28888050551730643
+  History: 0.2666933886635858
+  Environmental engineering: 0.2383051966424597
+  Philosophy and ethics: 0.23773931906064322
+  Languages and linguistics: 0.1964302555880411
+  Civil engineering: 0.1946147316797133
+  Art (arts, history of arts, performing arts, music): 0.1597425257002735
+  Chemical sciences: 0.137696878242007
+  Physical sciences: 0.1303640479109686
+  Religion: 0.11173724417617656
+  Archaeology: 0.10878996510421579
+  Agriculture, forestry, and fisheries: 0.10770536640573422
+  Mechanical engineering: 0.09744883523531075
+  Materials engineering: 0.091271338300481
+  Literature: 0.08026030368763558
+  Other humanities: 0.07000377251721211
+  Veterinary science: 0.05441856078468358
+  Chemical engineering: 0.04137979817032915
+  Environmental biotechnology: 0.03765443742337075
+  Other agricultural sciences: 0.03183061397717627
+  Nano-technology: 0.02798736206733943
+  Medical engineering: 0.025676695274922192
+  Animal and dairy science: 0.02355465434311044
+  Industrial Biotechnology: 0.008346694331792888
+  Health biotechnology: 0.0017212109780250873
+
+Discipline: Languages and linguistics
+  Languages and linguistics: 4.106033671442016
+  Psychology: 3.754888633274077
+  Educational sciences: 2.5580884659625642
+  Clinical medicine: 2.2636202028652095
+  Health sciences: 1.6728014221478615
+  Basic medicine: 1.5719962354909547
+  Computer and information sciences: 1.3177873052389417
+  Electrical engineering, electronic engineering, information engineering: 0.9731255882045383
+  Sociology: 0.8860190316846178
+  Physical sciences: 0.7269685245215937
+  Economics and business: 0.6138241137718289
+  Biological sciences: 0.5679180173585695
+  Mathematics: 0.44839485517097144
+  Media and communications: 0.4237164069852557
+  Earth and related environmental sciences: 0.40667154658579946
+  Other engineering and technologies: 0.38565303774966014
+  Mechanical engineering: 0.32238837184983793
+  Social and economic geography: 0.30555265084178607
+  Political Science: 0.25284952420788454
+  Philosophy and ethics: 0.24877130607549933
+  Chemical sciences: 0.22984419115340374
+  Environmental engineering: 0.2172958276691415
+  Materials engineering: 0.20746627627313605
+  History: 0.17180801003869078
+  Civil engineering: 0.1630241555997072
+  Art (arts, history of arts, performing arts, music): 0.13280351354177558
+  Literature: 0.1190003137090871
+  Law: 0.1089616229216773
+  Other social sciences: 0.10634738052912265
+  Agriculture, forestry, and fisheries: 0.09223047160932761
+  Nano-technology: 0.06797030220642059
+  Medical engineering: 0.06284638711701349
+  Other humanities: 0.06284638711701349
+  Chemical engineering: 0.06221896894280038
+  Religion: 0.05584021750496706
+  Environmental biotechnology: 0.05510822963505176
+  Veterinary science: 0.034089720798912475
+  Animal and dairy science: 0.017985987660775908
+  Archaeology: 0.0136986301369863
+  Industrial Biotechnology: 0.01328035135417756
+  Other agricultural sciences: 0.00836557565617484
+  Health biotechnology: 0.0017776848269371536
+
+Discipline: Social and economic geography
+  Social and economic geography: 4.503397734843437
+  Earth and related environmental sciences: 3.9970153231179215
+  Economics and business: 3.8105529646902063
+  Environmental engineering: 1.675203197868088
+  Sociology: 1.4881545636242506
+  Civil engineering: 1.1872085276482345
+  Biological sciences: 1.0911125916055964
+  Psychology: 1.059586942038641
+  Health sciences: 1.0562558294470352
+  Computer and information sciences: 0.9614123917388407
+  Political Science: 0.87363091272485
+  Electrical engineering, electronic engineering, information engineering: 0.7311125916055963
+  Other engineering and technologies: 0.6952431712191872
+  Clinical medicine: 0.5761758827448368
+  Other social sciences: 0.48674217188540975
+  Agriculture, forestry, and fisheries: 0.3893937375083278
+  Educational sciences: 0.3487008660892738
+  Mathematics: 0.34033311125916055
+  Basic medicine: 0.2866089273817455
+  Media and communications: 0.2717121918720853
+  Mechanical engineering: 0.2643570952698201
+  Materials engineering: 0.19077948034643571
+  History: 0.18835443037974683
+  Chemical sciences: 0.18608927381745502
+  Law: 0.1837974683544304
+  Physical sciences: 0.17009993337774817
+  Chemical engineering: 0.14361092604930048
+  Philosophy and ethics: 0.1238640906062625
+  Art (arts, history of arts, performing arts, music): 0.10598267821452365
+  Languages and linguistics: 0.07741505662891406
+  Other agricultural sciences: 0.06819453697534977
+  Environmental biotechnology: 0.049193870752831444
+  Other humanities: 0.047834776815456365
+  Literature: 0.04495669553630913
+  Religion: 0.04042638241172552
+  Veterinary science: 0.03712191872085276
+  Nano-technology: 0.0338707528314457
+  Animal and dairy science: 0.020066622251832113
+  Archaeology: 0.019053964023984012
+  Medical engineering: 0.018147901399067287
+  Industrial Biotechnology: 0.004903397734843437
+  Health biotechnology: 0.0004530313124583611
+
+Discipline: Chemical engineering
+  Environmental engineering: 5.655386323589756
+  Chemical sciences: 5.51524294576263
+  Chemical engineering: 5.371430640372686
+  Earth and related environmental sciences: 3.811726085592218
+  Materials engineering: 2.5046465036568586
+  Mechanical engineering: 2.2937555818388087
+  Physical sciences: 1.6242245769871346
+  Other engineering and technologies: 1.072992348355017
+  Biological sciences: 0.7191339399937242
+  Nano-technology: 0.7005479253662893
+  Environmental biotechnology: 0.4868811701947911
+  Electrical engineering, electronic engineering, information engineering: 0.4547056409761278
+  Civil engineering: 0.4505298221052886
+  Computer and information sciences: 0.3792753868063434
+  Basic medicine: 0.3263897270028241
+  Mathematics: 0.26013179174008544
+  Agriculture, forestry, and fisheries: 0.24743537135822732
+  Clinical medicine: 0.2422699075526805
+  Health sciences: 0.23478722633903787
+  Economics and business: 0.2053151174298197
+  Other agricultural sciences: 0.17912573318207053
+  Social and economic geography: 0.13835718940838543
+  Psychology: 0.07977503680996403
+  Industrial Biotechnology: 0.043882304665813804
+  Medical engineering: 0.04296507277510922
+  Sociology: 0.034637572714765016
+  Animal and dairy science: 0.022472181322262183
+  Educational sciences: 0.01933428274879915
+  Veterinary science: 0.017620507374061647
+  Media and communications: 0.01129643486446692
+  Languages and linguistics: 0.010886094281783292
+  Political Science: 0.009775760940404065
+  Philosophy and ethics: 0.006155108740254411
+  Other social sciences: 0.005479253662893142
+  Law: 0.004368920321513915
+  Archaeology: 0.004151681189504936
+  History: 0.0035723768374809916
+  Art (arts, history of arts, performing arts, music): 0.0023654927707644404
+  Religion: 0.0014723985613941924
+  Health biotechnology: 0.000989644934707572
+  Literature: 0.0009172318907045789
+  Other humanities: 0.0008689565280359169
+
+Discipline: Clinical medicine
+  Clinical medicine: 6.695050824862523
+  Health sciences: 4.043212494887216
+  Basic medicine: 3.914499098635076
+  Psychology: 2.363613640150884
+  Biological sciences: 2.1749481147081546
+  Sociology: 0.7118889276029753
+  Computer and information sciences: 0.6521185862962233
+  Chemical sciences: 0.5592249776552393
+  Other engineering and technologies: 0.4870779112572147
+  Electrical engineering, electronic engineering, information engineering: 0.4662253260820166
+  Medical engineering: 0.4217327415127782
+  Economics and business: 0.4136962021481268
+  Earth and related environmental sciences: 0.4112572147066398
+  Educational sciences: 0.36193967672054655
+  Physical sciences: 0.2805744497129266
+  Materials engineering: 0.2526472860583842
+  Mathematics: 0.22553059338595083
+  Environmental engineering: 0.20198906242898912
+  Mechanical engineering: 0.1923391555952796
+  Veterinary science: 0.18081077396191544
+  Environmental biotechnology: 0.16558603869052127
+  Languages and linguistics: 0.1604656799624305
+  Social and economic geography: 0.15626940964384725
+  Nano-technology: 0.1384466225326082
+  Agriculture, forestry, and fisheries: 0.12883458817469814
+  Industrial Biotechnology: 0.117677356804169
+  Media and communications: 0.11153444122949205
+  Civil engineering: 0.10692914817227432
+  Law: 0.09110602778324825
+  Chemical engineering: 0.08314523337019587
+  Political Science: 0.06344397145930224
+  Health biotechnology: 0.05830088924573177
+  Animal and dairy science: 0.05548317704624987
+  Philosophy and ethics: 0.05532411264789202
+  Other social sciences: 0.044477435578918666
+  History: 0.024283831482631683
+  Art (arts, history of arts, performing arts, music): 0.02096620260259654
+  Religion: 0.015270182242353547
+  Other agricultural sciences: 0.012967535713744678
+  Other humanities: 0.00868794594840254
+  Literature: 0.008544030540364485
+  Archaeology: 0.004135674357304085
+
+Discipline: Electrical engineering, electronic engineering, information engineering
+  Electrical engineering, electronic engineering, information engineering: 6.671349988084836
+  Computer and information sciences: 5.377085153705616
+  Other engineering and technologies: 2.6968285805067915
+  Physical sciences: 1.4255699420128685
+  Environmental engineering: 1.25130073874017
+  Mathematics: 1.1882595917070458
+  Earth and related environmental sciences: 1.1805345936929066
+  Mechanical engineering: 1.1708833108269123
+  Economics and business: 0.8205079831599015
+  Civil engineering: 0.8006990229565494
+  Materials engineering: 0.7101735642227341
+  Chemical sciences: 0.636984669155612
+  Clinical medicine: 0.5798613869250934
+  Biological sciences: 0.4670645007546271
+  Health sciences: 0.3856938597188021
+  Basic medicine: 0.3735304631027087
+  Psychology: 0.3719119866550163
+  Nano-technology: 0.2863809675113194
+  Social and economic geography: 0.25908531257446976
+  Medical engineering: 0.23303082055762966
+  Chemical engineering: 0.18870641035824925
+  Agriculture, forestry, and fisheries: 0.11893319564699341
+  Educational sciences: 0.11875446818651203
+  Sociology: 0.11835729605210898
+  Media and communications: 0.11121812693621415
+  Languages and linguistics: 0.07422154261657002
+  Environmental biotechnology: 0.056934625466677255
+  Political Science: 0.03695686710620383
+  Philosophy and ethics: 0.03172412423544364
+  Other social sciences: 0.02599491619667964
+  Law: 0.018001826991818255
+  Veterinary science: 0.017366351576773374
+  Art (arts, history of arts, performing arts, music): 0.016274128207164985
+  Industrial Biotechnology: 0.015658511398840256
+  History: 0.014526570815791564
+  Other agricultural sciences: 0.013325125109222336
+  Animal and dairy science: 0.012024386369052347
+  Other humanities: 0.004378822781793629
+  Literature: 0.00363412502978791
+  Archaeology: 0.0032766701088251648
+  Religion: 0.0026411946937802844
+  Health biotechnology: 0.001668122964492811
+
+Discipline: Political Science
+  Political Science: 3.950272808895642
+  Economics and business: 3.295255197182126
+  Sociology: 2.865943780647835
+  Social and economic geography: 2.2607914911250777
+  Psychology: 1.5587402444920229
+  Earth and related environmental sciences: 1.1708681538780303
+  Health sciences: 1.1069134608743698
+  Media and communications: 0.7332688721596795
+  Law: 0.7275364320740383
+  Clinical medicine: 0.669866703501623
+  Computer and information sciences: 0.5692382070584985
+  History: 0.4531390289384626
+  Educational sciences: 0.4456799502728089
+  Biological sciences: 0.42205953449823885
+  Other social sciences: 0.3621106430002072
+  Electrical engineering, electronic engineering, information engineering: 0.340976586780855
+  Environmental engineering: 0.3396643414600456
+  Basic medicine: 0.3390427515712411
+  Philosophy and ethics: 0.3386974238552386
+  Mathematics: 0.30789419158781683
+  Other engineering and technologies: 0.24953380758339663
+  Languages and linguistics: 0.16368533738517854
+  Art (arts, history of arts, performing arts, music): 0.1489053111402721
+  Agriculture, forestry, and fisheries: 0.13253677740175426
+  Civil engineering: 0.13212238414255129
+  Religion: 0.11078113129359762
+  Physical sciences: 0.09959251329511706
+  Literature: 0.09213343462946336
+  Chemical sciences: 0.08833482975343601
+  Other humanities: 0.08522688030941364
+  Mechanical engineering: 0.07134470612611368
+  Materials engineering: 0.0532495338075834
+  Chemical engineering: 0.041577457006699355
+  Other agricultural sciences: 0.032529870847434215
+  Environmental biotechnology: 0.02451826783617653
+  Veterinary science: 0.020098073071344705
+  Nano-technology: 0.01920022100973824
+  Archaeology: 0.01823330340493128
+  Animal and dairy science: 0.00960011050486912
+  Medical engineering: 0.008771323986463153
+  Industrial Biotechnology: 0.0020029007528144208
+  Health biotechnology: 0.0004834588024034809
+
+Discipline: Other social sciences
+  Economics and business: 4.549840625905535
+  Social and economic geography: 2.8290350623007825
+  Other social sciences: 2.690814256737178
+  Psychology: 2.291075050709939
+  Sociology: 2.085772239930455
+  Earth and related environmental sciences: 1.9873949579831933
+  Health sciences: 1.791075050709939
+  Computer and information sciences: 0.9894233555491162
+  Clinical medicine: 0.9022022602144306
+  Political Science: 0.8171544479860909
+  Educational sciences: 0.5720081135902637
+  Basic medicine: 0.5323094755143437
+  Electrical engineering, electronic engineering, information engineering: 0.5276731382208055
+  Biological sciences: 0.5120254998551145
+  Media and communications: 0.4831932773109244
+  Environmental engineering: 0.4605911330049261
+  Other engineering and technologies: 0.42538394668212115
+  History: 0.2922341350333237
+  Mathematics: 0.2883222254419009
+  Civil engineering: 0.21674876847290642
+  Philosophy and ethics: 0.20863517820921473
+  Law: 0.1702405099971023
+  Art (arts, history of arts, performing arts, music): 0.1616922631121414
+  Agriculture, forestry, and fisheries: 0.15821501014198783
+  Languages and linguistics: 0.14676905244856564
+  Chemical sciences: 0.14329179947841206
+  Religion: 0.1270646189510287
+  Physical sciences: 0.11953057084902927
+  Literature: 0.09330628803245436
+  Materials engineering: 0.0872210953346856
+  Other agricultural sciences: 0.08403361344537816
+  Other humanities: 0.07360185453491741
+  Mechanical engineering: 0.06766154737757171
+  Archaeology: 0.04027818023761229
+  Environmental biotechnology: 0.04027818023761229
+  Chemical engineering: 0.03940886699507389
+  Nano-technology: 0.03230947551434367
+  Veterinary science: 0.029411764705882353
+  Medical engineering: 0.021587945523036802
+  Animal and dairy science: 0.01753115039119096
+  Industrial Biotechnology: 0.003911909591422776
+  Health biotechnology: 0.0001448855404230658
+
+Discipline: Nano-technology
+  Chemical sciences: 7.526418258573163
+  Materials engineering: 7.359099408215587
+  Physical sciences: 6.344063843321703
+  Nano-technology: 6.025290591206122
+  Environmental engineering: 2.4978892380052815
+  Other engineering and technologies: 0.9078589741118415
+  Biological sciences: 0.85737417352584
+  Chemical engineering: 0.7198951365730478
+  Mechanical engineering: 0.6779690421574108
+  Electrical engineering, electronic engineering, information engineering: 0.5932301405247027
+  Earth and related environmental sciences: 0.5619831524567728
+  Basic medicine: 0.5379648013570562
+  Clinical medicine: 0.3855273049713746
+  Computer and information sciences: 0.20271025695394876
+  Mathematics: 0.19675386009214102
+  Health sciences: 0.17790157487904082
+  Civil engineering: 0.15328565645661854
+  Environmental biotechnology: 0.14995084526861616
+  Industrial Biotechnology: 0.14513175395647396
+  Agriculture, forestry, and fisheries: 0.10644408890259653
+  Medical engineering: 0.08870983287391329
+  Psychology: 0.06845037299766756
+  Economics and business: 0.06594444551535363
+  Social and economic geography: 0.03095784258920138
+  Sociology: 0.025560460319602137
+  Veterinary science: 0.023632823794745263
+  Educational sciences: 0.02166663453939125
+  Animal and dairy science: 0.014341615744935135
+  Other agricultural sciences: 0.013724772056980935
+  Languages and linguistics: 0.010871870000192763
+  Media and communications: 0.010197197216492858
+  Health biotechnology: 0.007247913333461842
+  Philosophy and ethics: 0.0070165969504790175
+  Political Science: 0.0059178441313106
+  Other social sciences: 0.005204618617113557
+  History: 0.003932378510708021
+  Archaeology: 0.0031806002660138403
+  Law: 0.0031034948050195654
+  Art (arts, history of arts, performing arts, music): 0.0018119783333654606
+  Religion: 0.0014071746631455172
+  Literature: 0.0005975673227056306
+  Other humanities: 0.0005397382269599245
+
+Discipline: Physical sciences
+  Physical sciences: 5.710518432719575
+  Chemical sciences: 4.875004992610936
+  Materials engineering: 4.8667372289012265
+  Nano-technology: 3.2676938131565283
+  Environmental engineering: 2.1273914606382553
+  Mechanical engineering: 2.067969405280185
+  Electrical engineering, electronic engineering, information engineering: 1.5363661780564764
+  Other engineering and technologies: 1.510554379518313
+  Mathematics: 1.2177277629108918
+  Computer and information sciences: 0.8972121260534409
+  Earth and related environmental sciences: 0.8775711946319448
+  Chemical engineering: 0.7967008826936135
+  Biological sciences: 0.5918840116627392
+  Civil engineering: 0.4401286096577066
+  Clinical medicine: 0.39529496345408793
+  Basic medicine: 0.3609158445500659
+  Health sciences: 0.2054159843431721
+  Economics and business: 0.1789052202739945
+  Psychology: 0.14639333785996725
+  Agriculture, forestry, and fisheries: 0.11483005152374486
+  Medical engineering: 0.11275312537444582
+  Industrial Biotechnology: 0.09600790829572232
+  Environmental biotechnology: 0.08759036625793826
+  Social and economic geography: 0.07410033150936614
+  Languages and linguistics: 0.06459440028757439
+  Sociology: 0.05798418340855534
+  Educational sciences: 0.04642129648120781
+  Media and communications: 0.02160802013020729
+  Philosophy and ethics: 0.021008906817909494
+  Veterinary science: 0.019950473299516717
+  Other agricultural sciences: 0.015527020010384631
+  History: 0.014828054479370531
+  Animal and dairy science: 0.014668290929424451
+  Political Science: 0.014079162838998283
+  Other social sciences: 0.009356152893717298
+  Art (arts, history of arts, performing arts, music): 0.0077085912848983505
+  Law: 0.006390541997843192
+  Archaeology: 0.005232256260734113
+  Health biotechnology: 0.004153852298598075
+  Literature: 0.002366497583576307
+  Religion: 0.002326556696089787
+  Other humanities: 0.0020968965930422976
+
+Discipline: Materials engineering
+  Materials engineering: 7.031065102369451
+  Chemical sciences: 5.328373590982286
+  Physical sciences: 4.410223142397055
+  Nano-technology: 3.4698780768345987
+  Environmental engineering: 2.4595077064642283
+  Mechanical engineering: 1.9613618587531632
+  Other engineering and technologies: 1.4629859673337935
+  Civil engineering: 1.2217805383022775
+  Earth and related environmental sciences: 1.1726892109500806
+  Chemical engineering: 1.0693903841729928
+  Electrical engineering, electronic engineering, information engineering: 0.6672095698182655
+  Biological sciences: 0.5482585691281343
+  Computer and information sciences: 0.3393236714975845
+  Mathematics: 0.3296250287554635
+  Basic medicine: 0.32297216471129514
+  Clinical medicine: 0.3047342995169082
+  Industrial Biotechnology: 0.17761214630779848
+  Agriculture, forestry, and fisheries: 0.16802392454566367
+  Health sciences: 0.1567793880837359
+  Medical engineering: 0.13054520358868185
+  Environmental biotechnology: 0.11632850241545893
+  Economics and business: 0.1020197837589142
+  Psychology: 0.07471819645732689
+  Social and economic geography: 0.07374281113411549
+  Sociology: 0.03513227513227513
+  Other agricultural sciences: 0.024734299516908212
+  Educational sciences: 0.022397055440533702
+  Veterinary science: 0.01763975155279503
+  Animal and dairy science: 0.01495284103979756
+  Languages and linguistics: 0.014584771106510236
+  Media and communications: 0.010646422820335864
+  Archaeology: 0.008723257418909593
+  Philosophy and ethics: 0.008207959512307338
+  Political Science: 0.007352196917414309
+  Other social sciences: 0.0063216011042098
+  History: 0.00519898780768346
+  Health biotechnology: 0.004987347596043248
+  Art (arts, history of arts, performing arts, music): 0.004803312629399586
+  Law: 0.003542673107890499
+  Other humanities: 0.0013802622498274672
+  Religion: 0.0012238325281803543
+  Literature: 0.000966183574879227
+
+Discipline: Civil engineering
+  Civil engineering: 5.451045379219541
+  Earth and related environmental sciences: 3.2428094708406165
+  Environmental engineering: 2.917686318131257
+  Materials engineering: 2.8437719915552426
+  Mechanical engineering: 2.446051167964405
+  Electrical engineering, electronic engineering, information engineering: 1.770198179382988
+  Computer and information sciences: 1.7690404304102063
+  Other engineering and technologies: 1.4243263490045628
+  Social and economic geography: 1.0288302195182857
+  Economics and business: 1.0133708655876144
+  Physical sciences: 0.8290844702730925
+  Chemical sciences: 0.6838664275498854
+  Mathematics: 0.46042087580304647
+  Biological sciences: 0.41608590043358834
+  Chemical engineering: 0.40829947106762615
+  Health sciences: 0.38496288392999023
+  Psychology: 0.30995891126194636
+  Clinical medicine: 0.2842841252184967
+  Agriculture, forestry, and fisheries: 0.238973008558262
+  Basic medicine: 0.20909854486844792
+  Sociology: 0.1683049192980863
+  Nano-technology: 0.1329141222673719
+  Environmental biotechnology: 0.05731992463281197
+  Educational sciences: 0.0506458423191301
+  Medical engineering: 0.04608294930875576
+  Media and communications: 0.04292751583391977
+  Political Science: 0.040475812126852966
+  Other social sciences: 0.03484597398469955
+  Other agricultural sciences: 0.030623595378084494
+  Languages and linguistics: 0.02596989852670768
+  Art (arts, history of arts, performing arts, music): 0.01995414406029375
+  Industrial Biotechnology: 0.017911057637738075
+  Veterinary science: 0.016140382738189827
+  Philosophy and ethics: 0.01575446641392931
+  Animal and dairy science: 0.012553631018592087
+  Law: 0.011827200290572291
+  History: 0.010941862840798166
+  Archaeology: 0.009398197543756101
+  Other humanities: 0.004835304533381762
+  Religion: 0.0022019931443100042
+  Literature: 0.0020203854623050553
+  Health biotechnology: 0.0012258518535334046
+
+Discipline: Mechanical engineering
+  Mechanical engineering: 5.858985178543172
+  Environmental engineering: 2.860857640170895
+  Materials engineering: 2.797510417216098
+  Physical sciences: 2.5087161770135555
+  Other engineering and technologies: 2.185189092251701
+  Earth and related environmental sciences: 1.8125032965873729
+  Chemical sciences: 1.6702621446278811
+  Electrical engineering, electronic engineering, information engineering: 1.5392030170367634
+  Civil engineering: 1.5349042671026953
+  Mathematics: 1.2476528297906007
+  Chemical engineering: 1.232963236457619
+  Computer and information sciences: 1.1368215623186877
+  Nano-technology: 0.41572604040297484
+  Biological sciences: 0.35342053905796716
+  Clinical medicine: 0.3269819083284983
+  Economics and business: 0.26748509942507515
+  Health sciences: 0.20015559892399387
+  Basic medicine: 0.19395801466322063
+  Social and economic geography: 0.1396961865077272
+  Agriculture, forestry, and fisheries: 0.12476923888390738
+  Psychology: 0.11147739859697241
+  Medical engineering: 0.09532412047048895
+  Environmental biotechnology: 0.06682841922042301
+  Sociology: 0.0536156970304341
+  Industrial Biotechnology: 0.039994198006223954
+  Other agricultural sciences: 0.03317685531937339
+  Languages and linguistics: 0.031409884487578456
+  Educational sciences: 0.02543646816815233
+  Veterinary science: 0.016206023524447492
+  Media and communications: 0.014267630149269477
+  Political Science: 0.013964344110976317
+  Philosophy and ethics: 0.012065509784271322
+  Animal and dairy science: 0.011155651669391845
+  History: 0.008505195421699457
+  Other social sciences: 0.0069755788807426555
+  Art (arts, history of arts, performing arts, music): 0.005894298222480088
+  Archaeology: 0.005380030592330819
+  Law: 0.00524816709742075
+  Religion: 0.002030697821615064
+  Literature: 0.0016219209873938498
+  Other humanities: 0.001476871142992774
+  Health biotechnology: 0.001318634949100691
+
+Discipline: Economics and business
+  Economics and business: 5.9743852593673195
+  Earth and related environmental sciences: 1.8569832695921882
+  Computer and information sciences: 1.8435122028151243
+  Social and economic geography: 1.8244949992771622
+  Psychology: 1.580714689376914
+  Sociology: 1.1549632667008372
+  Other engineering and technologies: 1.153741013812772
+  Electrical engineering, electronic engineering, information engineering: 1.1415579124446371
+  Mathematics: 1.071087805070378
+  Health sciences: 1.0515186163571606
+  Environmental engineering: 0.939321058234436
+  Clinical medicine: 0.7078815597523952
+  Political Science: 0.572973754419167
+  Civil engineering: 0.569004718158998
+  Media and communications: 0.4244108872504567
+  Biological sciences: 0.42183495643259866
+  Other social sciences: 0.37605961439892754
+  Basic medicine: 0.3692780822457911
+  Educational sciences: 0.362220557505027
+  Mechanical engineering: 0.23434399190421742
+  Physical sciences: 0.19775526028729515
+  Chemical sciences: 0.16458357975528656
+  Philosophy and ethics: 0.14468582843775052
+  Law: 0.13783858376375036
+  Agriculture, forestry, and fisheries: 0.1349078053332282
+  Materials engineering: 0.12359210924049469
+  Chemical engineering: 0.10009331177962649
+  History: 0.08964502096229415
+  Other agricultural sciences: 0.07144265268304223
+  Languages and linguistics: 0.06906385942777536
+  Art (arts, history of arts, performing arts, music): 0.04673474483828149
+  Environmental biotechnology: 0.03836296968024287
+  Nano-technology: 0.03414422584079171
+  Veterinary science: 0.023958785106914272
+  Medical engineering: 0.02292052727726741
+  Other humanities: 0.019529761200699183
+  Religion: 0.019372051150626242
+  Literature: 0.018097228245869967
+  Animal and dairy science: 0.016493842736795068
+  Archaeology: 0.005401569214998226
+  Industrial Biotechnology: 0.005322714189961756
+  Health biotechnology: 0.0008411202670556847
+
+Discipline: Art (arts, history of arts, performing arts, music)
+  Psychology: 2.5447660265079795
+  Sociology: 2.512848255342169
+  Social and economic geography: 1.5409791723018664
+  Economics and business: 1.538274276440357
+  Art (arts, history of arts, performing arts, music): 1.481741952934812
+  Computer and information sciences: 1.3186367324857993
+  Health sciences: 1.1796050852042197
+  Educational sciences: 1.1428185014876928
+  Clinical medicine: 1.0159588855829051
+  Earth and related environmental sciences: 0.9277792804977009
+  Electrical engineering, electronic engineering, information engineering: 0.910738436570192
+  Political Science: 0.9088450094671355
+  Media and communications: 0.8395996754124966
+  History: 0.7722477684609143
+  Basic medicine: 0.7484446848796321
+  Other engineering and technologies: 0.587232891533676
+  Biological sciences: 0.5572085474709224
+  Philosophy and ethics: 0.4974303489315661
+  Languages and linguistics: 0.46253719231809576
+  Other social sciences: 0.4271030565323235
+  Literature: 0.4262915877738707
+  Civil engineering: 0.4041114417094942
+  Environmental engineering: 0.3708412226129294
+  Other humanities: 0.3659724100622126
+  Mathematics: 0.33026778469028945
+  Physical sciences: 0.3107925344874222
+  Law: 0.2823911279415742
+  Chemical sciences: 0.25074384636191505
+  Materials engineering: 0.23667838788206655
+  Mechanical engineering: 0.2296456586421423
+  Religion: 0.2282932107113876
+  Agriculture, forestry, and fisheries: 0.11928590749256153
+  Archaeology: 0.10359751149580741
+  Chemical engineering: 0.06491750067622397
+  Nano-technology: 0.053827427644035704
+  Environmental biotechnology: 0.04922910467946984
+  Medical engineering: 0.035434135785772244
+  Veterinary science: 0.027048958615093318
+  Other agricultural sciences: 0.014876927238301325
+  Animal and dairy science: 0.010819583446037328
+  Industrial Biotechnology: 0.010549093859886394
+  Health biotechnology: 0.0008114687584527996
+
+Discipline: Religion
+  Religion: 2.835457063711911
+  Sociology: 2.789473684210526
+  Psychology: 2.5235457063711912
+  Health sciences: 1.5717451523545707
+  Philosophy and ethics: 1.365650969529086
+  Clinical medicine: 1.296398891966759
+  History: 1.1301939058171746
+  Economics and business: 1.1030470914127424
+  Political Science: 0.9689750692520775
+  Social and economic geography: 0.8653739612188366
+  Educational sciences: 0.7484764542936289
+  Basic medicine: 0.7290858725761773
+  Literature: 0.510803324099723
+  Other social sciences: 0.4825484764542936
+  Computer and information sciences: 0.46426592797783933
+  Earth and related environmental sciences: 0.4343490304709141
+  Biological sciences: 0.4083102493074792
+  Art (arts, history of arts, performing arts, music): 0.3684210526315789
+  Languages and linguistics: 0.3573407202216066
+  Media and communications: 0.33074792243767315
+  Electrical engineering, electronic engineering, information engineering: 0.30193905817174516
+  Mathematics: 0.2659279778393352
+  Law: 0.2598337950138504
+  Other humanities: 0.21329639889196675
+  Other engineering and technologies: 0.1817174515235457
+  Environmental engineering: 0.13905817174515236
+  Chemical sciences: 0.11745152354570637
+  Physical sciences: 0.1113573407202216
+  Archaeology: 0.10304709141274238
+  Civil engineering: 0.0886426592797784
+  Materials engineering: 0.08753462603878116
+  Mechanical engineering: 0.07700831024930747
+  Agriculture, forestry, and fisheries: 0.07257617728531857
+  Nano-technology: 0.03434903047091413
+  Environmental biotechnology: 0.032686980609418284
+  Chemical engineering: 0.029362880886426593
+  Veterinary science: 0.018836565096952907
+  Medical engineering: 0.01551246537396122
+  Other agricultural sciences: 0.0110803324099723
+  Animal and dairy science: 0.009418282548476454
+  Industrial Biotechnology: 0.002770083102493075
+  Health biotechnology: 0.0
+
+Discipline: Philosophy and ethics
+  Philosophy and ethics: 2.822162925757338
+  Psychology: 2.331659080207189
+  Economics and business: 1.8560665515617643
+  Sociology: 1.5639617014597393
+  Health sciences: 1.4883063883220844
+  Mathematics: 1.2426620624705698
+  Clinical medicine: 1.1894522053052896
+  Computer and information sciences: 1.1495840527389736
+  History: 0.8565374352534924
+  Basic medicine: 0.819180662376393
+  Political Science: 0.7694239522837859
+  Educational sciences: 0.6717940668654843
+  Social and economic geography: 0.6524878355046304
+  Electrical engineering, electronic engineering, information engineering: 0.6028880866425993
+  Biological sciences: 0.5554857950086328
+  Earth and related environmental sciences: 0.516716371056349
+  Religion: 0.4151624548736462
+  Media and communications: 0.40480301365562704
+  Languages and linguistics: 0.36462093862815886
+  Law: 0.3269502432899074
+  Other engineering and technologies: 0.3203578716057134
+  Physical sciences: 0.26353790613718414
+  Literature: 0.20922932035787162
+  Art (arts, history of arts, performing arts, music): 0.20797363051326323
+  Other social sciences: 0.18364463977397583
+  Environmental engineering: 0.17877884162611835
+  Chemical sciences: 0.1762674619369016
+  Mechanical engineering: 0.1345157746036729
+  Materials engineering: 0.12776644168890283
+  Other humanities: 0.12274368231046931
+  Civil engineering: 0.11913357400722022
+  Agriculture, forestry, and fisheries: 0.06168576361638675
+  Environmental biotechnology: 0.0480301365562706
+  Nano-technology: 0.0447339507141736
+  Veterinary science: 0.04253649348610893
+  Chemical engineering: 0.041123842410924503
+  Medical engineering: 0.029351750117720923
+  Animal and dairy science: 0.021817611050070632
+  Archaeology: 0.02134672735834249
+  Other agricultural sciences: 0.013184743368388008
+  Industrial Biotechnology: 0.006906294145346099
+  Health biotechnology: 0.0026683409197928113
+
+Discipline: Law
+  Sociology: 3.8751574307304786
+  Law: 3.630824937027708
+  Psychology: 3.391530226700252
+  Health sciences: 2.420654911838791
+  Clinical medicine: 2.031013853904282
+  Economics and business: 1.883816120906801
+  Political Science: 1.7314231738035264
+  Basic medicine: 1.3526448362720402
+  Social and economic geography: 1.1404282115869018
+  Computer and information sciences: 0.5362090680100756
+  Earth and related environmental sciences: 0.5070843828715366
+  Educational sciences: 0.4847292191435768
+  Biological sciences: 0.36067380352644834
+  Media and communications: 0.33454030226700254
+  Electrical engineering, electronic engineering, information engineering: 0.3258816120906801
+  Philosophy and ethics: 0.3224181360201511
+  History: 0.25204659949622166
+  Mathematics: 0.2337846347607053
+  Other engineering and technologies: 0.2125314861460957
+  Environmental engineering: 0.17616498740554157
+  Other social sciences: 0.14656801007556675
+  Languages and linguistics: 0.13255667506297228
+  Civil engineering: 0.1070528967254408
+  Art (arts, history of arts, performing arts, music): 0.09288413098236775
+  Chemical sciences: 0.08879093198992444
+  Physical sciences: 0.08375314861460957
+  Agriculture, forestry, and fisheries: 0.06438916876574308
+  Religion: 0.06029596977329975
+  Materials engineering: 0.05998110831234257
+  Literature: 0.0595088161209068
+  Mechanical engineering: 0.05840680100755667
+  Other humanities: 0.04565491183879093
+  Veterinary science: 0.03857052896725441
+  Chemical engineering: 0.030698992443324937
+  Environmental biotechnology: 0.029124685138539042
+  Archaeology: 0.02188287153652393
+  Nano-technology: 0.02188287153652393
+  Other agricultural sciences: 0.019678841309823676
+  Animal and dairy science: 0.012751889168765743
+  Medical engineering: 0.011335012594458438
+  Industrial Biotechnology: 0.0031486146095717885
+  Health biotechnology: 0.00031486146095717883
+
+Discipline: Media and communications
+  Economics and business: 3.093184336904322
+  Psychology: 2.993719985223495
+  Media and communications: 2.666143332101958
+  Computer and information sciences: 2.4640746213520504
+  Health sciences: 1.851496121167344
+  Sociology: 1.690155153306243
+  Clinical medicine: 1.3352419652752123
+  Electrical engineering, electronic engineering, information engineering: 1.0677872183228667
+  Political Science: 0.9130956778721833
+  Educational sciences: 0.8520502401182121
+  Social and economic geography: 0.847524935352789
+  Basic medicine: 0.7092722571111932
+  Earth and related environmental sciences: 0.6771333579608423
+  Other engineering and technologies: 0.48236054673069817
+  Biological sciences: 0.38742149981529367
+  Languages and linguistics: 0.36451791651274473
+  Mathematics: 0.30291835980790544
+  Other social sciences: 0.28537125969708166
+  Philosophy and ethics: 0.23531584780199483
+  Environmental engineering: 0.2203546361285556
+  Law: 0.21185814554857776
+  Art (arts, history of arts, performing arts, music): 0.20631695603989655
+  History: 0.1962504617657924
+  Physical sciences: 0.18128925009235317
+  Civil engineering: 0.1634650905060953
+  Chemical sciences: 0.1550609530845955
+  Materials engineering: 0.09272257111193202
+  Mechanical engineering: 0.08478019948282231
+  Literature: 0.07831547838936091
+  Agriculture, forestry, and fisheries: 0.07397487994089398
+  Other humanities: 0.06594015515330624
+  Environmental biotechnology: 0.05430365718507573
+  Religion: 0.04469892870336165
+  Nano-technology: 0.039250092353158475
+  Chemical engineering: 0.03620243812338382
+  Veterinary science: 0.029275951237532325
+  Medical engineering: 0.024658293313631327
+  Other agricultural sciences: 0.023180642777983006
+  Archaeology: 0.009881787957148135
+  Animal and dairy science: 0.009420022164758035
+  Industrial Biotechnology: 0.006095308459549317
+  Health biotechnology: 0.0014776505356483192
+
+Discipline: Animal and dairy science
+  Animal and dairy science: 4.942647549183061
+  Biological sciences: 4.7157385795265085
+  Other engineering and technologies: 2.784761587195732
+  Veterinary science: 2.622374124708236
+  Basic medicine: 1.3327775925308436
+  Agriculture, forestry, and fisheries: 1.22540846948983
+  Clinical medicine: 1.1972324108036012
+  Health sciences: 1.1162054018006002
+  Chemical sciences: 0.8997999333111038
+  Earth and related environmental sciences: 0.8411137045681893
+  Psychology: 0.5605201733911304
+  Environmental biotechnology: 0.5410136712237412
+  Environmental engineering: 0.35145048349449814
+  Computer and information sciences: 0.3052684228076025
+  Economics and business: 0.22140713571190396
+  Materials engineering: 0.20440146715571858
+  Electrical engineering, electronic engineering, information engineering: 0.19706568856285428
+  Mathematics: 0.16138712904301433
+  Physical sciences: 0.1533844614871624
+  Social and economic geography: 0.14221407135711903
+  Chemical engineering: 0.1393797932644215
+  Sociology: 0.13804601533844615
+  Mechanical engineering: 0.12137379126375458
+  Civil engineering: 0.10253417805935312
+  Other agricultural sciences: 0.0991997332444148
+  Nano-technology: 0.08119373124374792
+  Medical engineering: 0.056018672890963656
+  Educational sciences: 0.038512837612537515
+  Political Science: 0.02784261420473491
+  Industrial Biotechnology: 0.023841280426808935
+  Media and communications: 0.023841280426808935
+  Philosophy and ethics: 0.019339779926642216
+  Languages and linguistics: 0.0191730576858953
+  Other social sciences: 0.018172724241413803
+  History: 0.016672224074691565
+  Archaeology: 0.013337779259753251
+  Law: 0.01300433477825942
+  Health biotechnology: 0.011170390130043348
+  Literature: 0.007502500833611204
+  Art (arts, history of arts, performing arts, music): 0.007335778592864288
+  Religion: 0.0040013337779259755
+  Other humanities: 0.0035011670556852285
+
+Discipline: Industrial Biotechnology
+  Chemical sciences: 4.6251702003501265
+  Materials engineering: 3.8255203267846722
+  Industrial Biotechnology: 3.714841470531025
+  Clinical medicine: 2.903520715814044
+  Biological sciences: 2.600855864617779
+  Medical engineering: 2.5798482785450303
+  Physical sciences: 1.8148220190624391
+  Basic medicine: 1.6329507877844778
+  Nano-technology: 1.3756078583933087
+  Other engineering and technologies: 0.8984633339817156
+  Mechanical engineering: 0.6502625948259093
+  Earth and related environmental sciences: 0.5088504182065746
+  Environmental engineering: 0.4969850223691889
+  Chemical engineering: 0.40595214938727875
+  Health sciences: 0.4008947675549504
+  Electrical engineering, electronic engineering, information engineering: 0.2666796343123906
+  Environmental biotechnology: 0.252869091616417
+  Health biotechnology: 0.24936782727095896
+  Computer and information sciences: 0.2367243726901381
+  Civil engineering: 0.2246644621668936
+  Mathematics: 0.18264929002139663
+  Agriculture, forestry, and fisheries: 0.16378136549309472
+  Psychology: 0.09161641703948648
+  Economics and business: 0.0791674771445244
+  Veterinary science: 0.07527718342734876
+  Sociology: 0.047072553977825324
+  Social and economic geography: 0.042209686831355765
+  Animal and dairy science: 0.033845555339428124
+  Educational sciences: 0.02567593853335927
+  Languages and linguistics: 0.02256370355961875
+  Other agricultural sciences: 0.020618556701030927
+  Media and communications: 0.011281851779809376
+  Archaeology: 0.007975102120210076
+  Philosophy and ethics: 0.006808014005057382
+  Political Science: 0.005446411204045905
+  History: 0.0050573818323283405
+  Other social sciences: 0.004084808403034429
+  Law: 0.003890293717175647
+  Art (arts, history of arts, performing arts, music): 0.003501264345458082
+  Literature: 0.0015561174868702586
+  Religion: 0.0015561174868702586
+  Other humanities: 0.00038902937171756465
+
+Discipline: Medical engineering
+  Clinical medicine: 4.702879142952796
+  Medical engineering: 3.086876464680281
+  Computer and information sciences: 2.43120187479076
+  Electrical engineering, electronic engineering, information engineering: 2.227736859725477
+  Biological sciences: 2.195430197522598
+  Basic medicine: 2.0191663876799466
+  Chemical sciences: 1.60093739537998
+  Health sciences: 1.5535654502845664
+  Materials engineering: 1.310763307666555
+  Other engineering and technologies: 1.282808838299297
+  Industrial Biotechnology: 1.1322397053900235
+  Physical sciences: 0.981419484432541
+  Mechanical engineering: 0.710077000334784
+  Earth and related environmental sciences: 0.5048543689320388
+  Environmental engineering: 0.424087713424841
+  Nano-technology: 0.41764312018747907
+  Mathematics: 0.3854201540006696
+  Psychology: 0.378891864747238
+  Civil engineering: 0.2409608302644794
+  Economics and business: 0.20313023100100436
+  Chemical engineering: 0.18932038834951456
+  Environmental biotechnology: 0.17115835286240375
+  Veterinary science: 0.1550887177770338
+  Health biotechnology: 0.1342484097756947
+  Agriculture, forestry, and fisheries: 0.12872447271509876
+  Sociology: 0.08696016069635086
+  Educational sciences: 0.08386340810177435
+  Social and economic geography: 0.07281553398058252
+  Languages and linguistics: 0.051807833947104115
+  Media and communications: 0.04075995982591229
+  Animal and dairy science: 0.03950451958486776
+  Philosophy and ethics: 0.017408771342484097
+  Other social sciences: 0.016237027117509205
+  Political Science: 0.015734851021091397
+  Other agricultural sciences: 0.01498158687646468
+  History: 0.009708737864077669
+  Law: 0.009373953799799129
+  Art (arts, history of arts, performing arts, music): 0.0063608972212922665
+  Archaeology: 0.00510545698024774
+  Religion: 0.004184800803481754
+  Literature: 0.0037663207231335787
+  Other humanities: 0.002008704385671242
+
+Discipline: Other humanities
+  Sociology: 2.72
+  Psychology: 2.058666666666667
+  Social and economic geography: 1.62
+  Economics and business: 1.55
+  History: 1.238
+  Political Science: 1.1773333333333333
+  Health sciences: 1.0733333333333333
+  Art (arts, history of arts, performing arts, music): 0.9366666666666666
+  Computer and information sciences: 0.9073333333333333
+  Educational sciences: 0.894
+  Clinical medicine: 0.8913333333333333
+  Earth and related environmental sciences: 0.8406666666666667
+  Languages and linguistics: 0.6766666666666666
+  Other humanities: 0.676
+  Philosophy and ethics: 0.6706666666666666
+  Media and communications: 0.656
+  Literature: 0.6373333333333333
+  Basic medicine: 0.6146666666666667
+  Biological sciences: 0.592
+  Electrical engineering, electronic engineering, information engineering: 0.5886666666666667
+  Other social sciences: 0.49333333333333335
+  Other engineering and technologies: 0.4593333333333333
+  Religion: 0.37466666666666665
+  Mathematics: 0.338
+  Law: 0.2966666666666667
+  Chemical sciences: 0.266
+  Environmental engineering: 0.25133333333333335
+  Physical sciences: 0.238
+  Materials engineering: 0.222
+  Civil engineering: 0.16266666666666665
+  Mechanical engineering: 0.14666666666666667
+  Archaeology: 0.144
+  Agriculture, forestry, and fisheries: 0.13066666666666665
+  Chemical engineering: 0.07133333333333333
+  Veterinary science: 0.06733333333333333
+  Nano-technology: 0.059333333333333335
+  Environmental biotechnology: 0.04533333333333334
+  Animal and dairy science: 0.024
+  Medical engineering: 0.020666666666666667
+  Other agricultural sciences: 0.019333333333333334
+  Industrial Biotechnology: 0.004
+  Health biotechnology: 0.0
+
+Discipline: Veterinary science
+  Biological sciences: 5.1892798926071535
+  Veterinary science: 4.040847636398504
+  Basic medicine: 2.575127049573305
+  Clinical medicine: 2.525170198484994
+  Health sciences: 2.3078914565154856
+  Animal and dairy science: 1.6285358135967014
+  Other engineering and technologies: 1.0309713299453447
+  Agriculture, forestry, and fisheries: 1.0092051011602263
+  Psychology: 0.6567264358998945
+  Chemical sciences: 0.5841403777926935
+  Earth and related environmental sciences: 0.5814555566209608
+  Environmental biotechnology: 0.4328315274714738
+  Computer and information sciences: 0.273180554223799
+  Environmental engineering: 0.22341547607632564
+  Sociology: 0.2132515102119091
+  Economics and business: 0.20941605139514816
+  Medical engineering: 0.196854923770256
+  Materials engineering: 0.19062230319301945
+  Electrical engineering, electronic engineering, information engineering: 0.1782529485089654
+  Physical sciences: 0.168664301467063
+  Mathematics: 0.16645891264742546
+  Social and economic geography: 0.15562374149007574
+  Mechanical engineering: 0.12839198389107298
+  Educational sciences: 0.1156390833253428
+  Nano-technology: 0.11352958097612427
+  Civil engineering: 0.08869498513759709
+  Chemical engineering: 0.07872279221401861
+  Industrial Biotechnology: 0.05053216991082558
+  Other agricultural sciences: 0.04199827404353246
+  Political Science: 0.031067216415763734
+  Media and communications: 0.027039984658164734
+  Languages and linguistics: 0.026081119953974493
+  Law: 0.025601687601879374
+  History: 0.02550580113146035
+  Health biotechnology: 0.024355163486432064
+  Other social sciences: 0.023300412311822803
+  Archaeology: 0.022341547607632562
+  Philosophy and ethics: 0.021862115255537443
+  Literature: 0.011602262920701888
+  Art (arts, history of arts, performing arts, music): 0.009492760571483363
+  Other humanities: 0.005657301754722409
+  Religion: 0.0035477994055038834
+
+Discipline: Literature
+  Sociology: 2.562366964665815
+  Psychology: 2.2060451255853555
+  History: 1.295870583226905
+  Social and economic geography: 1.2507449978714347
+  Economics and business: 1.1451681566624095
+  Literature: 1.1298424861643253
+  Health sciences: 1.092379736057897
+  Political Science: 1.0672626649638144
+  Educational sciences: 0.9748829289059174
+  Languages and linguistics: 0.9655172413793104
+  Clinical medicine: 0.9633886760323542
+  Art (arts, history of arts, performing arts, music): 0.9203916560238399
+  Philosophy and ethics: 0.8680289484887186
+  Computer and information sciences: 0.853980417198808
+  Basic medicine: 0.7501064282673479
+  Biological sciences: 0.6198382290336313
+  Media and communications: 0.6138782460621541
+  Earth and related environmental sciences: 0.6121753937845892
+  Electrical engineering, electronic engineering, information engineering: 0.5921668795232014
+  Religion: 0.51213282247765
+  Other humanities: 0.45891868880374626
+  Other social sciences: 0.41464452958705833
+  Law: 0.3610046828437633
+  Mathematics: 0.3554704129416773
+  Other engineering and technologies: 0.3439761600681141
+  Chemical sciences: 0.22349936143039592
+  Physical sciences: 0.20987654320987653
+  Environmental engineering: 0.1936994465730098
+  Civil engineering: 0.15751383567475521
+  Agriculture, forestry, and fisheries: 0.13793103448275862
+  Mechanical engineering: 0.13197105151128138
+  Archaeology: 0.13111962537249894
+  Materials engineering: 0.13026819923371646
+  Chemical engineering: 0.05661983822903363
+  Environmental biotechnology: 0.05363984674329502
+  Veterinary science: 0.05321413367390379
+  Nano-technology: 0.037462750106428265
+  Medical engineering: 0.034057045551298425
+  Animal and dairy science: 0.022137079608343976
+  Other agricultural sciences: 0.01447424435930183
+  Industrial Biotechnology: 0.009365687526607066
+  Health biotechnology: 0.0004257130693912303
+
+Discipline: Mathematics
+  Mathematics: 6.4679046135700355
+  Computer and information sciences: 2.4881976682645055
+  Electrical engineering, electronic engineering, information engineering: 1.7388667946953773
+  Physical sciences: 1.6319124162646867
+  Mechanical engineering: 1.3787784851280036
+  Economics and business: 1.2072855393083426
+  Other engineering and technologies: 0.9703467360239525
+  Biological sciences: 0.844838275543996
+  Earth and related environmental sciences: 0.5983426834616141
+  Materials engineering: 0.46158382604224946
+  Health sciences: 0.4505148871179931
+  Environmental engineering: 0.433760263718982
+  Clinical medicine: 0.4334427121924665
+  Chemical sciences: 0.4244454189411925
+  Basic medicine: 0.37079433246132676
+  Sociology: 0.3574420468464109
+  Psychology: 0.32781902587288864
+  Civil engineering: 0.32128653732742585
+  Social and economic geography: 0.18820220471488408
+  Chemical engineering: 0.15000529252544192
+  Nano-technology: 0.10639488288397272
+  Philosophy and ethics: 0.10631927537765949
+  Environmental biotechnology: 0.1010872359407842
+  Educational sciences: 0.09159093314784292
+  Agriculture, forestry, and fisheries: 0.09110704510743826
+  Political Science: 0.06125720161497634
+  Medical engineering: 0.05700805976017299
+  Media and communications: 0.049991683174305544
+  Languages and linguistics: 0.047617607476070224
+  History: 0.03568674297984304
+  Other social sciences: 0.026613842222255827
+  Veterinary science: 0.01985453115785335
+  Law: 0.019748680649014833
+  Other agricultural sciences: 0.013563986632592884
+  Animal and dairy science: 0.013412771619966431
+  Industrial Biotechnology: 0.010524564878801167
+  Art (arts, history of arts, performing arts, music): 0.009904583327032708
+  Literature: 0.005383254449501746
+  Other humanities: 0.005020338419198258
+  Religion: 0.005020338419198258
+  Archaeology: 0.0043701138649045075
+  Health biotechnology: 0.001572636131315117
+
+Discipline: Environmental biotechnology
+  Biological sciences: 5.941089977707158
+  Environmental biotechnology: 3.906986671726035
+  Chemical sciences: 2.4537304937627473
+  Earth and related environmental sciences: 2.42318455627757
+  Environmental engineering: 2.3480529336432197
+  Basic medicine: 1.548878243134279
+  Other engineering and technologies: 1.4470900725703173
+  Agriculture, forestry, and fisheries: 1.0503723379025756
+  Clinical medicine: 0.979556989043305
+  Chemical engineering: 0.9536119148128824
+  Health sciences: 0.8580847128017834
+  Other agricultural sciences: 0.7872693639425129
+  Computer and information sciences: 0.6171322866764692
+  Materials engineering: 0.5332732533320685
+  Physical sciences: 0.3625195655267277
+  Mathematics: 0.35009249158089456
+  Nano-technology: 0.3329222596404686
+  Electrical engineering, electronic engineering, information engineering: 0.303656974813831
+  Mechanical engineering: 0.2631029739600626
+  Veterinary science: 0.19010577242327942
+  Economics and business: 0.16695916140966655
+  Animal and dairy science: 0.15647678224161646
+  Psychology: 0.14817625575107907
+  Civil engineering: 0.13631836076459708
+  Social and economic geography: 0.11497414978892948
+  Medical engineering: 0.07603282265332258
+  Sociology: 0.0633685908077598
+  Industrial Biotechnology: 0.052364464260304514
+  Health biotechnology: 0.05051463264241332
+  Educational sciences: 0.03832471659630982
+  Media and communications: 0.029265284826637577
+  Languages and linguistics: 0.02011098989707347
+  Political Science: 0.017691979319831144
+  Other social sciences: 0.013185979224967984
+  Philosophy and ethics: 0.011336147607076791
+  Law: 0.010055494948536735
+  History: 0.009533747569131527
+  Archaeology: 0.0071147369918892
+  Art (arts, history of arts, performing arts, music): 0.005075179054214296
+  Literature: 0.0027984632168097517
+  Religion: 0.002419010577242328
+  Other humanities: 0.0019446947777830479
+
+Discipline: Archaeology
+  Earth and related environmental sciences: 4.242154811715481
+  Sociology: 2.8980125523012554
+  Archaeology: 2.5638075313807533
+  Biological sciences: 2.149058577405858
+  Chemical sciences: 1.1589958158995817
+  Social and economic geography: 0.9722803347280334
+  Other engineering and technologies: 0.9497907949790795
+  Materials engineering: 0.8153765690376569
+  Environmental engineering: 0.75
+  Clinical medicine: 0.7473849372384938
+  Health sciences: 0.6752092050209205
+  Economics and business: 0.6338912133891214
+  Computer and information sciences: 0.6082635983263598
+  Agriculture, forestry, and fisheries: 0.5826359832635983
+  Psychology: 0.5679916317991632
+  Mechanical engineering: 0.49110878661087864
+  Civil engineering: 0.475418410041841
+  Physical sciences: 0.47123430962343094
+  History: 0.4707112970711297
+  Electrical engineering, electronic engineering, information engineering: 0.45188284518828453
+  Basic medicine: 0.4252092050209205
+  Mathematics: 0.3551255230125523
+  Political Science: 0.3075313807531381
+  Chemical engineering: 0.2102510460251046
+  Educational sciences: 0.20711297071129708
+  Other social sciences: 0.2044979079497908
+  Veterinary science: 0.2044979079497908
+  Art (arts, history of arts, performing arts, music): 0.19456066945606695
+  Religion: 0.1589958158995816
+  Literature: 0.1563807531380753
+  Environmental biotechnology: 0.14539748953974896
+  Nano-technology: 0.14278242677824268
+  Languages and linguistics: 0.14173640167364016
+  Media and communications: 0.13598326359832635
+  Other humanities: 0.1354602510460251
+  Medical engineering: 0.11715481171548117
+  Philosophy and ethics: 0.1145397489539749
+  Animal and dairy science: 0.10617154811715482
+  Law: 0.08577405857740586
+  Industrial Biotechnology: 0.07479079497907949
+  Other agricultural sciences: 0.027719665271966527
+  Health biotechnology: 0.015690376569037656
+
+Discipline: Other agricultural sciences
+  Earth and related environmental sciences: 5.033747779751332
+  Environmental engineering: 4.773534635879218
+  Environmental biotechnology: 3.4980017761989344
+  Biological sciences: 2.572380106571936
+  Other agricultural sciences: 2.419404973357016
+  Chemical sciences: 2.0186500888099466
+  Chemical engineering: 1.6549733570159857
+  Agriculture, forestry, and fisheries: 1.528197158081705
+  Other engineering and technologies: 1.197158081705151
+  Economics and business: 1.1822824156305507
+  Mechanical engineering: 0.6292184724689165
+  Social and economic geography: 0.5899200710479574
+  Health sciences: 0.580595026642984
+  Materials engineering: 0.5688277087033747
+  Basic medicine: 0.42428952042628776
+  Computer and information sciences: 0.41496447602131437
+  Clinical medicine: 0.3727797513321492
+  Civil engineering: 0.35879218472468916
+  Electrical engineering, electronic engineering, information engineering: 0.3385879218472469
+  Physical sciences: 0.30506216696269983
+  Sociology: 0.21736234458259326
+  Psychology: 0.2069271758436945
+  Mathematics: 0.1980461811722913
+  Animal and dairy science: 0.1436500888099467
+  Nano-technology: 0.11700710479573712
+  Veterinary science: 0.10923623445825932
+  Other social sciences: 0.10812611012433393
+  Political Science: 0.08969804618117229
+  Media and communications: 0.04773534635879218
+  Medical engineering: 0.037300177619893425
+  Educational sciences: 0.03685612788632327
+  Industrial Biotechnology: 0.02553285968028419
+  Law: 0.017984014209591476
+  History: 0.013321492007104795
+  Languages and linguistics: 0.012211367673179397
+  Philosophy and ethics: 0.012211367673179397
+  Art (arts, history of arts, performing arts, music): 0.005994671403197158
+  Archaeology: 0.004884547069271759
+  Religion: 0.003774422735346359
+  Health biotechnology: 0.0033303730017761987
+  Other humanities: 0.0026642984014209592
+  Literature: 0.0019982238010657193
+
+Discipline: Health biotechnology
+  Biological sciences: 7.664711632453568
+  Clinical medicine: 6.583577712609971
+  Basic medicine: 6.129032258064516
+  Health biotechnology: 3.5610948191593352
+  Environmental biotechnology: 1.0205278592375366
+  Medical engineering: 0.9491691104594331
+  Chemical sciences: 0.8993157380254154
+  Industrial Biotechnology: 0.7311827956989247
+  Health sciences: 0.6539589442815249
+  Materials engineering: 0.2961876832844575
+  Other engineering and technologies: 0.26295210166177907
+  Physical sciences: 0.22580645161290322
+  Nano-technology: 0.18670576735092864
+  Veterinary science: 0.17302052785923755
+  Earth and related environmental sciences: 0.17204301075268819
+  Computer and information sciences: 0.1436950146627566
+  Psychology: 0.14271749755620725
+  Mathematics: 0.13294232649071358
+  Environmental engineering: 0.1300097751710655
+  Agriculture, forestry, and fisheries: 0.12805474095796676
+  Economics and business: 0.11730205278592376
+  Electrical engineering, electronic engineering, information engineering: 0.11436950146627566
+  Mechanical engineering: 0.07526881720430108
+  Animal and dairy science: 0.06158357771260997
+  Civil engineering: 0.05767350928641251
+  Chemical engineering: 0.04887585532746823
+  Sociology: 0.04398826979472141
+  Social and economic geography: 0.033235581622678395
+  Educational sciences: 0.030303030303030304
+  Media and communications: 0.017595307917888565
+  Other agricultural sciences: 0.01270772238514174
+  Philosophy and ethics: 0.01270772238514174
+  Languages and linguistics: 0.006842619745845552
+  Law: 0.005865102639296188
+  Political Science: 0.005865102639296188
+  Art (arts, history of arts, performing arts, music): 0.002932551319648094
+  Literature: 0.002932551319648094
+  History: 0.0019550342130987292
+  Archaeology: 0.0009775171065493646
+  Other social sciences: 0.0009775171065493646
+  Religion: 0.0009775171065493646
+  Other humanities: 0.0

@@ -1,0 +1,12 @@
+Given the following 5 classes: agriculture, forestry, and fisheries;animal and dairy science;veterinary science;agricultural biotechnology;other agricultural sciences 
+The classes abstract example: 
+agriculture, forestry, and fisheries: Comparison of the effectiveness of ammonium thiosulphate and mixture of ammonium thiosulphate and ammonium polyphosphate in reducing ammonia gas losses from liquid fertilizers containing amide nitrogen under laboratory conditions;Method for extracting nematode cysts of the family Heteroderidae from sandy loam soil;Weed Management through Imidazolinones in Pigeon Pea (Cajanus cajan L.) 
+animal and dairy science: How to reconcile animal breeding and societal concerns?;Metabolizable energy in corn is greater than in hybrid rye when fed to gestating sows, but exogenous enzymes did not increase energy digestibility;Tomato pomace waste as safe feed additive for poultry health and production - a review 
+veterinary science: Imaging of the Urinary Tract;Administering analgesia to birds: NSAIDs, opioids and other agents;A case of generalised cutaneous apocrine cystomatosis in a Pekingese dog 
+agricultural biotechnology:  
+other agricultural sciences: Influencing factors and GIS-based spatial interpolation for distribution of draught animals in Madhya Pradesh;Contributions to the Mathematical Modeling of the Threshing and Separation Process in An Axial Flow Combine;Contributions to the Mathematical Modeling of the Threshing and Separation Process in An Axial Flow Combine 
+Return the most relevant classes for the FOLLOWING abstract. Return ONLY THE CLASSES separated by "&" in the ORDER OF RELEVANCE WITH THEIR RELEVANCE SCORE (between 0 and 100) in one line and never any aditional context: 
+{} 
+Please, DON'T RETURN OTHER CLASSES, ONLY A SUBSET OF THE 5, otherwise the result is invalid!!! The results of my study depends on it.
+ DON'T RETURN MORE THAN FIVE RESULTS. ONLY THE MOST RELEVANT AND MAX 5 (1,2,3,4,5 RESULTS)!!!! 
+Example of answer: "animal and dairy science:70&veterinary science:60" 

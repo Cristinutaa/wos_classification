@@ -1,0 +1,3 @@
+Given the abstract '{}' and the disciplines 'chemical engineering' and 'environmental engineering', with the descriptions:
+'Chemical engineering (plants, products); Chemical process engineering' (for chemical engineering) and
+'Environmental and geological engineering, geotechnics; Petroleum engineering, (fuel, oils), Energy and fuels; Remote sensing; Mining and mineral processing; Marine engineering, sea vessels; Ocean engineering' (for environmental engineering), which one is more relevant? Choose only one and only write your choice, no additional information. Choose only between 'chemical engineering' and 'environmental engineering'

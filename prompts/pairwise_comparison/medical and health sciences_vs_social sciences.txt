@@ -1,0 +1,3 @@
+Given the abstract '{}' and the disciplines 'medical and health sciences' and 'social sciences', with the descriptions:
+'basic medicine; clinical medicine; health sciences; health biotechnology; other medical sciences' (for medical and health sciences) and
+'psychology; economics and business; educational sciences; sociology; law; political science; social and economic geography; media and communications; other social sciences' (for social sciences), which one is more relevant? Choose only one and only write your choice, no additional information. Choose only between 'medical and health sciences' and 'social sciences'

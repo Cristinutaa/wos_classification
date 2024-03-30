@@ -1,0 +1,16 @@
+Given the following 9 classes: psychology;economics and business;educational sciences;sociology;law;political science;social and economic geography;media and communications;other social sciences 
+The classes abstract example: 
+psychology: A comparison of counselling self-efficacy among international and domestic counselling students;Trauma and Stress Associated With Breast Cancer Survivors-A Natural Language Processing Study;Notes on a Nonparametric Estimate of Effect Size 
+economics and business: If the bitcoin market grows, size matters;Strategic delegation under rational and fulfilled expectations in quantity competition;Media bias with asymmetric media quality 
+educational sciences: Reimagining American Education: Possible Futures Youth, families, and communities as educational leaders;Pre-service teachers' ethical role construction in China;Reimagining American Education: Possible Futures Youth, families, and communities as educational leaders 
+sociology: The field is ever further: In search of the elusive space of fieldwork;The field is ever further: In search of the elusive space of fieldwork;Evaluating the evaluators: What have we learned from "neutral assessments" of the Canadian federal evaluation function? 
+law: REMARKS ON TECHNOLOGICAL NEUTRALITY IN COPYRIGHT LAW AS A SUBJECT MATTER PROBLEM: LESSONS FROM CANADA;WHITE VIGILANTISM AND THE RACISM OF RACE-NEUTRALITY;A UNIFIED UNDERSTANDING OF SHIP NATIONALITY IN PEACE AND WAR 
+political science: Learning to Predict Proliferation;Canadian graduate programs in public administration: The state of the field;Proposing a Compensation Requirement for Audit Studies 
+social and economic geography: Sri Lanka in 2021 Vistas on the Brink;Frontier politics in the family empire and party empire: the position of Hainan in the Chinese State;Sri Lanka in 2021 Vistas on the Brink 
+media and communications: Exploring Cultural Competence: A Case Study of Two Academic Libraries;Sensing What's New: Considering Ethics When Using Sensor Data in Journalistic Practices;Service Philosophy Statements in Practice: Motivation, Authorship, and Impact 
+other social sciences: Kalidasa and the Bastard Son An Attempt to Read Kalidasa's Na?akas Politically;A Useful Failure: Macron's Overture to Russia;A Useful Failure: Macron's Overture to Russia 
+Return the most relevant classes for the FOLLOWING abstract. Return ONLY THE CLASSES separated by "&" in the ORDER OF RELEVANCE WITH THEIR RELEVANCE SCORE (between 0 and 100) in one line and never any aditional context: 
+{} 
+Please, DON'T RETURN OTHER CLASSES, ONLY A SUBSET OF THE 9, otherwise the result is invalid!!! The results of my study depends on it.
+ DON'T RETURN MORE THAN FIVE RESULTS. ONLY THE MOST RELEVANT AND MAX 5 (1,2,3,4,5 RESULTS)!!!! 
+Example of answer: "economics and business:70&media and communications:60" 

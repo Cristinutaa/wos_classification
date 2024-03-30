@@ -1,0 +1,3 @@
+Given the abstract '{}' and the disciplines 'economics and business' and 'other social sciences', with the descriptions:
+'Economics, Econometrics; Industrial relations; Business and Management' (for economics and business) and
+'Social sciences, interdisciplinary; Other social sciences' (for other social sciences), which one is more relevant? Choose only one and only write your choice, no additional information. Choose only between 'economics and business' and 'other social sciences'

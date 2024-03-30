@@ -1,0 +1,12 @@
+Given the following 5 classes: agriculture, forestry, and fisheries;animal and dairy science;veterinary science;agricultural biotechnology;other agricultural sciences 
+The classes description: 
+agriculture, forestry, and fisheries: Agriculture; Forestry; Fishery; Soil science; Horticulture, viticulture; Agronomy, plant breeding and plant protection 
+animal and dairy science: Animal and dairy science; Husbandry; Pets 
+veterinary science: Veterinary science 
+agricultural biotechnology: Agricultural biotechnology and food biotechnology; GM technology (crops and livestock), livestock cloning, marker assisted selection, diagnostics (DNA chips and biosensing devices for the early/accurate detection of diseases) biomass feedstock production technologies, biopharming; agricultural biotechnology related ethics 
+other agricultural sciences: Other agricultural sciences 
+Return the most relevant classes for the FOLLOWING abstract. Return ONLY THE CLASSES separated by "&" in the ORDER OF RELEVANCE WITH THEIR RELEVANCE SCORE (between 0 and 100) in one line and never any aditional context: 
+{} 
+Please, DON'T RETURN OTHER CLASSES, ONLY A SUBSET OF THE 5, otherwise the result is invalid!!! The results of my study depends on it.
+ DON'T RETURN MORE THAN FIVE RESULTS. ONLY THE MOST RELEVANT AND MAX 5 (1,2,3,4,5 RESULTS)!!!! 
+Example of answer: "agricultural biotechnology:70&agricultural biotechnology:60" 

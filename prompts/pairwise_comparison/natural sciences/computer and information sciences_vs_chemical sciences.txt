@@ -1,0 +1,3 @@
+Given the abstract '{}' and the disciplines 'computer and information sciences' and 'chemical sciences', with the descriptions:
+'Computer sciences, information science and bioinformatics (hardware development to be in Electrical Engineering, social aspect to be in Media and Communication)' (for computer and information sciences) and
+'Organic chemistry; Inorganic and nuclear chemistry; Physical chemistry, Polymer science, Electrochemistry (dry cells, batteries, fuel cells, corrosion metals, electrolysis); Colloid chemistry; Analytical chemistry' (for chemical sciences), which one is more relevant? Choose only one and only write your choice, no additional information. Choose only between 'computer and information sciences' and 'chemical sciences'

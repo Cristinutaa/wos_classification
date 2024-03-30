@@ -1,0 +1,25 @@
+Given the following 9 classes: psychology;economics and business;educational sciences;sociology;law;political science;social and economic geography;media and communications;other social sciences 
+The classes description and example of abstracts: 
+psychology: Psychology (including human - machine relations); Psychology, special (including therapy for learning, speech, hearing, visual and other physical and mental disabilities) 
+ Example abstract: Trauma and Stress Associated With Breast Cancer Survivors-A Natural Language Processing Study;A comparison of counselling self-efficacy among international and domestic counselling students;In the same boat? An online group career counseling with a group of young adults in the time of COVID-19 
+economics and business: Economics, Econometrics; Industrial relations; Business and Management 
+ Example abstract: The effect of international subsidiaries on voluntary disclosure-evidence from natural disasters;The effect of international subsidiaries on voluntary disclosure-evidence from natural disasters;Strategic delegation under rational and fulfilled expectations in quantity competition 
+educational sciences: Education, general; including training, pedagogy, didactics; Education, special (to gifted persons, those with learning disabilities) 
+ Example abstract: Reimagining American Education: Possible Futures Youth, families, and communities as educational leaders;Reimagining American Education: Possible Futures Youth, families, and communities as educational leaders;Pre-service teachers' ethical role construction in China 
+sociology: Sociology; Demography; Anthropology, ethnology; Social topics (Womenís and gender studies; Social issues; Family studies, Social work) 
+ Example abstract: From "Recognizing the Temple but not the Grave" to Recognizing Both A Study of the Change of Funeral Culture of the Deang People;From "Recognizing the Temple but not the Grave" to Recognizing Both A Study of the Change of Funeral Culture of the Deang People;"Conversations with You, Places of Freedom": Writing, Desire, and Prison Intimacies 
+law: Law, criminology, penology 
+ Example abstract: Human Dignity in Legal Argumentation: A Functional Perspective;Human Dignity in Legal Argumentation: A Functional Perspective;WHITE VIGILANTISM AND THE RACISM OF RACE-NEUTRALITY 
+political science: Political science; public administration; organisation theory 
+ Example abstract: Public and private healthcare sectors during COVID-19: the main challenges in Lithuania;Public and private healthcare sectors during COVID-19: the main challenges in Lithuania;How to Finance Terrorism: The Italian Red Brigades (1970-1988) 
+social and economic geography: Environmental sciences (social aspects); Cultural and economic geography; Urban studies (Planning and development); Transport planning and social aspects of transport (transport engineering to be Civil Engineering) 
+ Example abstract: Sri Lanka in 2021 Vistas on the Brink;Global studies and human geography: A view from Aotearoa New Zealand;Global studies and human geography: A view from Aotearoa New Zealand 
+media and communications: Journalism; Information science (social aspects); Library science; Media and socio-cultural communication 
+ Example abstract: Exploring Cultural Competence: A Case Study of Two Academic Libraries;Service Philosophy Statements in Practice: Motivation, Authorship, and Impact;Sensing What's New: Considering Ethics When Using Sensor Data in Journalistic Practices 
+other social sciences: Social sciences, interdisciplinary; Other social sciences 
+ Example abstract: A Useful Failure: Macron's Overture to Russia;A Useful Failure: Macron's Overture to Russia;Political attitudes and Plog's travel personality model 
+Return the most relevant classes for the FOLLOWING abstract. Return ONLY THE CLASSES separated by "&" in the ORDER OF RELEVANCE WITH THEIR RELEVANCE SCORE (between 0 and 100) in one line and never any aditional context: 
+{} 
+Please, DON'T RETURN OTHER CLASSES, ONLY A SUBSET OF THE 9, otherwise the result is invalid!!! The results of my study depends on it.
+ DON'T RETURN MORE THAN FIVE RESULTS. ONLY THE MOST RELEVANT AND MAX 5 (1,2,3,4,5 RESULTS)!!!! 
+Example of answer: "political science:70&educational sciences:60" 

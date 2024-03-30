@@ -1,0 +1,4599 @@
+{
+    "490689400001": {
+        "agricultural sciences": {
+            "score": "70",
+            "disciplines": {
+                "agriculture, forestry, and fisheries": "80",
+                "animal and dairy science": "70",
+                "agricultural biotechnology": "50",
+                "other agricultural sciences": "40",
+                "veterinary science": "20"
+            }
+        },
+        "natural sciences": {
+            "score": "60",
+            "disciplines": {
+                "biological sciences": "80",
+                "chemical sciences": "70",
+                "earth and related environmental sciences": "60",
+                "physical sciences": "50",
+                "other natural sciences": "40"
+            }
+        }
+    },
+    "497937300001": {
+        "agricultural sciences": {
+            "score": "60",
+            "disciplines": {
+                "agriculture, forestry, and fisheries": "100",
+                "animal and dairy science": "90",
+                "veterinary science": "80",
+                "agricultural biotechnology": "50",
+                "other agricultural sciences": "30"
+            }
+        }
+    },
+    "500234900001": {
+        "humanities": {
+            "score": "90",
+            "disciplines": {
+                "philosophy and ethics": "80",
+                "literature": "70",
+                "history": "60"
+            }
+        },
+        "social sciences": {
+            "score": "80",
+            "disciplines": {
+                "media and communications": "80",
+                "psychology": "70",
+                "other social sciences": "60",
+                "educational sciences": "50",
+                "sociology": "40"
+            }
+        },
+        "engineering and technology": {
+            "score": "70",
+            "disciplines": {
+                "other engineering and technologies": "70",
+                "chemical engineering": "45",
+                "environmental engineering": "25"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "clinical medicine": "90",
+                "basic medicine": "80",
+                "health sciences": "70",
+                "other medical sciences": "60",
+                "health biotechnology": "50"
+            }
+        }
+    },
+    "515343800001": {
+        "humanities": {
+            "score": "60",
+            "disciplines": {
+                "history": "80",
+                "archaeology": "70",
+                "religion": "60",
+                "literature": "40"
+            }
+        }
+    },
+    "516167800001": {
+        "engineering and technology": {
+            "score": "90",
+            "disciplines": {
+                "chemical engineering": "55",
+                "industrial biotechnology": "55",
+                "materials engineering": "55"
+            }
+        },
+        "medical and health sciences": {
+            "score": "80",
+            "disciplines": {
+                "health biotechnology": "100",
+                "clinical medicine": "86",
+                "other medical sciences": "78",
+                "basic medicine": "40"
+            }
+        },
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "chemical sciences": "80",
+                "biological sciences": "70",
+                "physical sciences": "60"
+            }
+        },
+        "agricultural sciences": {
+            "score": "60",
+            "disciplines": {
+                "agricultural biotechnology": "80",
+                "agriculture, forestry, and fisheries": "75",
+                "animal and dairy science": "70",
+                "other agricultural sciences": "65",
+                "veterinary science": "60"
+            }
+        }
+    },
+    "521535000001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "media and communications": "80",
+                "other social sciences": "70",
+                "educational sciences": "60"
+            }
+        },
+        "engineering and technology": {
+            "score": "60",
+            "disciplines": {
+                "other engineering and technologies": "50",
+                "civil engineering": "30",
+                "mechanical engineering": "20"
+            }
+        }
+    },
+    "524076900001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "sociology": "80",
+                "educational sciences": "65",
+                "media and communications": "55",
+                "social and economic geography": "50",
+                "other social sciences": "40"
+            }
+        },
+        "humanities": {
+            "score": "60",
+            "disciplines": {
+                "languages and linguistics": "80",
+                "history": "70"
+            }
+        }
+    },
+    "554073600001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "psychology": "60",
+                "economics and business": "40",
+                "law": "30",
+                "sociology": "20"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "clinical medicine": "100",
+                "basic medicine": "90",
+                "health sciences": "80",
+                "other medical sciences": "70",
+                "health biotechnology": "60"
+            }
+        }
+    },
+    "557205700001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "social and economic geography": "80",
+                "psychology": "70",
+                "law": "60",
+                "economics and business": "50",
+                "other social sciences": "40"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "clinical medicine": "90",
+                "basic medicine": "85",
+                "other medical sciences": "75",
+                "health biotechnology": "70"
+            }
+        }
+    },
+    "561686000001": {},
+    "591826100001": {
+        "natural sciences": {
+            "score": "78",
+            "disciplines": {
+                "chemical sciences": "90",
+                "physical sciences": "80",
+                "earth and related environmental sciences": "70",
+                "other natural sciences": "60",
+                "computer and information sciences": "50"
+            }
+        },
+        "engineering and technology": {
+            "score": "74",
+            "disciplines": {
+                "materials engineering": "80",
+                "chemical engineering": "70",
+                "industrial biotechnology": "60",
+                "other engineering and technologies": "50",
+                "civil engineering": "40"
+            }
+        },
+        "medical and health sciences": {
+            "score": "68",
+            "disciplines": {
+                "health sciences": "70",
+                "health biotechnology": "60",
+                "clinical medicine": "50",
+                "basic medicine": "40",
+                "other medical sciences": "30"
+            }
+        },
+        "agricultural sciences": {
+            "score": "64",
+            "disciplines": {
+                "agricultural biotechnology": "60",
+                "animal and dairy science": "55"
+            }
+        },
+        "humanities": {
+            "score": "60",
+            "disciplines": {
+                "history": "70",
+                "archaeology": "60",
+                "literature": "40",
+                "languages and linguistics": "30"
+            }
+        }
+    },
+    "593993800001": {
+        "agricultural sciences": {
+            "score": "70",
+            "disciplines": {
+                "animal and dairy science": "70",
+                "veterinary science": "60",
+                "other agricultural sciences": "50",
+                "agriculture, forestry, and fisheries": "40",
+                "agricultural biotechnology": "30"
+            }
+        },
+        "engineering and technology": {
+            "score": "60",
+            "disciplines": {
+                "chemical engineering": "90",
+                "industrial biotechnology": "70",
+                "medical engineering": "60",
+                "environmental engineering": "50"
+            }
+        }
+    },
+    "596214200001": {
+        "engineering and technology": {
+            "score": "70",
+            "disciplines": {
+                "chemical engineering": "70",
+                "materials engineering": "60",
+                "industrial biotechnology": "50",
+                "environmental engineering": "40"
+            }
+        },
+        "natural sciences": {
+            "score": "60",
+            "disciplines": {
+                "physical sciences": "90",
+                "chemical sciences": "85",
+                "earth and related environmental sciences": "80",
+                "computer and information sciences": "70",
+                "mathematics": "65"
+            }
+        }
+    },
+    "599541400001": {
+        "social sciences": {
+            "score": "65",
+            "disciplines": {
+                "sociology": "90",
+                "political science": "80",
+                "law": "70",
+                "psychology": "60",
+                "educational sciences": "50"
+            }
+        }
+    },
+    "603787200001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "psychology": "90",
+                "economics and business": "85",
+                "sociology": "80",
+                "educational sciences": "75",
+                "media and communications": "70"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "clinical medicine": "80",
+                "basic medicine": "70",
+                "health sciences": "60",
+                "other medical sciences": "50",
+                "health biotechnology": "40"
+            }
+        }
+    },
+    "611026300001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "media and communications": "90",
+                "other social sciences": "80",
+                "political science": "70",
+                "sociology": "60",
+                "educational sciences": "50"
+            }
+        }
+    },
+    "612772800001": {
+        "engineering and technology": {
+            "score": "80",
+            "disciplines": {
+                "chemical engineering": "30",
+                "mechanical engineering": "10",
+                "civil engineering": "5"
+            }
+        },
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "computer and information sciences": "90",
+                "mathematics": "80",
+                "physical sciences": "70",
+                "other natural sciences": "60",
+                "chemical sciences": "50"
+            }
+        }
+    },
+    "612793300001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "sociology": "80",
+                "law": "70",
+                "political science": "60",
+                "educational sciences": "50",
+                "psychology": "40"
+            }
+        },
+        "humanities": {
+            "score": "60",
+            "disciplines": {
+                "history": "90",
+                "philosophy and ethics": "80",
+                "literature": "70",
+                "other humanities": "60",
+                "religion": "40"
+            }
+        }
+    },
+    "619768700001": {
+        "humanities": {
+            "score": "70",
+            "disciplines": {
+                "philosophy and ethics": "70",
+                "languages and linguistics": "60",
+                "literature": "40",
+                "history": "30"
+            }
+        },
+        "social sciences": {
+            "score": "60",
+            "disciplines": {
+                "media and communications": "80",
+                "other social sciences": "70",
+                "educational sciences": "60",
+                "psychology": "50",
+                "economics and business": "40"
+            }
+        }
+    },
+    "621271200001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "political science": "70",
+                "law": "60",
+                "educational sciences": "50",
+                "social and economic geography": "40"
+            }
+        },
+        "humanities": {
+            "score": "60",
+            "disciplines": {
+                "history": "70",
+                "religion": "60",
+                "philosophy and ethics": "50"
+            }
+        }
+    },
+    "621319300001": {
+        "engineering and technology": {
+            "score": "90",
+            "disciplines": {
+                "civil engineering": "80",
+                "materials engineering": "70",
+                "mechanical engineering": "60"
+            }
+        },
+        "natural sciences": {
+            "score": "80",
+            "disciplines": {
+                "computer and information sciences": "65",
+                "other natural sciences": "60",
+                "physical sciences": "55",
+                "mathematics": "50",
+                "earth and related environmental sciences": "45"
+            }
+        },
+        "agricultural sciences": {
+            "score": "60",
+            "disciplines": {
+                "agricultural biotechnology": "90",
+                "agriculture, forestry, and fisheries": "80",
+                "other agricultural sciences": "70",
+                "animal and dairy science": "60",
+                "veterinary science": "50"
+            }
+        }
+    },
+    "624081100001": {
+        "social sciences": {
+            "score": "90",
+            "disciplines": {
+                "psychology": "90",
+                "educational sciences": "80",
+                "sociology": "70",
+                "social and economic geography": "60",
+                "media and communications": "50"
+            }
+        },
+        "humanities": {
+            "score": "80",
+            "disciplines": {
+                "history": "80",
+                "literature": "70",
+                "philosophy and ethics": "40",
+                "archaeology": "30"
+            }
+        },
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "other natural sciences": "70",
+                "biological sciences": "60",
+                "earth and related environmental sciences": "50",
+                "physical sciences": "40",
+                "chemical sciences": "30"
+            }
+        },
+        "engineering and technology": {
+            "score": "60",
+            "disciplines": {
+                "environmental engineering": "90",
+                "other engineering and technologies": "80",
+                "materials engineering": "55",
+                "chemical engineering": "40"
+            }
+        }
+    },
+    "624082400001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "psychology": "85",
+                "economics and business": "70",
+                "educational sciences": "60",
+                "sociology": "50",
+                "media and communications": "40"
+            }
+        }
+    },
+    "627079800001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "law": "90",
+                "sociology": "80",
+                "educational sciences": "70",
+                "psychology": "60",
+                "economics and business": "50"
+            }
+        },
+        "humanities": {
+            "score": "60",
+            "disciplines": {
+                "religion": "70",
+                "philosophy and ethics": "60",
+                "history": "50",
+                "other humanities": "40",
+                "literature": "30"
+            }
+        }
+    },
+    "628662200001": {
+        "engineering and technology": {
+            "score": "80",
+            "disciplines": {
+                "environmental engineering": "80",
+                "chemical engineering": "70",
+                "industrial biotechnology": "70",
+                "medical engineering": "60",
+                "other engineering and technologies": "60"
+            }
+        },
+        "agricultural sciences": {
+            "score": "70",
+            "disciplines": {
+                "agricultural biotechnology": "70",
+                "agriculture, forestry, and fisheries": "65",
+                "other agricultural sciences": "63",
+                "animal and dairy science": "56",
+                "veterinary science": "52"
+            }
+        },
+        "natural sciences": {
+            "score": "65",
+            "disciplines": {
+                "chemical sciences": "85",
+                "biological sciences": "82",
+                "earth and related environmental sciences": "75",
+                "mathematics": "62",
+                "computer and information sciences": "58"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "health biotechnology": "70",
+                "basic medicine": "60",
+                "clinical medicine": "50",
+                "other medical sciences": "40",
+                "health sciences": "30"
+            }
+        }
+    },
+    "628940700001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "economics and business": "90",
+                "social and economic geography": "80",
+                "educational sciences": "70",
+                "political science": "60",
+                "media and communications": "50"
+            }
+        }
+    },
+    "636175400001": {
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "chemical sciences": "100",
+                "physical sciences": "100",
+                "other natural sciences": "80",
+                "earth and related environmental sciences": "40",
+                "computer and information sciences": "10"
+            }
+        },
+        "engineering and technology": {
+            "score": "60",
+            "disciplines": {
+                "civil engineering": "60",
+                "materials engineering": "50",
+                "mechanical engineering": "50",
+                "chemical engineering": "40"
+            }
+        }
+    },
+    "638108700001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "sociology": "80",
+                "psychology": "70",
+                "media and communications": "60",
+                "educational sciences": "50",
+                "social and economic geography": "40"
+            }
+        }
+    },
+    "642054900001": {
+        "humanities": {
+            "score": "80",
+            "disciplines": {
+                "archaeology": "100",
+                "history": "90",
+                "philosophy and ethics": "85",
+                "languages and linguistics": "75",
+                "literature": "70"
+            }
+        },
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "social and economic geography": "80",
+                "educational sciences": "75",
+                "psychology": "60",
+                "media and communications": "55",
+                "other social sciences": "50"
+            }
+        }
+    },
+    "645635400001": {
+        "engineering and technology": {
+            "score": "90",
+            "disciplines": {
+                "environmental engineering": "90",
+                "mechanical engineering": "80",
+                "chemical engineering": "70",
+                "civil engineering": "60"
+            }
+        },
+        "agricultural sciences": {
+            "score": "80",
+            "disciplines": {
+                "agriculture, forestry, and fisheries": "80",
+                "agricultural biotechnology": "70",
+                "animal and dairy science": "60",
+                "veterinary science": "50",
+                "other agricultural sciences": "40"
+            }
+        },
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "economics and business": "90",
+                "political science": "80",
+                "educational sciences": "70",
+                "social and economic geography": "60",
+                "law": "50"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "health sciences": "100",
+                "health biotechnology": "70",
+                "clinical medicine": "60",
+                "other medical sciences": "50",
+                "basic medicine": "40"
+            }
+        }
+    },
+    "646510600001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "social and economic geography": "80",
+                "political science": "70",
+                "economics and business": "60",
+                "law": "50"
+            }
+        }
+    },
+    "647506500001": {
+        "medical and health sciences": {
+            "score": "80",
+            "disciplines": {
+                "health biotechnology": "81",
+                "clinical medicine": "74",
+                "health sciences": "70",
+                "basic medicine": "66"
+            }
+        }
+    },
+    "648065700001": {
+        "humanities": {
+            "score": "80",
+            "disciplines": {
+                "religion": "70",
+                "philosophy and ethics": "60",
+                "other humanities": "40",
+                "history": "30",
+                "languages and linguistics": "20"
+            }
+        },
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "law": "90",
+                "economics and business": "80",
+                "political science": "75",
+                "media and communications": "70",
+                "psychology": "65"
+            }
+        }
+    },
+    "648261100002": {
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "mathematics": "80",
+                "computer and information sciences": "65",
+                "physical sciences": "60",
+                "chemical sciences": "55",
+                "earth and related environmental sciences": "40"
+            }
+        }
+    },
+    "649378700001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "psychology": "80",
+                "economics and business": "60",
+                "educational sciences": "40",
+                "sociology": "30",
+                "law": "20"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "clinical medicine": "90",
+                "health sciences": "80",
+                "other medical sciences": "70",
+                "basic medicine": "60",
+                "health biotechnology": "40"
+            }
+        }
+    },
+    "651341700002": {
+        "engineering and technology": {
+            "score": "80",
+            "disciplines": {
+                "environmental engineering": "90",
+                "civil engineering": "80",
+                "materials engineering": "70",
+                "chemical engineering": "60",
+                "industrial biotechnology": "50"
+            }
+        },
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "chemical sciences": "90",
+                "earth and related environmental sciences": "80",
+                "physical sciences": "75"
+            }
+        },
+        "agricultural sciences": {
+            "score": "60",
+            "disciplines": {
+                "agricultural biotechnology": "90",
+                "agriculture, forestry, and fisheries": "80",
+                "other agricultural sciences": "60"
+            }
+        }
+    },
+    "656710900001": {
+        "engineering and technology": {
+            "score": "90",
+            "disciplines": {
+                "materials engineering": "80",
+                "chemical engineering": "70",
+                "industrial biotechnology": "60",
+                "medical engineering": "50",
+                "environmental engineering": "40"
+            }
+        },
+        "medical and health sciences": {
+            "score": "80",
+            "disciplines": {
+                "clinical medicine": "100",
+                "basic medicine": "90",
+                "health sciences": "80",
+                "other medical sciences": "70",
+                "health biotechnology": "60"
+            }
+        },
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "chemical sciences": "90",
+                "physical sciences": "80",
+                "other natural sciences": "70",
+                "earth and related environmental sciences": "70",
+                "biological sciences": "60"
+            }
+        }
+    },
+    "658650000001": {
+        "humanities": {
+            "score": "80",
+            "disciplines": {
+                "philosophy and ethics": "100",
+                "religion": "100",
+                "history": "70",
+                "languages and linguistics": "60",
+                "literature": "30"
+            }
+        },
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "psychology": "80",
+                "economics and business": "65",
+                "educational sciences": "50",
+                "sociology": "45",
+                "law": "40"
+            }
+        },
+        "engineering and technology": {
+            "score": "60",
+            "disciplines": {
+                "other engineering and technologies": "50",
+                "civil engineering": "30",
+                "chemical engineering": "20"
+            }
+        }
+    },
+    "658765500001": {
+        "agricultural sciences": {
+            "score": "80",
+            "disciplines": {
+                "agricultural biotechnology": "100",
+                "other agricultural sciences": "90",
+                "animal and dairy science": "80",
+                "agriculture, forestry, and fisheries": "70",
+                "veterinary science": "60"
+            }
+        },
+        "engineering and technology": {
+            "score": "70",
+            "disciplines": {
+                "environmental engineering": "70",
+                "other engineering and technologies": "60",
+                "chemical engineering": "50"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "health sciences": "70",
+                "health biotechnology": "50",
+                "clinical medicine": "40",
+                "basic medicine": "30",
+                "other medical sciences": "20"
+            }
+        }
+    },
+    "659752500001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "sociology": "70",
+                "political science": "60",
+                "law": "55"
+            }
+        },
+        "humanities": {
+            "score": "60",
+            "disciplines": {
+                "philosophy and ethics": "80",
+                "literature": "70",
+                "history": "60",
+                "religion": "50",
+                "archaeology": "40"
+            }
+        }
+    },
+    "659834600001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "political science": "80",
+                "economics and business": "70",
+                "law": "60",
+                "social and economic geography": "50"
+            }
+        },
+        "agricultural sciences": {
+            "score": "60",
+            "disciplines": {
+                "agriculture, forestry, and fisheries": "100",
+                "other agricultural sciences": "90"
+            }
+        }
+    },
+    "661687900001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "educational sciences": "90",
+                "economics and business": "80",
+                "psychology": "70",
+                "sociology": "60",
+                "media and communications": "50"
+            }
+        },
+        "engineering and technology": {
+            "score": "65",
+            "disciplines": {
+                "civil engineering": "50",
+                "mechanical engineering": "20",
+                "chemical engineering": "10"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "clinical medicine": "80",
+                "basic medicine": "75",
+                "health sciences": "70",
+                "other medical sciences": "60",
+                "health biotechnology": "50"
+            }
+        },
+        "natural sciences": {
+            "score": "60",
+            "disciplines": {
+                "computer and information sciences": "90",
+                "mathematics": "80",
+                "other natural sciences": "70",
+                "physical sciences": "60",
+                "chemical sciences": "50"
+            }
+        }
+    },
+    "667575800001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "social and economic geography": "90",
+                "law": "80",
+                "psychology": "70",
+                "sociology": "60",
+                "economics and business": "50"
+            }
+        }
+    },
+    "667583400001": {
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "earth and related environmental sciences": "60",
+                "chemical sciences": "50",
+                "biological sciences": "40"
+            }
+        },
+        "agricultural sciences": {
+            "score": "60",
+            "disciplines": {
+                "agriculture, forestry, and fisheries": "80",
+                "animal and dairy science": "60",
+                "other agricultural sciences": "50",
+                "agricultural biotechnology": "40",
+                "veterinary science": "30"
+            }
+        }
+    },
+    "669184300001": {
+        "natural sciences": {
+            "score": "100",
+            "disciplines": {
+                "biological sciences": "80",
+                "chemical sciences": "60",
+                "physical sciences": "50",
+                "other natural sciences": "40",
+                "earth and related environmental sciences": "30"
+            }
+        },
+        "agricultural sciences": {
+            "score": "80",
+            "disciplines": {
+                "agricultural biotechnology": "80",
+                "other agricultural sciences": "70",
+                "agriculture, forestry, and fisheries": "60",
+                "animal and dairy science": "50",
+                "veterinary science": "40"
+            }
+        },
+        "engineering and technology": {
+            "score": "70",
+            "disciplines": {
+                "environmental biotechnology": "95",
+                "industrial biotechnology": "90",
+                "chemical engineering": "80",
+                "medical engineering": "70",
+                "nano-technology": "60"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "health biotechnology": "70",
+                "clinical medicine": "60",
+                "health sciences": "50"
+            }
+        }
+    },
+    "670133200001": {
+        "engineering and technology": {
+            "score": "100",
+            "disciplines": {
+                "materials engineering": "80",
+                "chemical engineering": "70",
+                "nano-technology": "60",
+                "environmental engineering": "50",
+                "other engineering and technologies": "40"
+            }
+        },
+        "agricultural sciences": {
+            "score": "80",
+            "disciplines": {
+                "agriculture, forestry, and fisheries": "90",
+                "agricultural biotechnology": "80",
+                "other agricultural sciences": "70",
+                "animal and dairy science": "60",
+                "veterinary science": "50"
+            }
+        },
+        "medical and health sciences": {
+            "score": "70",
+            "disciplines": {
+                "basic medicine": "80",
+                "clinical medicine": "70",
+                "other medical sciences": "60",
+                "health biotechnology": "40",
+                "health sciences": "30"
+            }
+        },
+        "natural sciences": {
+            "score": "60",
+            "disciplines": {
+                "chemical sciences": "80",
+                "earth and related environmental sciences": "70",
+                "physical sciences": "60"
+            }
+        }
+    },
+    "670806500001": {
+        "engineering and technology": {
+            "score": "80",
+            "disciplines": {
+                "chemical engineering": "80",
+                "mechanical engineering": "70",
+                "materials engineering": "60"
+            }
+        },
+        "natural sciences": {
+            "score": "75",
+            "disciplines": {
+                "chemical sciences": "100",
+                "computer and information sciences": "90",
+                "mathematics": "80",
+                "physical sciences": "70",
+                "other natural sciences": "60"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "clinical medicine": "100",
+                "health sciences": "90",
+                "basic medicine": "80",
+                "other medical sciences": "30",
+                "health biotechnology": "20"
+            }
+        }
+    },
+    "670862100002": {
+        "engineering and technology": {
+            "score": "80",
+            "disciplines": {
+                "chemical engineering": "80",
+                "industrial biotechnology": "70",
+                "environmental engineering": "60",
+                "medical engineering": "50",
+                "other engineering and technologies": "40"
+            }
+        },
+        "agricultural sciences": {
+            "score": "70",
+            "disciplines": {
+                "animal and dairy science": "75",
+                "agriculture, forestry, and fisheries": "70",
+                "other agricultural sciences": "65",
+                "agricultural biotechnology": "60",
+                "veterinary science": "55"
+            }
+        },
+        "natural sciences": {
+            "score": "60",
+            "disciplines": {
+                "chemical sciences": "76",
+                "other natural sciences": "50",
+                "biological sciences": "26",
+                "earth and related environmental sciences": "17",
+                "physical sciences": "11"
+            }
+        }
+    },
+    "672979000001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "media and communications": "80",
+                "social and economic geography": "70",
+                "educational sciences": "50",
+                "psychology": "40",
+                "economics and business": "30"
+            }
+        }
+    },
+    "673474900001": {
+        "medical and health sciences": {
+            "score": "80",
+            "disciplines": {
+                "clinical medicine": "70",
+                "basic medicine": "60",
+                "health sciences": "60"
+            }
+        },
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "psychology": "90"
+            }
+        }
+    },
+    "673692000004": {
+        "engineering and technology": {
+            "score": "90",
+            "disciplines": {
+                "chemical engineering": "85",
+                "materials engineering": "75",
+                "civil engineering": "63",
+                "other engineering and technologies": "60",
+                "environmental engineering": "58"
+            }
+        },
+        "natural sciences": {
+            "score": "80",
+            "disciplines": {
+                "chemical sciences": "80",
+                "physical sciences": "70",
+                "earth and related environmental sciences": "60",
+                "computer and information sciences": "50",
+                "mathematics": "40"
+            }
+        },
+        "medical and health sciences": {
+            "score": "70",
+            "disciplines": {
+                "clinical medicine": "70",
+                "health sciences": "65",
+                "basic medicine": "55",
+                "other medical sciences": "40",
+                "health biotechnology": "30"
+            }
+        },
+        "agricultural sciences": {
+            "score": "60",
+            "disciplines": {
+                "agricultural biotechnology": "100",
+                "agriculture, forestry, and fisheries": "90",
+                "other agricultural sciences": "80",
+                "animal and dairy science": "70",
+                "veterinary science": "60"
+            }
+        }
+    },
+    "675784600001": {
+        "medical and health sciences": {
+            "score": "70",
+            "disciplines": {
+                "health biotechnology": "80",
+                "basic medicine": "70",
+                "clinical medicine": "65",
+                "health sciences": "60",
+                "other medical sciences": "50"
+            }
+        },
+        "engineering and technology": {
+            "score": "60",
+            "disciplines": {
+                "medical engineering": "90",
+                "chemical engineering": "80",
+                "industrial biotechnology": "70",
+                "environmental biotechnology": "60",
+                "other engineering and technologies": "50"
+            }
+        }
+    },
+    "677293500001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "political science": "60",
+                "psychology": "50",
+                "sociology": "40",
+                "law": "30",
+                "economics and business": "20"
+            }
+        },
+        "humanities": {
+            "score": "60",
+            "disciplines": {
+                "history": "90",
+                "philosophy and ethics": "70",
+                "languages and linguistics": "60",
+                "literature": "50",
+                "archaeology": "40"
+            }
+        }
+    },
+    "678897900001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "law": "90",
+                "sociology": "80",
+                "political science": "70",
+                "media and communications": "60",
+                "social and economic geography": "50"
+            }
+        },
+        "humanities": {
+            "score": "60",
+            "disciplines": {
+                "philosophy and ethics": "85",
+                "history": "80",
+                "other humanities": "75",
+                "religion": "70",
+                "literature": "65"
+            }
+        }
+    },
+    "678941200001": {
+        "natural sciences": {
+            "score": "99",
+            "disciplines": {
+                "biological sciences": "75",
+                "mathematics": "70",
+                "physical sciences": "65",
+                "chemical sciences": "60",
+                "computer and information sciences": "55"
+            }
+        },
+        "medical and health sciences": {
+            "score": "90",
+            "disciplines": {
+                "other medical sciences": "80",
+                "health sciences": "70",
+                "clinical medicine": "60",
+                "basic medicine": "50",
+                "health biotechnology": "40"
+            }
+        },
+        "engineering and technology": {
+            "score": "80",
+            "disciplines": {
+                "environmental engineering": "70",
+                "medical engineering": "60",
+                "materials engineering": "50",
+                "chemical engineering": "40"
+            }
+        },
+        "agricultural sciences": {
+            "score": "70",
+            "disciplines": {
+                "agricultural biotechnology": "70",
+                "other agricultural sciences": "60"
+            }
+        },
+        "social sciences": {
+            "score": "60",
+            "disciplines": {
+                "other social sciences": "70",
+                "sociology": "60",
+                "educational sciences": "50",
+                "psychology": "40",
+                "economics and business": "30"
+            }
+        }
+    },
+    "679529500001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "economics and business": "90",
+                "political science": "80",
+                "law": "70",
+                "social and economic geography": "60"
+            }
+        },
+        "engineering and technology": {
+            "score": "60",
+            "disciplines": {
+                "civil engineering": "70",
+                "chemical engineering": "60",
+                "environmental engineering": "50"
+            }
+        }
+    },
+    "684419900001": {
+        "agricultural sciences": {
+            "score": "80",
+            "disciplines": {
+                "animal and dairy science": "90",
+                "agriculture, forestry, and fisheries": "80",
+                "veterinary science": "70",
+                "other agricultural sciences": "60",
+                "agricultural biotechnology": "50"
+            }
+        },
+        "medical and health sciences": {
+            "score": "70",
+            "disciplines": {
+                "basic medicine": "80",
+                "clinical medicine": "75",
+                "health sciences": "70",
+                "other medical sciences": "60"
+            }
+        },
+        "natural sciences": {
+            "score": "60",
+            "disciplines": {
+                "biological sciences": "90",
+                "earth and related environmental sciences": "80",
+                "other natural sciences": "70",
+                "chemical sciences": "60",
+                "physical sciences": "50"
+            }
+        }
+    },
+    "685959700001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "psychology": "70",
+                "economics and business": "60",
+                "educational sciences": "50",
+                "sociology": "40",
+                "law": "30"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "clinical medicine": "80",
+                "basic medicine": "70",
+                "health sciences": "60",
+                "health biotechnology": "50",
+                "other medical sciences": "40"
+            }
+        }
+    },
+    "686834500001": {
+        "engineering and technology": {
+            "score": "100",
+            "disciplines": {
+                "chemical engineering": "80",
+                "materials engineering": "70",
+                "medical engineering": "60",
+                "industrial biotechnology": "40"
+            }
+        },
+        "medical and health sciences": {
+            "score": "80",
+            "disciplines": {
+                "clinical medicine": "80",
+                "health sciences": "70",
+                "other medical sciences": "60"
+            }
+        },
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "chemical sciences": "70",
+                "biological sciences": "60",
+                "other natural sciences": "50",
+                "physical sciences": "40",
+                "computer and information sciences": "30"
+            }
+        },
+        "agricultural sciences": {
+            "score": "60",
+            "disciplines": {
+                "agricultural biotechnology": "90",
+                "other agricultural sciences": "80",
+                "animal and dairy science": "70",
+                "agriculture, forestry, and fisheries": "60",
+                "veterinary science": "50"
+            }
+        }
+    },
+    "687892500001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "psychology": "70",
+                "economics and business": "60",
+                "educational sciences": "50",
+                "sociology": "40",
+                "law": "30"
+            }
+        },
+        "engineering and technology": {
+            "score": "60",
+            "disciplines": {
+                "civil engineering": "70",
+                "mechanical engineering": "60",
+                "chemical engineering": "30"
+            }
+        }
+    },
+    "687963200001": {
+        "engineering and technology": {
+            "score": "80",
+            "disciplines": {
+                "mechanical engineering": "70",
+                "medical engineering": "60",
+                "other engineering and technologies": "30"
+            }
+        },
+        "medical and health sciences": {
+            "score": "70",
+            "disciplines": {
+                "clinical medicine": "90",
+                "basic medicine": "80",
+                "health sciences": "70",
+                "other medical sciences": "50",
+                "health biotechnology": "40"
+            }
+        },
+        "natural sciences": {
+            "score": "60",
+            "disciplines": {
+                "physical sciences": "85",
+                "computer and information sciences": "80",
+                "mathematics": "75",
+                "chemical sciences": "70",
+                "other natural sciences": "65"
+            }
+        }
+    },
+    "689493100001": {
+        "social sciences": {
+            "score": "60",
+            "disciplines": {
+                "economics and business": "80",
+                "media and communications": "70",
+                "other social sciences": "70",
+                "law": "60",
+                "political science": "50"
+            }
+        }
+    },
+    "690708600001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "sociology": "80",
+                "educational sciences": "70",
+                "psychology": "60"
+            }
+        },
+        "humanities": {
+            "score": "60",
+            "disciplines": {
+                "history": "80",
+                "archaeology": "70",
+                "philosophy and ethics": "60",
+                "languages and linguistics": "50"
+            }
+        }
+    },
+    "690992700001": {
+        "agricultural sciences": {
+            "score": "70",
+            "disciplines": {
+                "agriculture, forestry, and fisheries": "80",
+                "agricultural biotechnology": "70",
+                "other agricultural sciences": "60",
+                "animal and dairy science": "55",
+                "veterinary science": "50"
+            }
+        },
+        "engineering and technology": {
+            "score": "60",
+            "disciplines": {
+                "environmental engineering": "80",
+                "materials engineering": "70",
+                "civil engineering": "60",
+                "chemical engineering": "50"
+            }
+        }
+    },
+    "691152500001": {
+        "humanities": {
+            "score": "90",
+            "disciplines": {
+                "philosophy and ethics": "80",
+                "religion": "70",
+                "history": "60",
+                "literature": "50",
+                "languages and linguistics": "40"
+            }
+        },
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "psychology": "80",
+                "economics and business": "70",
+                "educational sciences": "60",
+                "law": "50",
+                "media and communications": "40"
+            }
+        }
+    },
+    "692312400001": {
+        "social sciences": {
+            "score": "80",
+            "disciplines": {
+                "other social sciences": "70",
+                "economics and business": "60",
+                "media and communications": "50",
+                "educational sciences": "40",
+                "psychology": "30"
+            }
+        }
+    },
+    "693728100001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "economics and business": "80",
+                "media and communications": "70",
+                "social and economic geography": "70",
+                "psychology": "60",
+                "other social sciences": "50"
+            }
+        },
+        "natural sciences": {
+            "score": "60",
+            "disciplines": {
+                "other natural sciences": "90",
+                "computer and information sciences": "80",
+                "mathematics": "60",
+                "chemical sciences": "40",
+                "physical sciences": "20"
+            }
+        }
+    },
+    "695034000001": {
+        "engineering and technology": {
+            "score": "70",
+            "disciplines": {
+                "chemical engineering": "80",
+                "environmental engineering": "70",
+                "materials engineering": "60",
+                "mechanical engineering": "30"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "health sciences": "100",
+                "clinical medicine": "90",
+                "basic medicine": "80",
+                "other medical sciences": "70",
+                "health biotechnology": "60"
+            }
+        },
+        "natural sciences": {
+            "score": "55",
+            "disciplines": {
+                "chemical sciences": "70",
+                "physical sciences": "60",
+                "earth and related environmental sciences": "50"
+            }
+        }
+    },
+    "695778200001": {
+        "engineering and technology": {
+            "score": "90",
+            "disciplines": {
+                "materials engineering": "80",
+                "chemical engineering": "70",
+                "mechanical engineering": "70",
+                "medical engineering": "60",
+                "environmental engineering": "60"
+            }
+        },
+        "medical and health sciences": {
+            "score": "80",
+            "disciplines": {
+                "health sciences": "70",
+                "health biotechnology": "60",
+                "clinical medicine": "50"
+            }
+        },
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "chemical sciences": "70",
+                "physical sciences": "60",
+                "computer and information sciences": "50",
+                "mathematics": "40",
+                "earth and related environmental sciences": "30"
+            }
+        }
+    },
+    "695798100001": {
+        "engineering and technology": {
+            "score": "80",
+            "disciplines": {
+                "mechanical engineering": "100",
+                "materials engineering": "80",
+                "chemical engineering": "50",
+                "civil engineering": "40"
+            }
+        },
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "other natural sciences": "90",
+                "physical sciences": "80",
+                "chemical sciences": "75",
+                "earth and related environmental sciences": "70",
+                "computer and information sciences": "60"
+            }
+        },
+        "agricultural sciences": {
+            "score": "60",
+            "disciplines": {
+                "agriculture, forestry, and fisheries": "50",
+                "other agricultural sciences": "40",
+                "agricultural biotechnology": "30",
+                "animal and dairy science": "20",
+                "veterinary science": "10"
+            }
+        }
+    },
+    "695953400001": {
+        "engineering and technology": {
+            "score": "80",
+            "disciplines": {
+                "materials engineering": "100",
+                "medical engineering": "80",
+                "chemical engineering": "60",
+                "industrial biotechnology": "40",
+                "other engineering and technologies": "20"
+            }
+        },
+        "medical and health sciences": {
+            "score": "70",
+            "disciplines": {
+                "clinical medicine": "100",
+                "health sciences": "90",
+                "basic medicine": "80",
+                "other medical sciences": "70",
+                "health biotechnology": "60"
+            }
+        },
+        "natural sciences": {
+            "score": "60",
+            "disciplines": {
+                "biological sciences": "85",
+                "chemical sciences": "80",
+                "other natural sciences": "75",
+                "physical sciences": "70",
+                "earth and related environmental sciences": "65"
+            }
+        }
+    },
+    "697195300001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "law": "70",
+                "economics and business": "60",
+                "psychology": "50",
+                "educational sciences": "40",
+                "sociology": "30"
+            }
+        }
+    },
+    "697196000001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "psychology": "70",
+                "sociology": "60",
+                "law": "50",
+                "educational sciences": "40",
+                "economics and business": "30"
+            }
+        },
+        "medical and health sciences": {
+            "score": "65",
+            "disciplines": {
+                "clinical medicine": "100",
+                "health sciences": "90",
+                "other medical sciences": "80",
+                "basic medicine": "70",
+                "health biotechnology": "60"
+            }
+        },
+        "engineering and technology": {
+            "score": "60",
+            "disciplines": {
+                "environmental engineering": "50",
+                "other engineering and technologies": "30"
+            }
+        },
+        "natural sciences": {
+            "score": "55",
+            "disciplines": {
+                "biological sciences": "70",
+                "chemical sciences": "50"
+            }
+        }
+    },
+    "697435500001": {
+        "agricultural sciences": {
+            "score": "70",
+            "disciplines": {
+                "animal and dairy science": "90",
+                "veterinary science": "70",
+                "other agricultural sciences": "60",
+                "agriculture, forestry, and fisheries": "40",
+                "agricultural biotechnology": "30"
+            }
+        },
+        "engineering and technology": {
+            "score": "60",
+            "disciplines": {
+                "chemical engineering": "70",
+                "medical engineering": "60"
+            }
+        }
+    },
+    "698725900001": {
+        "agricultural sciences": {
+            "score": "70",
+            "disciplines": {
+                "animal and dairy science": "100",
+                "agriculture, forestry, and fisheries": "80",
+                "agricultural biotechnology": "70",
+                "veterinary science": "60",
+                "other agricultural sciences": "50"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "clinical medicine": "90",
+                "basic medicine": "70",
+                "other medical sciences": "50",
+                "health sciences": "40",
+                "health biotechnology": "30"
+            }
+        }
+    },
+    "699016800001": {
+        "engineering and technology": {
+            "score": "80",
+            "disciplines": {
+                "mechanical engineering": "70",
+                "materials engineering": "45",
+                "chemical engineering": "40"
+            }
+        },
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "chemical sciences": "80",
+                "physical sciences": "70",
+                "other natural sciences": "60",
+                "computer and information sciences": "50",
+                "mathematics": "40"
+            }
+        },
+        "agricultural sciences": {
+            "score": "60",
+            "disciplines": {
+                "agricultural biotechnology": "80",
+                "other agricultural sciences": "75",
+                "agriculture, forestry, and fisheries": "70",
+                "animal and dairy science": "65",
+                "veterinary science": "60"
+            }
+        }
+    },
+    "699937900001": {
+        "social sciences": {
+            "score": "80",
+            "disciplines": {
+                "media and communications": "90",
+                "economics and business": "80",
+                "psychology": "70",
+                "sociology": "60",
+                "educational sciences": "50"
+            }
+        },
+        "humanities": {
+            "score": "70",
+            "disciplines": {
+                "history": "60",
+                "literature": "40",
+                "philosophy and ethics": "30",
+                "languages and linguistics": "20"
+            }
+        },
+        "engineering and technology": {
+            "score": "60",
+            "disciplines": {
+                "materials engineering": "70",
+                "chemical engineering": "60",
+                "civil engineering": "50",
+                "environmental engineering": "40",
+                "mechanical engineering": "30"
+            }
+        }
+    },
+    "700416100001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "political science": "80",
+                "economics and business": "70",
+                "sociology": "60",
+                "educational sciences": "50",
+                "law": "40"
+            }
+        },
+        "humanities": {
+            "score": "60",
+            "disciplines": {
+                "history": "90",
+                "philosophy and ethics": "80",
+                "religion": "70",
+                "literature": "60",
+                "archaeology": "50"
+            }
+        }
+    },
+    "701007200001": {
+        "natural sciences": {
+            "score": "80",
+            "disciplines": {
+                "chemical sciences": "90",
+                "physical sciences": "80",
+                "earth and related environmental sciences": "70",
+                "other natural sciences": "60",
+                "biological sciences": "50"
+            }
+        },
+        "engineering and technology": {
+            "score": "75",
+            "disciplines": {
+                "industrial biotechnology": "80",
+                "materials engineering": "70",
+                "chemical engineering": "60",
+                "other engineering and technologies": "50",
+                "environmental engineering": "40"
+            }
+        },
+        "agricultural sciences": {
+            "score": "65",
+            "disciplines": {
+                "agriculture, forestry, and fisheries": "100",
+                "agricultural biotechnology": "90",
+                "other agricultural sciences": "80",
+                "animal and dairy science": "70",
+                "veterinary science": "60"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "basic medicine": "30",
+                "clinical medicine": "20",
+                "health sciences": "10"
+            }
+        },
+        "social sciences": {
+            "score": "55",
+            "disciplines": {
+                "other social sciences": "70",
+                "economics and business": "60",
+                "educational sciences": "50",
+                "media and communications": "40",
+                "psychology": "30"
+            }
+        }
+    },
+    "702797100001": {},
+    "703249100001": {
+        "engineering and technology": {
+            "score": "85",
+            "disciplines": {
+                "materials engineering": "60",
+                "chemical engineering": "50",
+                "industrial biotechnology": "40",
+                "medical engineering": "30"
+            }
+        },
+        "medical and health sciences": {
+            "score": "70",
+            "disciplines": {
+                "basic medicine": "75",
+                "clinical medicine": "65",
+                "health sciences": "55",
+                "other medical sciences": "50",
+                "health biotechnology": "45"
+            }
+        },
+        "natural sciences": {
+            "score": "60",
+            "disciplines": {
+                "chemical sciences": "75",
+                "computer and information sciences": "60",
+                "mathematics": "50",
+                "physical sciences": "40",
+                "other natural sciences": "30"
+            }
+        }
+    },
+    "703377200001": {
+        "natural sciences": {
+            "score": "80",
+            "disciplines": {
+                "chemical sciences": "90",
+                "physical sciences": "80",
+                "other natural sciences": "70",
+                "earth and related environmental sciences": "60",
+                "computer and information sciences": "50"
+            }
+        },
+        "engineering and technology": {
+            "score": "70",
+            "disciplines": {
+                "chemical engineering": "80",
+                "materials engineering": "60",
+                "other engineering and technologies": "40",
+                "nano-technology": "30"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "health biotechnology": "85",
+                "other medical sciences": "80",
+                "clinical medicine": "75",
+                "basic medicine": "65",
+                "health sciences": "60"
+            }
+        }
+    },
+    "704279600001": {},
+    "706865000001": {
+        "social sciences": {
+            "score": "80",
+            "disciplines": {
+                "economics and business": "90",
+                "educational sciences": "80",
+                "psychology": "70",
+                "sociology": "60",
+                "media and communications": "50"
+            }
+        },
+        "agricultural sciences": {
+            "score": "70",
+            "disciplines": {
+                "agriculture, forestry, and fisheries": "85",
+                "animal and dairy science": "80",
+                "veterinary science": "75",
+                "agricultural biotechnology": "70",
+                "other agricultural sciences": "60"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "clinical medicine": "70",
+                "basic medicine": "60",
+                "health sciences": "50"
+            }
+        }
+    },
+    "709228700001": {
+        "engineering and technology": {
+            "score": "70",
+            "disciplines": {
+                "mechanical engineering": "80",
+                "civil engineering": "60"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "clinical medicine": "90",
+                "health sciences": "85",
+                "other medical sciences": "80"
+            }
+        }
+    },
+    "709871200001": {
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "chemical sciences": "90",
+                "physical sciences": "80",
+                "earth and related environmental sciences": "70",
+                "biological sciences": "60",
+                "mathematics": "50"
+            }
+        },
+        "agricultural sciences": {
+            "score": "60",
+            "disciplines": {
+                "agricultural biotechnology": "90",
+                "other agricultural sciences": "80",
+                "agriculture, forestry, and fisheries": "70",
+                "animal and dairy science": "60",
+                "veterinary science": "50"
+            }
+        }
+    },
+    "710660500001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "economics and business": "80",
+                "law": "70",
+                "psychology": "50",
+                "educational sciences": "40",
+                "political science": "30"
+            }
+        }
+    },
+    "710879400002": {
+        "medical and health sciences": {
+            "score": "90",
+            "disciplines": {
+                "clinical medicine": "100",
+                "health sciences": "80",
+                "basic medicine": "70",
+                "health biotechnology": "60",
+                "other medical sciences": "50"
+            }
+        },
+        "engineering and technology": {
+            "score": "80",
+            "disciplines": {
+                "chemical engineering": "80",
+                "materials engineering": "70",
+                "medical engineering": "60",
+                "nano-technology": "50"
+            }
+        },
+        "natural sciences": {
+            "score": "75",
+            "disciplines": {
+                "chemical sciences": "80",
+                "biological sciences": "75",
+                "other natural sciences": "70",
+                "physical sciences": "65",
+                "computer and information sciences": "60"
+            }
+        },
+        "agricultural sciences": {
+            "score": "60",
+            "disciplines": {
+                "agricultural biotechnology": "70",
+                "animal and dairy science": "60",
+                "agriculture, forestry, and fisheries": "40"
+            }
+        }
+    },
+    "711249000001": {
+        "agricultural sciences": {
+            "score": "70",
+            "disciplines": {
+                "animal and dairy science": "90",
+                "veterinary science": "85",
+                "agriculture, forestry, and fisheries": "70",
+                "other agricultural sciences": "60",
+                "agricultural biotechnology": "50"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "clinical medicine": "90",
+                "basic medicine": "80",
+                "health sciences": "70",
+                "other medical sciences": "60",
+                "health biotechnology": "50"
+            }
+        }
+    },
+    "711478100001": {
+        "engineering and technology": {
+            "score": "80",
+            "disciplines": {
+                "chemical engineering": "80",
+                "materials engineering": "70",
+                "industrial biotechnology": "60",
+                "environmental engineering": "50",
+                "medical engineering": "40"
+            }
+        },
+        "agricultural sciences": {
+            "score": "70",
+            "disciplines": {
+                "agricultural biotechnology": "90",
+                "agriculture, forestry, and fisheries": "80",
+                "other agricultural sciences": "70",
+                "animal and dairy science": "60",
+                "veterinary science": "50"
+            }
+        },
+        "natural sciences": {
+            "score": "60",
+            "disciplines": {
+                "chemical sciences": "80",
+                "biological sciences": "70",
+                "physical sciences": "60",
+                "earth and related environmental sciences": "55",
+                "computer and information sciences": "50"
+            }
+        }
+    },
+    "713139500001": {
+        "social sciences": {
+            "score": "80",
+            "disciplines": {
+                "economics and business": "70",
+                "political science": "60",
+                "law": "50",
+                "other social sciences": "40"
+            }
+        },
+        "agricultural sciences": {
+            "score": "60",
+            "disciplines": {
+                "agriculture, forestry, and fisheries": "90",
+                "other agricultural sciences": "85",
+                "agricultural biotechnology": "80",
+                "animal and dairy science": "70",
+                "veterinary science": "65"
+            }
+        },
+        "natural sciences": {
+            "score": "55",
+            "disciplines": {
+                "chemical sciences": "60",
+                "physical sciences": "50",
+                "earth and related environmental sciences": "40",
+                "other natural sciences": "30"
+            }
+        }
+    },
+    "714516300001": {
+        "engineering and technology": {
+            "score": "60",
+            "disciplines": {
+                "chemical engineering": "70",
+                "materials engineering": "60"
+            }
+        }
+    },
+    "715579200001": {
+        "medical and health sciences": {
+            "score": "70",
+            "disciplines": {
+                "health sciences": "70",
+                "health biotechnology": "55",
+                "clinical medicine": "50",
+                "basic medicine": "40",
+                "other medical sciences": "30"
+            }
+        },
+        "agricultural sciences": {
+            "score": "60",
+            "disciplines": {
+                "veterinary science": "70",
+                "other agricultural sciences": "60",
+                "animal and dairy science": "50",
+                "agriculture, forestry, and fisheries": "40",
+                "agricultural biotechnology": "30"
+            }
+        }
+    },
+    "715688900001": {
+        "engineering and technology": {
+            "score": "100",
+            "disciplines": {
+                "chemical engineering": "70",
+                "materials engineering": "60",
+                "medical engineering": "50"
+            }
+        },
+        "medical and health sciences": {
+            "score": "90",
+            "disciplines": {
+                "basic medicine": "60",
+                "clinical medicine": "50",
+                "health biotechnology": "40",
+                "other medical sciences": "30",
+                "health sciences": "20"
+            }
+        },
+        "natural sciences": {
+            "score": "80",
+            "disciplines": {
+                "biological sciences": "90",
+                "chemical sciences": "80",
+                "other natural sciences": "70",
+                "physical sciences": "60",
+                "earth and related environmental sciences": "50"
+            }
+        },
+        "agricultural sciences": {
+            "score": "70",
+            "disciplines": {
+                "agricultural biotechnology": "70",
+                "animal and dairy science": "60",
+                "other agricultural sciences": "50",
+                "agriculture, forestry, and fisheries": "40",
+                "veterinary science": "20"
+            }
+        },
+        "social sciences": {
+            "score": "60",
+            "disciplines": {
+                "psychology": "80",
+                "economics and business": "70",
+                "educational sciences": "60",
+                "law": "50",
+                "political science": "40"
+            }
+        }
+    },
+    "716811800001": {
+        "humanities": {
+            "score": "100",
+            "disciplines": {
+                "philosophy and ethics": "80",
+                "literature": "60",
+                "history": "20",
+                "archaeology": "10"
+            }
+        },
+        "social sciences": {
+            "score": "80",
+            "disciplines": {
+                "media and communications": "90",
+                "other social sciences": "85",
+                "psychology": "80",
+                "educational sciences": "75",
+                "political science": "70"
+            }
+        }
+    },
+    "718719400003": {
+        "engineering and technology": {
+            "score": "80",
+            "disciplines": {
+                "chemical engineering": "80",
+                "materials engineering": "70",
+                "industrial biotechnology": "60",
+                "medical engineering": "50",
+                "nano-technology": "40"
+            }
+        },
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "chemical sciences": "100",
+                "physical sciences": "90",
+                "earth and related environmental sciences": "80",
+                "other natural sciences": "70",
+                "computer and information sciences": "60"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "health biotechnology": "90",
+                "basic medicine": "82",
+                "clinical medicine": "70"
+            }
+        }
+    },
+    "720622700001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "sociology": "100",
+                "social and economic geography": "90",
+                "economics and business": "80",
+                "psychology": "70",
+                "educational sciences": "60"
+            }
+        },
+        "engineering and technology": {
+            "score": "60",
+            "disciplines": {
+                "civil engineering": "70",
+                "materials engineering": "60",
+                "mechanical engineering": "60",
+                "chemical engineering": "50"
+            }
+        }
+    },
+    "722640000001": {
+        "natural sciences": {
+            "score": "80",
+            "disciplines": {
+                "chemical sciences": "70",
+                "biological sciences": "60"
+            }
+        },
+        "medical and health sciences": {
+            "score": "70",
+            "disciplines": {
+                "health biotechnology": "100",
+                "clinical medicine": "95",
+                "basic medicine": "90",
+                "health sciences": "80",
+                "other medical sciences": "75"
+            }
+        },
+        "engineering and technology": {
+            "score": "60",
+            "disciplines": {
+                "chemical engineering": "70",
+                "materials engineering": "60"
+            }
+        }
+    },
+    "722816100001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "political science": "80",
+                "social and economic geography": "60",
+                "psychology": "40"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "clinical medicine": "100",
+                "health sciences": "90",
+                "other medical sciences": "80",
+                "basic medicine": "70",
+                "health biotechnology": "60"
+            }
+        }
+    },
+    "722824700014": {
+        "agricultural sciences": {
+            "score": "70",
+            "disciplines": {
+                "agricultural biotechnology": "80",
+                "agriculture, forestry, and fisheries": "75",
+                "animal and dairy science": "75",
+                "veterinary science": "70",
+                "other agricultural sciences": "65"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "clinical medicine": "85",
+                "basic medicine": "80",
+                "health sciences": "75",
+                "other medical sciences": "70",
+                "health biotechnology": "65"
+            }
+        },
+        "natural sciences": {
+            "score": "60",
+            "disciplines": {
+                "biological sciences": "100",
+                "physical sciences": "90",
+                "other natural sciences": "60",
+                "chemical sciences": "50",
+                "earth and related environmental sciences": "40"
+            }
+        }
+    },
+    "724335200001": {
+        "engineering and technology": {
+            "score": "80",
+            "disciplines": {
+                "materials engineering": "85",
+                "medical engineering": "80",
+                "chemical engineering": "70",
+                "mechanical engineering": "60"
+            }
+        },
+        "medical and health sciences": {
+            "score": "70",
+            "disciplines": {
+                "clinical medicine": "90",
+                "health sciences": "80",
+                "basic medicine": "70",
+                "health biotechnology": "60",
+                "other medical sciences": "50"
+            }
+        },
+        "agricultural sciences": {
+            "score": "65",
+            "disciplines": {
+                "agricultural biotechnology": "80",
+                "agriculture, forestry, and fisheries": "70",
+                "other agricultural sciences": "60",
+                "animal and dairy science": "50",
+                "veterinary science": "40"
+            }
+        },
+        "natural sciences": {
+            "score": "60",
+            "disciplines": {
+                "biological sciences": "80",
+                "other natural sciences": "60",
+                "chemical sciences": "40",
+                "computer and information sciences": "40",
+                "physical sciences": "40"
+            }
+        }
+    },
+    "725142900001": {
+        "social sciences": {
+            "score": "60",
+            "disciplines": {
+                "law": "90",
+                "economics and business": "70",
+                "political science": "60",
+                "educational sciences": "50",
+                "psychology": "40"
+            }
+        }
+    },
+    "725449400001": {
+        "medical and health sciences": {
+            "score": "100",
+            "disciplines": {
+                "health biotechnology": "90",
+                "clinical medicine": "80",
+                "basic medicine": "70",
+                "other medical sciences": "60",
+                "health sciences": "50"
+            }
+        },
+        "engineering and technology": {
+            "score": "90",
+            "disciplines": {
+                "medical engineering": "90",
+                "chemical engineering": "80",
+                "nano-technology": "70",
+                "materials engineering": "60"
+            }
+        },
+        "natural sciences": {
+            "score": "80",
+            "disciplines": {
+                "biological sciences": "75",
+                "chemical sciences": "60",
+                "physical sciences": "55",
+                "computer and information sciences": "50",
+                "mathematics": "40"
+            }
+        },
+        "agricultural sciences": {
+            "score": "70",
+            "disciplines": {
+                "agricultural biotechnology": "90",
+                "agriculture, forestry, and fisheries": "80",
+                "veterinary science": "70",
+                "animal and dairy science": "60",
+                "other agricultural sciences": "50"
+            }
+        }
+    },
+    "726001600001": {
+        "engineering and technology": {
+            "score": "100",
+            "disciplines": {
+                "materials engineering": "85",
+                "chemical engineering": "80",
+                "medical engineering": "75",
+                "nano-technology": "70",
+                "environmental biotechnology": "65"
+            }
+        },
+        "medical and health sciences": {
+            "score": "80",
+            "disciplines": {
+                "clinical medicine": "80",
+                "health sciences": "70",
+                "health biotechnology": "60",
+                "basic medicine": "50",
+                "other medical sciences": "40"
+            }
+        },
+        "natural sciences": {
+            "score": "60",
+            "disciplines": {
+                "biological sciences": "100",
+                "chemical sciences": "90",
+                "computer and information sciences": "80",
+                "physical sciences": "70"
+            }
+        }
+    },
+    "726389500001": {
+        "medical and health sciences": {
+            "score": "70",
+            "disciplines": {
+                "clinical medicine": "80",
+                "basic medicine": "70",
+                "other medical sciences": "60"
+            }
+        },
+        "natural sciences": {
+            "score": "60",
+            "disciplines": {
+                "chemical sciences": "90",
+                "biological sciences": "80",
+                "other natural sciences": "70",
+                "physical sciences": "50",
+                "earth and related environmental sciences": "40"
+            }
+        }
+    },
+    "727024500001": {
+        "engineering and technology": {
+            "score": "70",
+            "disciplines": {
+                "mechanical engineering": "60",
+                "chemical engineering": "40",
+                "materials engineering": "30",
+                "civil engineering": "20"
+            }
+        }
+    },
+    "728194000001": {
+        "agricultural sciences": {
+            "score": "80",
+            "disciplines": {
+                "animal and dairy science": "100",
+                "agriculture, forestry, and fisheries": "90",
+                "other agricultural sciences": "70",
+                "agricultural biotechnology": "50",
+                "veterinary science": "40"
+            }
+        },
+        "medical and health sciences": {
+            "score": "70",
+            "disciplines": {
+                "health sciences": "70",
+                "clinical medicine": "50",
+                "basic medicine": "40",
+                "other medical sciences": "30",
+                "health biotechnology": "20"
+            }
+        }
+    },
+    "728723200001": {
+        "agricultural sciences": {
+            "score": "60",
+            "disciplines": {
+                "agricultural biotechnology": "70",
+                "other agricultural sciences": "60",
+                "agriculture, forestry, and fisheries": "50",
+                "animal and dairy science": "40",
+                "veterinary science": "30"
+            }
+        }
+    },
+    "729772500001": {
+        "medical and health sciences": {
+            "score": "80",
+            "disciplines": {
+                "health biotechnology": "80",
+                "clinical medicine": "75",
+                "basic medicine": "70",
+                "health sciences": "65",
+                "other medical sciences": "60"
+            }
+        },
+        "engineering and technology": {
+            "score": "70",
+            "disciplines": {
+                "materials engineering": "90",
+                "chemical engineering": "80",
+                "medical engineering": "70",
+                "environmental engineering": "60"
+            }
+        },
+        "natural sciences": {
+            "score": "60",
+            "disciplines": {
+                "chemical sciences": "90",
+                "physical sciences": "80",
+                "earth and related environmental sciences": "70",
+                "other natural sciences": "60",
+                "biological sciences": "50"
+            }
+        }
+    },
+    "730055200002": {
+        "engineering and technology": {
+            "score": "80",
+            "disciplines": {
+                "materials engineering": "30",
+                "chemical engineering": "20"
+            }
+        },
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "chemical sciences": "95",
+                "physical sciences": "80",
+                "computer and information sciences": "70",
+                "other natural sciences": "60",
+                "mathematics": "50"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "health biotechnology": "80",
+                "clinical medicine": "70",
+                "basic medicine": "60"
+            }
+        }
+    },
+    "730859800001": {
+        "engineering and technology": {
+            "score": "65",
+            "disciplines": {
+                "civil engineering": "60",
+                "mechanical engineering": "30",
+                "environmental engineering": "20"
+            }
+        }
+    },
+    "730906300001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "sociology": "80",
+                "economics and business": "70",
+                "political science": "60"
+            }
+        }
+    },
+    "732672000001": {
+        "agricultural sciences": {
+            "score": "60",
+            "disciplines": {
+                "agriculture, forestry, and fisheries": "100",
+                "animal and dairy science": "90",
+                "veterinary science": "80",
+                "agricultural biotechnology": "70",
+                "other agricultural sciences": "60"
+            }
+        },
+        "engineering and technology": {
+            "score": "55",
+            "disciplines": {
+                "chemical engineering": "60",
+                "environmental engineering": "50",
+                "environmental biotechnology": "40"
+            }
+        }
+    },
+    "733572000001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "sociology": "90",
+                "educational sciences": "80",
+                "political science": "70",
+                "psychology": "60",
+                "economics and business": "50"
+            }
+        },
+        "humanities": {
+            "score": "60",
+            "disciplines": {
+                "history": "90",
+                "archaeology": "80",
+                "literature": "70"
+            }
+        }
+    },
+    "733926600001": {
+        "natural sciences": {
+            "score": "80",
+            "disciplines": {
+                "chemical sciences": "80",
+                "biological sciences": "75",
+                "physical sciences": "60",
+                "computer and information sciences": "55",
+                "mathematics": "50"
+            }
+        },
+        "medical and health sciences": {
+            "score": "70",
+            "disciplines": {
+                "clinical medicine": "100",
+                "health biotechnology": "80",
+                "basic medicine": "70",
+                "other medical sciences": "60",
+                "health sciences": "50"
+            }
+        },
+        "engineering and technology": {
+            "score": "60",
+            "disciplines": {
+                "medical engineering": "85",
+                "chemical engineering": "75",
+                "nano-technology": "70",
+                "environmental engineering": "65",
+                "materials engineering": "60"
+            }
+        }
+    },
+    "733947800001": {
+        "agricultural sciences": {
+            "score": "70",
+            "disciplines": {
+                "animal and dairy science": "80",
+                "agriculture, forestry, and fisheries": "70",
+                "agricultural biotechnology": "60",
+                "veterinary science": "50",
+                "other agricultural sciences": "40"
+            }
+        },
+        "natural sciences": {
+            "score": "60",
+            "disciplines": {
+                "chemical sciences": "80",
+                "biological sciences": "70",
+                "earth and related environmental sciences": "60",
+                "computer and information sciences": "40",
+                "physical sciences": "30"
+            }
+        }
+    },
+    "733950300006": {
+        "medical and health sciences": {
+            "score": "70",
+            "disciplines": {
+                "clinical medicine": "80",
+                "basic medicine": "70",
+                "health sciences": "65",
+                "health biotechnology": "60",
+                "other medical sciences": "50"
+            }
+        },
+        "agricultural sciences": {
+            "score": "60",
+            "disciplines": {
+                "animal and dairy science": "85",
+                "veterinary science": "80",
+                "agriculture, forestry, and fisheries": "75",
+                "other agricultural sciences": "70",
+                "agricultural biotechnology": "65"
+            }
+        }
+    },
+    "752206400001": {
+        "medical and health sciences": {
+            "score": "90",
+            "disciplines": {
+                "clinical medicine": "80",
+                "health sciences": "70",
+                "basic medicine": "60",
+                "health biotechnology": "50",
+                "other medical sciences": "40"
+            }
+        },
+        "engineering and technology": {
+            "score": "80",
+            "disciplines": {
+                "medical engineering": "100",
+                "chemical engineering": "100",
+                "materials engineering": "100",
+                "nano-technology": "100",
+                "environmental engineering": "90"
+            }
+        },
+        "natural sciences": {
+            "score": "75",
+            "disciplines": {
+                "biological sciences": "80",
+                "chemical sciences": "60",
+                "physical sciences": "50",
+                "other natural sciences": "40",
+                "earth and related environmental sciences": "30"
+            }
+        },
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "psychology": "100",
+                "economics and business": "90",
+                "educational sciences": "80",
+                "sociology": "70",
+                "media and communications": "60"
+            }
+        },
+        "agricultural sciences": {
+            "score": "60",
+            "disciplines": {
+                "agricultural biotechnology": "80",
+                "other agricultural sciences": "70",
+                "veterinary science": "60",
+                "animal and dairy science": "50",
+                "agriculture, forestry, and fisheries": "40"
+            }
+        }
+    },
+    "755547200001": {
+        "agricultural sciences": {
+            "score": "70",
+            "disciplines": {
+                "other agricultural sciences": "90",
+                "agriculture, forestry, and fisheries": "80"
+            }
+        },
+        "engineering and technology": {
+            "score": "60",
+            "disciplines": {
+                "environmental engineering": "90",
+                "materials engineering": "80",
+                "civil engineering": "70",
+                "other engineering and technologies": "60",
+                "chemical engineering": "50"
+            }
+        }
+    },
+    "758114600002": {
+        "medical and health sciences": {
+            "score": "80",
+            "disciplines": {
+                "clinical medicine": "90",
+                "health sciences": "80",
+                "basic medicine": "70",
+                "other medical sciences": "60"
+            }
+        }
+    },
+    "759754900017": {
+        "humanities": {
+            "score": "100",
+            "disciplines": {
+                "philosophy and ethics": "80",
+                "languages and linguistics": "70",
+                "literature": "60",
+                "history": "50",
+                "archaeology": "40"
+            }
+        },
+        "social sciences": {
+            "score": "90",
+            "disciplines": {
+                "social and economic geography": "70",
+                "political science": "60",
+                "educational sciences": "50"
+            }
+        },
+        "engineering and technology": {
+            "score": "80",
+            "disciplines": {
+                "environmental engineering": "80",
+                "environmental biotechnology": "70",
+                "chemical engineering": "60",
+                "materials engineering": "50"
+            }
+        },
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "other natural sciences": "70",
+                "earth and related environmental sciences": "65",
+                "chemical sciences": "60",
+                "physical sciences": "55",
+                "computer and information sciences": "50"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "basic medicine": "80",
+                "clinical medicine": "70",
+                "health sciences": "60",
+                "health biotechnology": "40",
+                "other medical sciences": "20"
+            }
+        }
+    },
+    "773493400001": {
+        "humanities": {
+            "score": "80",
+            "disciplines": {
+                "history": "80",
+                "archaeology": "70",
+                "languages and linguistics": "60",
+                "literature": "50",
+                "philosophy and ethics": "40"
+            }
+        },
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "media and communications": "90",
+                "other social sciences": "80",
+                "educational sciences": "60",
+                "psychology": "50"
+            }
+        }
+    },
+    "777029900007": {
+        "social sciences": {
+            "score": "80",
+            "disciplines": {
+                "psychology": "90",
+                "media and communications": "80",
+                "economics and business": "70",
+                "sociology": "60",
+                "educational sciences": "50"
+            }
+        },
+        "humanities": {
+            "score": "70",
+            "disciplines": {
+                "philosophy and ethics": "80",
+                "literature": "70",
+                "languages and linguistics": "60"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "other medical sciences": "100",
+                "clinical medicine": "90",
+                "health sciences": "80",
+                "basic medicine": "70",
+                "health biotechnology": "60"
+            }
+        }
+    },
+    "777332000025": {
+        "engineering and technology": {
+            "score": "70",
+            "disciplines": {
+                "civil engineering": "60",
+                "materials engineering": "40",
+                "environmental engineering": "40"
+            }
+        },
+        "natural sciences": {
+            "score": "60",
+            "disciplines": {
+                "computer and information sciences": "90",
+                "mathematics": "85",
+                "physical sciences": "70",
+                "other natural sciences": "60",
+                "chemical sciences": "50"
+            }
+        }
+    },
+    "780194500002": {
+        "medical and health sciences": {
+            "score": "80",
+            "disciplines": {
+                "clinical medicine": "90",
+                "basic medicine": "80",
+                "health sciences": "70",
+                "other medical sciences": "60",
+                "health biotechnology": "50"
+            }
+        },
+        "engineering and technology": {
+            "score": "70",
+            "disciplines": {
+                "medical engineering": "80",
+                "chemical engineering": "70",
+                "materials engineering": "60",
+                "industrial biotechnology": "50",
+                "other engineering and technologies": "40"
+            }
+        },
+        "agricultural sciences": {
+            "score": "60",
+            "disciplines": {
+                "agricultural biotechnology": "80",
+                "other agricultural sciences": "70",
+                "agriculture, forestry, and fisheries": "60",
+                "animal and dairy science": "50",
+                "veterinary science": "40"
+            }
+        }
+    },
+    "780820800006": {
+        "medical and health sciences": {
+            "score": "90",
+            "disciplines": {
+                "health sciences": "80",
+                "clinical medicine": "75",
+                "basic medicine": "70",
+                "health biotechnology": "60",
+                "other medical sciences": "50"
+            }
+        },
+        "natural sciences": {
+            "score": "80",
+            "disciplines": {
+                "biological sciences": "100",
+                "chemical sciences": "90",
+                "physical sciences": "80"
+            }
+        },
+        "engineering and technology": {
+            "score": "70",
+            "disciplines": {
+                "medical engineering": "100",
+                "chemical engineering": "90",
+                "other engineering and technologies": "80",
+                "materials engineering": "70",
+                "nano-technology": "60"
+            }
+        },
+        "agricultural sciences": {
+            "score": "60",
+            "disciplines": {
+                "agricultural biotechnology": "85",
+                "other agricultural sciences": "75",
+                "veterinary science": "70",
+                "animal and dairy science": "60",
+                "agriculture, forestry, and fisheries": "40"
+            }
+        }
+    },
+    "787206400001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "sociology": "80",
+                "political science": "70",
+                "educational sciences": "60",
+                "media and communications": "50"
+            }
+        },
+        "humanities": {
+            "score": "60",
+            "disciplines": {
+                "religion": "70",
+                "history": "50",
+                "philosophy and ethics": "40",
+                "literature": "30"
+            }
+        }
+    },
+    "789848900003": {
+        "medical and health sciences": {
+            "score": "80",
+            "disciplines": {
+                "health sciences": "95",
+                "health biotechnology": "90",
+                "clinical medicine": "85",
+                "other medical sciences": "80",
+                "basic medicine": "75"
+            }
+        },
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "biological sciences": "90",
+                "chemical sciences": "70",
+                "computer and information sciences": "60",
+                "physical sciences": "50",
+                "other natural sciences": "40"
+            }
+        }
+    },
+    "800626000001": {
+        "humanities": {
+            "score": "90",
+            "disciplines": {
+                "languages and linguistics": "90",
+                "history": "80",
+                "literature": "70",
+                "archaeology": "60"
+            }
+        },
+        "social sciences": {
+            "score": "80",
+            "disciplines": {
+                "other social sciences": "70",
+                "sociology": "40",
+                "psychology": "30"
+            }
+        },
+        "agricultural sciences": {
+            "score": "70",
+            "disciplines": {
+                "agricultural biotechnology": "100",
+                "other agricultural sciences": "90",
+                "agriculture, forestry, and fisheries": "80",
+                "animal and dairy science": "70",
+                "veterinary science": "60"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "health sciences": "100",
+                "other medical sciences": "50",
+                "basic medicine": "30",
+                "clinical medicine": "10"
+            }
+        }
+    },
+    "803083800004": {
+        "social sciences": {
+            "score": "100",
+            "disciplines": {
+                "psychology": "90",
+                "economics and business": "80",
+                "sociology": "70",
+                "educational sciences": "60",
+                "media and communications": "50"
+            }
+        },
+        "humanities": {
+            "score": "80",
+            "disciplines": {
+                "languages and linguistics": "80",
+                "literature": "70",
+                "philosophy and ethics": "60"
+            }
+        },
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "computer and information sciences": "90",
+                "mathematics": "80",
+                "other natural sciences": "70",
+                "physical sciences": "60",
+                "chemical sciences": "50"
+            }
+        }
+    },
+    "811422500006": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "sociology": "80",
+                "psychology": "75",
+                "educational sciences": "65"
+            }
+        }
+    },
+    "819041800001": {
+        "humanities": {
+            "score": "90",
+            "disciplines": {
+                "religion": "100",
+                "history": "90",
+                "archaeology": "80",
+                "literature": "70",
+                "languages and linguistics": "60"
+            }
+        },
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "other natural sciences": "50",
+                "biological sciences": "40",
+                "earth and related environmental sciences": "30",
+                "physical sciences": "20",
+                "chemical sciences": "10"
+            }
+        },
+        "social sciences": {
+            "score": "65",
+            "disciplines": {
+                "sociology": "70",
+                "educational sciences": "60",
+                "other social sciences": "50"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "other medical sciences": "100",
+                "health sciences": "90",
+                "clinical medicine": "80",
+                "basic medicine": "70",
+                "health biotechnology": "60"
+            }
+        }
+    },
+    "827047500001": {
+        "humanities": {
+            "score": "95",
+            "disciplines": {
+                "religion": "100",
+                "philosophy and ethics": "70",
+                "literature": "60",
+                "history": "50",
+                "archaeology": "30"
+            }
+        },
+        "social sciences": {
+            "score": "80",
+            "disciplines": {
+                "sociology": "80",
+                "political science": "70",
+                "law": "60"
+            }
+        }
+    },
+    "831664900001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "sociology": "80",
+                "political science": "70",
+                "law": "60",
+                "educational sciences": "50",
+                "media and communications": "40"
+            }
+        }
+    },
+    "833337700001": {
+        "humanities": {
+            "score": "70",
+            "disciplines": {
+                "religion": "70",
+                "history": "60",
+                "philosophy and ethics": "50",
+                "literature": "40"
+            }
+        },
+        "social sciences": {
+            "score": "60",
+            "disciplines": {
+                "educational sciences": "95",
+                "sociology": "85",
+                "psychology": "80",
+                "economics and business": "70",
+                "political science": "65"
+            }
+        }
+    },
+    "843237200001": {
+        "humanities": {
+            "score": "60",
+            "disciplines": {
+                "religion": "80",
+                "philosophy and ethics": "70",
+                "literature": "60",
+                "history": "50"
+            }
+        }
+    },
+    "871947700028": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "social and economic geography": "60",
+                "media and communications": "50",
+                "educational sciences": "40"
+            }
+        },
+        "humanities": {
+            "score": "60",
+            "disciplines": {
+                "archaeology": "90",
+                "history": "80",
+                "philosophy and ethics": "70"
+            }
+        }
+    },
+    "486688800001": {
+        "engineering and technology": {
+            "score": "80",
+            "disciplines": {
+                "environmental engineering": "30",
+                "other engineering and technologies": "20"
+            }
+        },
+        "social sciences": {
+            "score": "60",
+            "disciplines": {
+                "media and communications": "70",
+                "other social sciences": "60",
+                "social and economic geography": "50"
+            }
+        }
+    },
+    "527207200001": {
+        "engineering and technology": {
+            "score": "80",
+            "disciplines": {
+                "civil engineering": "80",
+                "mechanical engineering": "70",
+                "chemical engineering": "60"
+            }
+        },
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "earth and related environmental sciences": "90",
+                "physical sciences": "80",
+                "chemical sciences": "70",
+                "computer and information sciences": "60",
+                "mathematics": "50"
+            }
+        },
+        "agricultural sciences": {
+            "score": "60",
+            "disciplines": {
+                "agricultural biotechnology": "90",
+                "agriculture, forestry, and fisheries": "80",
+                "other agricultural sciences": "80",
+                "animal and dairy science": "70",
+                "veterinary science": "60"
+            }
+        }
+    },
+    "549041600001": {
+        "engineering and technology": {
+            "score": "80",
+            "disciplines": {
+                "chemical engineering": "80",
+                "materials engineering": "70",
+                "industrial biotechnology": "60"
+            }
+        },
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "chemical sciences": "100",
+                "physical sciences": "70",
+                "earth and related environmental sciences": "60",
+                "other natural sciences": "50",
+                "computer and information sciences": "40"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "health sciences": "80",
+                "health biotechnology": "60",
+                "clinical medicine": "40"
+            }
+        }
+    },
+    "575506000001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "sociology": "90",
+                "media and communications": "80",
+                "educational sciences": "70",
+                "psychology": "60",
+                "economics and business": "50"
+            }
+        }
+    },
+    "585534700001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "psychology": "80",
+                "educational sciences": "70",
+                "economics and business": "60",
+                "sociology": "50"
+            }
+        }
+    },
+    "591162700001": {
+        "natural sciences": {
+            "score": "98",
+            "disciplines": {
+                "earth and related environmental sciences": "70",
+                "physical sciences": "60",
+                "other natural sciences": "60",
+                "chemical sciences": "40",
+                "mathematics": "40"
+            }
+        },
+        "engineering and technology": {
+            "score": "95",
+            "disciplines": {
+                "environmental engineering": "80",
+                "civil engineering": "70",
+                "other engineering and technologies": "60",
+                "chemical engineering": "50"
+            }
+        },
+        "social sciences": {
+            "score": "80",
+            "disciplines": {
+                "social and economic geography": "70",
+                "educational sciences": "60"
+            }
+        },
+        "agricultural sciences": {
+            "score": "75",
+            "disciplines": {
+                "agricultural biotechnology": "80",
+                "agriculture, forestry, and fisheries": "70",
+                "other agricultural sciences": "60",
+                "animal and dairy science": "50",
+                "veterinary science": "40"
+            }
+        },
+        "humanities": {
+            "score": "70",
+            "disciplines": {
+                "history": "90",
+                "archaeology": "80",
+                "languages and linguistics": "70",
+                "literature": "60",
+                "other humanities": "50"
+            }
+        }
+    },
+    "592416200001": {
+        "natural sciences": {
+            "score": "90",
+            "disciplines": {
+                "computer and information sciences": "55",
+                "mathematics": "45"
+            }
+        },
+        "engineering and technology": {
+            "score": "80",
+            "disciplines": {
+                "other engineering and technologies": "10"
+            }
+        },
+        "medical and health sciences": {
+            "score": "70",
+            "disciplines": {
+                "clinical medicine": "70",
+                "basic medicine": "65",
+                "health sciences": "60"
+            }
+        }
+    },
+    "634605700001": {
+        "engineering and technology": {
+            "score": "80",
+            "disciplines": {
+                "civil engineering": "50"
+            }
+        },
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "mathematics": "90",
+                "computer and information sciences": "80",
+                "physical sciences": "70",
+                "chemical sciences": "60",
+                "other natural sciences": "50"
+            }
+        },
+        "agricultural sciences": {
+            "score": "70",
+            "disciplines": {
+                "agricultural biotechnology": "90",
+                "agriculture, forestry, and fisheries": "80",
+                "other agricultural sciences": "70",
+                "animal and dairy science": "50",
+                "veterinary science": "40"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "health sciences": "80",
+                "clinical medicine": "70",
+                "basic medicine": "60",
+                "other medical sciences": "50",
+                "health biotechnology": "40"
+            }
+        }
+    },
+    "639517000001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "educational sciences": "80",
+                "psychology": "70",
+                "media and communications": "60"
+            }
+        },
+        "engineering and technology": {
+            "score": "60",
+            "disciplines": {
+                "other engineering and technologies": "60"
+            }
+        }
+    },
+    "640285600001": {
+        "engineering and technology": {
+            "score": "80",
+            "disciplines": {
+                "chemical engineering": "80",
+                "materials engineering": "70",
+                "medical engineering": "70",
+                "industrial biotechnology": "60"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "clinical medicine": "70",
+                "health sciences": "60",
+                "basic medicine": "50"
+            }
+        },
+        "natural sciences": {
+            "score": "60",
+            "disciplines": {
+                "biological sciences": "50",
+                "chemical sciences": "40",
+                "physical sciences": "30"
+            }
+        }
+    },
+    "641366900001": {
+        "engineering and technology": {
+            "score": "70",
+            "disciplines": {
+                "industrial biotechnology": "70",
+                "chemical engineering": "40",
+                "other engineering and technologies": "20"
+            }
+        },
+        "natural sciences": {
+            "score": "60",
+            "disciplines": {
+                "computer and information sciences": "100",
+                "mathematics": "100",
+                "physical sciences": "30"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "other medical sciences": "90",
+                "health sciences": "70",
+                "basic medicine": "40"
+            }
+        }
+    },
+    "656336200001": {
+        "engineering and technology": {
+            "score": "95",
+            "disciplines": {
+                "civil engineering": "70",
+                "mechanical engineering": "60",
+                "materials engineering": "40",
+                "chemical engineering": "30"
+            }
+        },
+        "natural sciences": {
+            "score": "90",
+            "disciplines": {
+                "earth and related environmental sciences": "90",
+                "physical sciences": "80",
+                "mathematics": "70",
+                "chemical sciences": "60",
+                "computer and information sciences": "50"
+            }
+        },
+        "medical and health sciences": {
+            "score": "60",
+            "disciplines": {
+                "clinical medicine": "80",
+                "other medical sciences": "70",
+                "health sciences": "60",
+                "basic medicine": "40",
+                "health biotechnology": "30"
+            }
+        }
+    },
+    "661409200002": {
+        "humanities": {
+            "score": "60",
+            "disciplines": {
+                "philosophy and ethics": "90",
+                "literature": "80",
+                "languages and linguistics": "70",
+                "history": "60",
+                "other humanities": "50"
+            }
+        }
+    },
+    "672107000001": {
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "mathematics": "80",
+                "computer and information sciences": "70",
+                "physical sciences": "60",
+                "chemical sciences": "50",
+                "other natural sciences": "40"
+            }
+        },
+        "engineering and technology": {
+            "score": "60",
+            "disciplines": {
+                "mechanical engineering": "55",
+                "chemical engineering": "45",
+                "civil engineering": "40",
+                "materials engineering": "35"
+            }
+        }
+    },
+    "680377300001": {
+        "engineering and technology": {
+            "score": "85",
+            "disciplines": {
+                "nano-technology": "80",
+                "materials engineering": "70",
+                "chemical engineering": "60"
+            }
+        },
+        "medical and health sciences": {
+            "score": "70",
+            "disciplines": {
+                "health biotechnology": "100",
+                "health sciences": "90",
+                "clinical medicine": "85",
+                "other medical sciences": "80",
+                "basic medicine": "75"
+            }
+        },
+        "natural sciences": {
+            "score": "65",
+            "disciplines": {
+                "chemical sciences": "80",
+                "physical sciences": "70",
+                "computer and information sciences": "60",
+                "earth and related environmental sciences": "50",
+                "other natural sciences": "40"
+            }
+        }
+    },
+    "682748000001": {
+        "engineering and technology": {
+            "score": "80",
+            "disciplines": {
+                "mechanical engineering": "80",
+                "chemical engineering": "70",
+                "materials engineering": "60"
+            }
+        },
+        "medical and health sciences": {
+            "score": "70",
+            "disciplines": {
+                "health biotechnology": "80",
+                "clinical medicine": "55",
+                "other medical sciences": "40"
+            }
+        },
+        "natural sciences": {
+            "score": "60",
+            "disciplines": {
+                "physical sciences": "80",
+                "chemical sciences": "70",
+                "computer and information sciences": "60",
+                "mathematics": "50",
+                "other natural sciences": "40"
+            }
+        }
+    },
+    "683709800001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "sociology": "70",
+                "educational sciences": "60",
+                "media and communications": "50"
+            }
+        }
+    },
+    "684353000001": {
+        "engineering and technology": {
+            "score": "95",
+            "disciplines": {
+                "civil engineering": "75",
+                "mechanical engineering": "60",
+                "chemical engineering": "45"
+            }
+        },
+        "medical and health sciences": {
+            "score": "85",
+            "disciplines": {
+                "health sciences": "90",
+                "clinical medicine": "70",
+                "basic medicine": "50",
+                "other medical sciences": "40",
+                "health biotechnology": "30"
+            }
+        },
+        "natural sciences": {
+            "score": "80",
+            "disciplines": {
+                "computer and information sciences": "90",
+                "other natural sciences": "70",
+                "physical sciences": "50"
+            }
+        },
+        "agricultural sciences": {
+            "score": "80",
+            "disciplines": {
+                "agricultural biotechnology": "80",
+                "other agricultural sciences": "75",
+                "agriculture, forestry, and fisheries": "70",
+                "animal and dairy science": "65",
+                "veterinary science": "60"
+            }
+        },
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "psychology": "80",
+                "economics and business": "75",
+                "educational sciences": "70",
+                "law": "65",
+                "media and communications": "60"
+            }
+        }
+    },
+    "685772000001": {
+        "engineering and technology": {
+            "score": "60",
+            "disciplines": {
+                "materials engineering": "80",
+                "chemical engineering": "70",
+                "environmental engineering": "60",
+                "industrial biotechnology": "50",
+                "other engineering and technologies": "40"
+            }
+        }
+    },
+    "691726000001": {
+        "humanities": {
+            "score": "90",
+            "disciplines": {
+                "philosophy and ethics": "90",
+                "literature": "80",
+                "history": "70",
+                "religion": "60"
+            }
+        },
+        "social sciences": {
+            "score": "80",
+            "disciplines": {
+                "psychology": "85",
+                "social and economic geography": "75",
+                "economics and business": "70",
+                "educational sciences": "65",
+                "media and communications": "60"
+            }
+        }
+    },
+    "707643800001": {
+        "engineering and technology": {
+            "score": "100",
+            "disciplines": {
+                "chemical engineering": "65",
+                "environmental engineering": "60",
+                "industrial biotechnology": "55",
+                "materials engineering": "50",
+                "environmental biotechnology": "45"
+            }
+        },
+        "natural sciences": {
+            "score": "80",
+            "disciplines": {
+                "chemical sciences": "90",
+                "physical sciences": "80",
+                "earth and related environmental sciences": "70",
+                "mathematics": "60",
+                "computer and information sciences": "50"
+            }
+        },
+        "medical and health sciences": {
+            "score": "70",
+            "disciplines": {
+                "basic medicine": "12",
+                "clinical medicine": "9",
+                "health sciences": "8",
+                "other medical sciences": "5",
+                "health biotechnology": "4"
+            }
+        },
+        "agricultural sciences": {
+            "score": "60",
+            "disciplines": {
+                "agricultural biotechnology": "80",
+                "agriculture, forestry, and fisheries": "70",
+                "animal and dairy science": "65",
+                "other agricultural sciences": "50",
+                "veterinary science": "40"
+            }
+        }
+    },
+    "710828200002": {
+        "humanities": {
+            "score": "60",
+            "disciplines": {
+                "philosophy and ethics": "80",
+                "languages and linguistics": "60",
+                "other humanities": "50",
+                "literature": "40",
+                "history": "30"
+            }
+        }
+    },
+    "721199300001": {
+        "agricultural sciences": {
+            "score": "60",
+            "disciplines": {
+                "agriculture, forestry, and fisheries": "80",
+                "agricultural biotechnology": "60"
+            }
+        }
+    },
+    "791175900001": {
+        "medical and health sciences": {
+            "score": "75",
+            "disciplines": {
+                "health biotechnology": "85",
+                "clinical medicine": "80",
+                "health sciences": "70",
+                "other medical sciences": "65",
+                "basic medicine": "60"
+            }
+        },
+        "natural sciences": {
+            "score": "65",
+            "disciplines": {
+                "biological sciences": "70",
+                "chemical sciences": "60",
+                "physical sciences": "45",
+                "computer and information sciences": "35",
+                "other natural sciences": "30"
+            }
+        },
+        "agricultural sciences": {
+            "score": "60",
+            "disciplines": {
+                "agricultural biotechnology": "70",
+                "veterinary science": "60",
+                "animal and dairy science": "50",
+                "agriculture, forestry, and fisheries": "40",
+                "other agricultural sciences": "30"
+            }
+        }
+    },
+    "794858400024": {
+        "medical and health sciences": {
+            "score": "70",
+            "disciplines": {
+                "health biotechnology": "80",
+                "clinical medicine": "70",
+                "basic medicine": "60",
+                "other medical sciences": "50",
+                "health sciences": "40"
+            }
+        },
+        "natural sciences": {
+            "score": "60",
+            "disciplines": {
+                "biological sciences": "90",
+                "chemical sciences": "70",
+                "physical sciences": "60",
+                "earth and related environmental sciences": "50",
+                "mathematics": "40"
+            }
+        }
+    },
+    "866351500058": {
+        "medical and health sciences": {
+            "score": "85",
+            "disciplines": {
+                "health sciences": "90",
+                "clinical medicine": "85",
+                "other medical sciences": "80",
+                "basic medicine": "75",
+                "health biotechnology": "70"
+            }
+        },
+        "natural sciences": {
+            "score": "75",
+            "disciplines": {
+                "biological sciences": "70",
+                "other natural sciences": "60",
+                "chemical sciences": "40"
+            }
+        },
+        "engineering and technology": {
+            "score": "70",
+            "disciplines": {
+                "medical engineering": "80",
+                "chemical engineering": "70",
+                "materials engineering": "60",
+                "environmental engineering": "50"
+            }
+        },
+        "agricultural sciences": {
+            "score": "65",
+            "disciplines": {
+                "other agricultural sciences": "70",
+                "agriculture, forestry, and fisheries": "60",
+                "veterinary science": "50",
+                "agricultural biotechnology": "40",
+                "animal and dairy science": "30"
+            }
+        },
+        "social sciences": {
+            "score": "60",
+            "disciplines": {
+                "psychology": "100",
+                "economics and business": "90",
+                "educational sciences": "80",
+                "sociology": "70",
+                "law": "60"
+            }
+        }
+    },
+    "494013500001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "law": "70",
+                "political science": "60",
+                "sociology": "50",
+                "economics and business": "40",
+                "media and communications": "30"
+            }
+        },
+        "engineering and technology": {
+            "score": "60",
+            "disciplines": {
+                "civil engineering": "40",
+                "other engineering and technologies": "39"
+            }
+        }
+    },
+    "608520900001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "media and communications": "90",
+                "educational sciences": "80",
+                "other social sciences": "70",
+                "sociology": "60",
+                "psychology": "50"
+            }
+        }
+    },
+    "670822100001": {
+        "social sciences": {
+            "score": "60",
+            "disciplines": {
+                "law": "80",
+                "economics and business": "70",
+                "educational sciences": "60",
+                "political science": "50",
+                "media and communications": "40"
+            }
+        }
+    },
+    "677313100001": {
+        "engineering and technology": {
+            "score": "90",
+            "disciplines": {
+                "mechanical engineering": "70",
+                "chemical engineering": "30",
+                "materials engineering": "20"
+            }
+        },
+        "natural sciences": {
+            "score": "80",
+            "disciplines": {
+                "physical sciences": "90",
+                "computer and information sciences": "80",
+                "mathematics": "70",
+                "chemical sciences": "60",
+                "other natural sciences": "50"
+            }
+        },
+        "medical and health sciences": {
+            "score": "70",
+            "disciplines": {
+                "health sciences": "80",
+                "clinical medicine": "70",
+                "basic medicine": "60",
+                "other medical sciences": "50",
+                "health biotechnology": "40"
+            }
+        },
+        "agricultural sciences": {
+            "score": "60",
+            "disciplines": {
+                "agricultural biotechnology": "70",
+                "agriculture, forestry, and fisheries": "60",
+                "other agricultural sciences": "50",
+                "animal and dairy science": "40",
+                "veterinary science": "30"
+            }
+        }
+    },
+    "685602600001": {
+        "engineering and technology": {
+            "score": "90",
+            "disciplines": {
+                "nano-technology": "80",
+                "materials engineering": "70",
+                "chemical engineering": "60"
+            }
+        },
+        "natural sciences": {
+            "score": "75",
+            "disciplines": {
+                "chemical sciences": "70",
+                "physical sciences": "60",
+                "computer and information sciences": "40",
+                "mathematics": "30"
+            }
+        },
+        "medical and health sciences": {
+            "score": "70",
+            "disciplines": {
+                "health biotechnology": "80",
+                "clinical medicine": "70",
+                "other medical sciences": "60",
+                "basic medicine": "50"
+            }
+        },
+        "agricultural sciences": {
+            "score": "60",
+            "disciplines": {
+                "agricultural biotechnology": "80",
+                "other agricultural sciences": "70",
+                "agriculture, forestry, and fisheries": "60",
+                "veterinary science": "50",
+                "animal and dairy science": "40"
+            }
+        }
+    },
+    "686871100002": {
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "mathematics": "90",
+                "computer and information sciences": "80",
+                "physical sciences": "70",
+                "chemical sciences": "60",
+                "earth and related environmental sciences": "50"
+            }
+        },
+        "engineering and technology": {
+            "score": "60",
+            "disciplines": {
+                "civil engineering": "20",
+                "chemical engineering": "10",
+                "nano-technology": "5"
+            }
+        }
+    },
+    "715589300001": {
+        "medical and health sciences": {
+            "score": "100",
+            "disciplines": {
+                "clinical medicine": "90",
+                "health sciences": "80",
+                "basic medicine": "65",
+                "other medical sciences": "40",
+                "health biotechnology": "30"
+            }
+        },
+        "natural sciences": {
+            "score": "90",
+            "disciplines": {
+                "biological sciences": "100",
+                "chemical sciences": "90",
+                "earth and related environmental sciences": "80",
+                "other natural sciences": "70",
+                "physical sciences": "60"
+            }
+        },
+        "agricultural sciences": {
+            "score": "70",
+            "disciplines": {
+                "veterinary science": "65",
+                "agriculture, forestry, and fisheries": "53",
+                "animal and dairy science": "42",
+                "agricultural biotechnology": "38",
+                "other agricultural sciences": "30"
+            }
+        }
+    },
+    "716241200001": {},
+    "766632100002": {
+        "humanities": {
+            "score": "60",
+            "disciplines": {
+                "history": "100",
+                "literature": "90",
+                "philosophy and ethics": "80"
+            }
+        }
+    },
+    "778652100001": {
+        "natural sciences": {
+            "score": "80",
+            "disciplines": {
+                "chemical sciences": "80",
+                "physical sciences": "70",
+                "other natural sciences": "60",
+                "earth and related environmental sciences": "50",
+                "computer and information sciences": "40"
+            }
+        },
+        "engineering and technology": {
+            "score": "75",
+            "disciplines": {
+                "materials engineering": "80",
+                "chemical engineering": "75",
+                "industrial biotechnology": "60",
+                "environmental engineering": "55",
+                "other engineering and technologies": "50"
+            }
+        },
+        "agricultural sciences": {
+            "score": "70",
+            "disciplines": {
+                "agricultural biotechnology": "80",
+                "agriculture, forestry, and fisheries": "70",
+                "other agricultural sciences": "60",
+                "animal and dairy science": "50",
+                "veterinary science": "40"
+            }
+        }
+    },
+    "788087800008": {
+        "humanities": {
+            "score": "80",
+            "disciplines": {
+                "religion": "100",
+                "history": "70",
+                "archaeology": "60",
+                "literature": "50"
+            }
+        },
+        "social sciences": {
+            "score": "60",
+            "disciplines": {
+                "sociology": "40"
+            }
+        }
+    },
+    "711311700002": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "sociology": "70",
+                "psychology": "60"
+            }
+        },
+        "humanities": {
+            "score": "60",
+            "disciplines": {
+                "philosophy and ethics": "60",
+                "literature": "50"
+            }
+        }
+    },
+    "563365300001": {
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "mathematics": "80",
+                "computer and information sciences": "70",
+                "physical sciences": "60",
+                "chemical sciences": "50",
+                "other natural sciences": "40"
+            }
+        },
+        "engineering and technology": {
+            "score": "60",
+            "disciplines": {
+                "industrial biotechnology": "70",
+                "chemical engineering": "60",
+                "nano-technology": "40"
+            }
+        }
+    },
+    "692048400003": {
+        "engineering and technology": {
+            "score": "90",
+            "disciplines": {
+                "industrial biotechnology": "55",
+                "chemical engineering": "44",
+                "medical engineering": "29"
+            }
+        },
+        "medical and health sciences": {
+            "score": "80",
+            "disciplines": {
+                "clinical medicine": "100",
+                "health biotechnology": "90",
+                "health sciences": "70",
+                "other medical sciences": "60",
+                "basic medicine": "50"
+            }
+        },
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "biological sciences": "100",
+                "chemical sciences": "80",
+                "computer and information sciences": "60",
+                "physical sciences": "50",
+                "mathematics": "30"
+            }
+        },
+        "agricultural sciences": {
+            "score": "60",
+            "disciplines": {
+                "agricultural biotechnology": "95",
+                "veterinary science": "90",
+                "other agricultural sciences": "85",
+                "animal and dairy science": "80",
+                "agriculture, forestry, and fisheries": "75"
+            }
+        }
+    },
+    "686948800001": {
+        "engineering and technology": {
+            "score": "100",
+            "disciplines": {
+                "mechanical engineering": "80",
+                "chemical engineering": "70",
+                "materials engineering": "60"
+            }
+        },
+        "medical and health sciences": {
+            "score": "70",
+            "disciplines": {
+                "health biotechnology": "70",
+                "clinical medicine": "60",
+                "health sciences": "50",
+                "basic medicine": "40",
+                "other medical sciences": "30"
+            }
+        },
+        "natural sciences": {
+            "score": "60",
+            "disciplines": {
+                "physical sciences": "80",
+                "chemical sciences": "70",
+                "computer and information sciences": "60",
+                "mathematics": "50",
+                "other natural sciences": "40"
+            }
+        }
+    },
+    "720474000001": {
+        "engineering and technology": {
+            "score": "80",
+            "disciplines": {
+                "materials engineering": "80",
+                "chemical engineering": "40",
+                "medical engineering": "30"
+            }
+        },
+        "medical and health sciences": {
+            "score": "70",
+            "disciplines": {
+                "health biotechnology": "90",
+                "health sciences": "80",
+                "clinical medicine": "70",
+                "basic medicine": "60"
+            }
+        },
+        "natural sciences": {
+            "score": "60",
+            "disciplines": {
+                "biological sciences": "100",
+                "chemical sciences": "90",
+                "physical sciences": "70",
+                "computer and information sciences": "50",
+                "earth and related environmental sciences": "40"
+            }
+        }
+    },
+    "729043100001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "economics and business": "80",
+                "law": "70",
+                "social and economic geography": "60"
+            }
+        }
+    },
+    "732354900001": {
+        "engineering and technology": {
+            "score": "90",
+            "disciplines": {
+                "mechanical engineering": "80",
+                "chemical engineering": "20"
+            }
+        },
+        "natural sciences": {
+            "score": "80",
+            "disciplines": {
+                "computer and information sciences": "90",
+                "mathematics": "80",
+                "physical sciences": "70",
+                "chemical sciences": "60",
+                "earth and related environmental sciences": "50"
+            }
+        },
+        "medical and health sciences": {
+            "score": "70",
+            "disciplines": {
+                "health biotechnology": "80",
+                "health sciences": "70",
+                "other medical sciences": "60",
+                "clinical medicine": "50",
+                "basic medicine": "40"
+            }
+        },
+        "social sciences": {
+            "score": "60",
+            "disciplines": {}
+        }
+    },
+    "733501300001": {
+        "engineering and technology": {
+            "score": "95",
+            "disciplines": {
+                "mechanical engineering": "20",
+                "other engineering and technologies": "10"
+            }
+        },
+        "medical and health sciences": {
+            "score": "85",
+            "disciplines": {
+                "clinical medicine": "80",
+                "health sciences": "70",
+                "other medical sciences": "60",
+                "basic medicine": "50",
+                "health biotechnology": "40"
+            }
+        },
+        "natural sciences": {
+            "score": "80",
+            "disciplines": {
+                "computer and information sciences": "70",
+                "mathematics": "50",
+                "physical sciences": "30",
+                "chemical sciences": "20",
+                "other natural sciences": "10"
+            }
+        },
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "psychology": "70",
+                "economics and business": "60",
+                "educational sciences": "50",
+                "media and communications": "40",
+                "other social sciences": "30"
+            }
+        },
+        "agricultural sciences": {
+            "score": "60",
+            "disciplines": {
+                "agricultural biotechnology": "80",
+                "agriculture, forestry, and fisheries": "70",
+                "other agricultural sciences": "60",
+                "veterinary science": "50",
+                "animal and dairy science": "40"
+            }
+        }
+    },
+    "669953400001": {},
+    "720683800001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "sociology": "95",
+                "psychology": "90",
+                "educational sciences": "85",
+                "media and communications": "80",
+                "political science": "75"
+            }
+        },
+        "humanities": {
+            "score": "60",
+            "disciplines": {
+                "philosophy and ethics": "100",
+                "religion": "80",
+                "other humanities": "70",
+                "history": "60",
+                "literature": "50"
+            }
+        }
+    },
+    "548956000001": {
+        "humanities": {
+            "score": "75",
+            "disciplines": {
+                "history": "70",
+                "archaeology": "60",
+                "literature": "50",
+                "philosophy and ethics": "30"
+            }
+        },
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "social and economic geography": "80",
+                "economics and business": "70",
+                "educational sciences": "60",
+                "law": "50",
+                "media and communications": "40"
+            }
+        }
+    },
+    "572281200001": {},
+    "705812000002": {},
+    "689644100001": {
+        "social sciences": {
+            "score": "70",
+            "disciplines": {
+                "media and communications": "80",
+                "sociology": "70",
+                "educational sciences": "65",
+                "psychology": "60",
+                "economics and business": "55"
+            }
+        },
+        "humanities": {
+            "score": "60",
+            "disciplines": {
+                "arts (arts, history of arts, performing arts, music)": "100",
+                "literature": "80",
+                "history": "70",
+                "philosophy and ethics": "60"
+            }
+        }
+    },
+    "693526900001": {
+        "engineering and technology": {
+            "score": "60",
+            "disciplines": {
+                "materials engineering": "80",
+                "electrical engineering, electronic engineering, information engineering": "70",
+                "chemical engineering": "60",
+                "other engineering and technologies": "40"
+            }
+        },
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "chemical sciences": "80",
+                "physical sciences": "75",
+                "computer and information sciences": "70",
+                "other natural sciences": "65",
+                "mathematics": "60"
+            }
+        },
+        "medical and health sciences": {
+            "score": "80",
+            "disciplines": {
+                "health biotechnology": "90",
+                "other medical sciences": "80",
+                "health sciences": "70",
+                "clinical medicine": "60",
+                "basic medicine": "50"
+            }
+        }
+    },
+    "733498300001": {
+        "engineering and technology": {
+            "score": "90",
+            "disciplines": {
+                "electrical engineering, electronic engineering, information engineering": "80",
+                "medical engineering": "75",
+                "materials engineering": "65"
+            }
+        },
+        "medical and health sciences": {
+            "score": "80",
+            "disciplines": {
+                "health biotechnology": "80",
+                "clinical medicine": "70",
+                "basic medicine": "60"
+            }
+        },
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "computer and information sciences": "90",
+                "physical sciences": "80",
+                "other natural sciences": "70",
+                "biological sciences": "60"
+            }
+        }
+    },
+    "748994700001": {
+        "social sciences": {
+            "score": "80",
+            "disciplines": {
+                "social and economic geography": "80",
+                "sociology": "70",
+                "economics and business": "50"
+            }
+        },
+        "humanities": {
+            "score": "75",
+            "disciplines": {
+                "archaeology": "90",
+                "history": "80",
+                "other humanities": "60",
+                "languages and linguistics": "40"
+            }
+        },
+        "natural sciences": {
+            "score": "70",
+            "disciplines": {
+                "earth and related environmental sciences": "90",
+                "chemical sciences": "85",
+                "physical sciences": "80",
+                "mathematics": "75",
+                "biological sciences": "70"
+            }
+        },
+        "engineering and technology": {
+            "score": "60",
+            "disciplines": {
+                "materials engineering": "90",
+                "chemical engineering": "85",
+                "civil engineering": "80",
+                "environmental engineering": "75",
+                "other engineering and technologies": "70"
+            }
+        }
+    }
+}

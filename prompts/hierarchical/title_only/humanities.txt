@@ -1,0 +1,15 @@
+Given the following 8 classes: history;archaeology;languages and linguistics;literature;philosophy and ethics;religion;arts (arts, history of arts, performing arts, music);other humanities 
+The classes abstract example: 
+history: Navigating Family Welfare and Dwelling Space for Mercantile Migrants in Venice, 1550-1700;Navigating Family Welfare and Dwelling Space for Mercantile Migrants in Venice, 1550-1700;German Princes in the Prussian Army: Political Patronage and Family Networks under Frederick II, 1740-1786* 
+archaeology: A Compact in the Rough: Beauty and Material Culture of Agrarian Women in Postbellum South Carolina;A Compact in the Rough: Beauty and Material Culture of Agrarian Women in Postbellum South Carolina;The Function of the Iron Age Site of Khirbet Qeiyafa 
+languages and linguistics: Geocentric directional systems in Australia: a typology;Geocentric directional systems in Australia: a typology;Geocentric directional systems in Australia: a typology 
+literature: Narrative and ethics. An analysis of the usage of literary tradition by Aristotle;Narrative and ethics. An analysis of the usage of literary tradition by Aristotle;Leconte de Lisle or Nostalgia for origins 
+philosophy and ethics: Some Spanners in the Works of Grounding Mechanisms Removed;Action and Rationalization;The arch-grammar of the representation of lifeworld in the Indian collection Ocean of the Streams of Story 
+religion: An Inconsistent Truth? Reflections on Tucker Ferda's;A Blemished Offering: Economy, Eucharist, and the Limits of Epiphanic Conversion;Hebrew hata' in the G-Stem: "to Miss" or "to Sin"? 
+arts (arts, history of arts, performing arts, music): A Costume Analysis of the Film 'Lost in Translation' (Coppola, 2003);Identity in Diversity: Programmatic Pictures of the Enlightenment;Highways through the void: chase sequences and the built environment 
+other humanities: Adaptation as augmentation: performing writing as a means of survival;The Ural Republic of 1993 in the memoirs of its creators and contemporaries of events;Sheltering refugees: ephemeral architecture and mass migration in early modern Venice 
+Return the most relevant classes for the FOLLOWING abstract. Return ONLY THE CLASSES separated by "&" in the ORDER OF RELEVANCE WITH THEIR RELEVANCE SCORE (between 0 and 100) in one line and never any aditional context: 
+{} 
+Please, DON'T RETURN OTHER CLASSES, ONLY A SUBSET OF THE 8, otherwise the result is invalid!!! The results of my study depends on it.
+ DON'T RETURN MORE THAN FIVE RESULTS. ONLY THE MOST RELEVANT AND MAX 5 (1,2,3,4,5 RESULTS)!!!! 
+Example of answer: "literature:70&languages and linguistics:60" 

@@ -1,0 +1,13 @@
+Given the following 6 classes: agricultural sciences; engineering and technology; humanities; medical and health sciences; natural sciences; social sciences 
+The classes description: 
+agricultural sciences: agriculture, forestry, and fisheries;animal and dairy science;veterinary science;agricultural biotechnology;other agricultural sciences 
+engineering and technology: civil engineering;electrical engineering, electronic engineering, information engineering;mechanical engineering;chemical engineering;materials engineering;medical engineering;environmental engineering;environmental biotechnology;industrial biotechnology;nano-technology;other engineering and technologies 
+humanities: history;archaeology;languages and linguistics;literature;philosophy and ethics;religion;arts (arts, history of arts, performing arts, music);other humanities 
+medical and health sciences: basic medicine;clinical medicine;health sciences;health biotechnology;other medical sciences 
+natural sciences: mathematics;computer and information sciences;physical sciences;chemical sciences;earth and related environmental sciences;biological sciences;other natural sciences 
+social sciences: psychology;economics and business;educational sciences;sociology;law;political science;social and economic geography;media and communications;other social sciences 
+Return the most relevant classes for the FOLLOWING abstract. Return ONLY THE CLASSES separated by "&" in the ORDER OF RELEVANCE WITH THEIR RELEVANCE SCORE (between 0 and 100) in one line and never any aditional context: 
+{} 
+Please, DON'T RETURN OTHER CLASSES, ONLY A SUBSET OF THE 6, otherwise the result is invalid!!! The results of my study depends on it.
+ DON'T RETURN MORE THAN FIVE RESULTS. ONLY THE MOST RELEVANT AND MAX 5 (1,2,3,4,5 RESULTS)!!!! 
+Example of answer: "engineering and technology:70&natural sciences:60" 

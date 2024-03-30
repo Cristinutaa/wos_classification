@@ -1,0 +1,12 @@
+Given the following 5 classes: basic medicine;clinical medicine;health sciences;health biotechnology;other medical sciences 
+The classes abstract example: 
+basic medicine: Marketing and Consulting in Organizational Behavior Management;A concise review on hPXR ligand-recognizing residues and structure-based strategies to alleviate hPXR transactivation risk;Marketing and Consulting in Organizational Behavior Management 
+clinical medicine: Has plasma therapy failed in Covid-19 or we have failed in using it properly in India? -Lessons learned through the pandemic;Incidental Papillary Thyroid Cancer Identified During Parathyroidectomy;Incidental Papillary Thyroid Cancer Identified During Parathyroidectomy 
+health sciences: Early Estimates of Monkeypox Incubation Period, Generation Time, and Reproduction Number, Italy, May-June 2022;Introducing the Strategy for Patient Oriented Research (SPOR) Evidence Alliance: a partnership between researchers, patients and health system decision-makers to support rapid-learning and responsive health systems in Canada and beyond;Early Estimates of Monkeypox Incubation Period, Generation Time, and Reproduction Number, Italy, May-June 2022 
+health biotechnology: Primary MSCs for Personalized Medicine: Ethical Challenges, Isolation and Biocompatibility Evaluation of 3D Electrospun and Printed Scaffolds 
+other medical sciences:  
+Return the most relevant classes for the FOLLOWING abstract. Return ONLY THE CLASSES separated by "&" in the ORDER OF RELEVANCE WITH THEIR RELEVANCE SCORE (between 0 and 100) in one line and never any aditional context: 
+{} 
+Please, DON'T RETURN OTHER CLASSES, ONLY A SUBSET OF THE 5, otherwise the result is invalid!!! The results of my study depends on it.
+ DON'T RETURN MORE THAN FIVE RESULTS. ONLY THE MOST RELEVANT AND MAX 5 (1,2,3,4,5 RESULTS)!!!! 
+Example of answer: "clinical medicine:70&health sciences:60" 

@@ -1,0 +1,14 @@
+Given the following 7 classes: mathematics;computer and information sciences;physical sciences;chemical sciences;earth and related environmental sciences;biological sciences;other natural sciences 
+The classes description: 
+mathematics: Pure mathematics, Applied mathematics; Statistics and probability (this excludes applied statistics) 
+computer and information sciences: Computer sciences, information science and bioinformatics (hardware development to be in Electrical Engineering, social aspect to be in Media and Communication) 
+physical sciences: Atomic, molecular and chemical physics (physics of atoms and molecules including collision, interaction with radiation; magnetic resonances; Moessbauer effect); Condensed matter physics (including formerly solid state physics, superconductivity); Particles and fields physics; Nuclear physics; Fluids and plasma physics (including surface physics); Optics (including laser optics and quantum optics), Acoustics; Astronomy (including astrophysics, space science) 
+chemical sciences: Organic chemistry; Inorganic and nuclear chemistry; Physical chemistry, Polymer science, Electrochemistry (dry cells, batteries, fuel cells, corrosion metals, electrolysis); Colloid chemistry; Analytical chemistry 
+earth and related environmental sciences: Geosciences, multidisciplinary; Mineralogy; Palaeontology; Geochemistry and geophysics; Physical geography; Geology; Volcanology; Environmental sciences (social aspects to be in Social and economic geography); Meteorology and atmospheric sciences; climatic research; Oceanography, Hydrology, Water resources 
+biological sciences: Not medical or agricultural, Cell biology, Microbiology; Virology; Biochemistry and molecular biology; Biochemical research methods; Mycology; Biophysics; Genetics and heredity (medical genetics to be 3); reproductive biology (medical aspects to be 3); developmental biology; Plant sciences, botany; Zoology, Ornithology, Entomology, Behavioural sciences biology; Marine biology, freshwater biology, limnology; Ecology; Biodiversity conservation; Biology (theoretical, mathematical, thermal, cryobiology, biological rhythm), Evolutionary biology; other biological topics 
+other natural sciences: Other natural sciences 
+Return the most relevant classes for the FOLLOWING abstract. Return ONLY THE CLASSES separated by "&" in the ORDER OF RELEVANCE WITH THEIR RELEVANCE SCORE (between 0 and 100) in one line and never any aditional context: 
+{} 
+Please, DON'T RETURN OTHER CLASSES, ONLY A SUBSET OF THE 7, otherwise the result is invalid!!! The results of my study depends on it.
+ DON'T RETURN MORE THAN FIVE RESULTS. ONLY THE MOST RELEVANT AND MAX 5 (1,2,3,4,5 RESULTS)!!!! 
+Example of answer: "physical sciences:70&physical sciences:60" 

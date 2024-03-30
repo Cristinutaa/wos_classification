@@ -1,0 +1,3 @@
+Given the abstract '{}' and the disciplines 'educational sciences' and 'political science', with the descriptions:
+'Education, general; including training, pedagogy, didactics; Education, special (to gifted persons, those with learning disabilities)' (for educational sciences) and
+'Political science; public administration; organisation theory' (for political science), which one is more relevant? Choose only one and only write your choice, no additional information. Choose only between 'educational sciences' and 'political science'
