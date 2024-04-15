@@ -1,4 +1,4 @@
-                        discipline     precision       recall      f1-score      support
+                        discipline     precision     recall     f1-score     support
 
                                    Agriculture, forestry, and fisheries     0.4367    0.8047    0.5662     12129
                                                Animal and dairy science     0.4355    0.8780    0.5822      2000

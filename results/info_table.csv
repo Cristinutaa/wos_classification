@@ -1,0 +1,90 @@
+Discipline,Disciplines > (S-1),Disciplines with Score > 1,Nb of disciplines where this discipline is in the rank with score more than (S-1),Nb of disciplines where this discipline is in the ranking with score above 1,Disciplines List > (S-1),Disciplines List score Sxa > Sx
+Psychology,0,7,12,19,[],"['Psychology' 'History' 'Sociology' 'Languages and linguistics'
+ 'Other social sciences'
+ 'Art (arts, history of arts, performing arts, music)' 'Religion'
+ 'Philosophy and ethics' 'Law' 'Media and communications'
+ 'Other humanities' 'Literature']"
+Educational sciences,0,8,5,4,[],"['Educational sciences' 'History'
+ 'Art (arts, history of arts, performing arts, music)' 'Other humanities'
+ 'Literature']"
+Health sciences,1,6,7,23,['Clinical medicine'],"['Health sciences' 'History' 'Other social sciences'
+ 'Art (arts, history of arts, performing arts, music)'
+ 'Media and communications' 'Other humanities' 'Literature']"
+Other engineering and technologies,0,10,4,19,[],"['Other engineering and technologies'
+ 'Art (arts, history of arts, performing arts, music)' 'Other humanities'
+ 'Literature']"
+Chemical sciences,0,10,8,17,[],"['Chemical sciences' 'Chemical engineering' 'Nano-technology'
+ 'Physical sciences' 'Industrial Biotechnology' 'Other humanities'
+ 'Literature' 'Other agricultural sciences']"
+Environmental engineering,0,11,5,14,[],"['Environmental engineering' 'Chemical engineering' 'Other humanities'
+ 'Literature' 'Other agricultural sciences']"
+Earth and related environmental sciences,0,11,8,19,[],"['Earth and related environmental sciences'
+ 'Social and economic geography' 'Other social sciences'
+ 'Art (arts, history of arts, performing arts, music)' 'Other humanities'
+ 'Literature' 'Archaeology' 'Other agricultural sciences']"
+History,9,7,4,4,"['Sociology', 'Economics and business', 'Psychology', 'Social and economic geography', 'Political Science', 'Health sciences', 'Philosophy and ethics', 'Clinical medicine', 'Educational sciences']","['History' 'Art (arts, history of arts, performing arts, music)'
+ 'Other humanities' 'Literature']"
+"Agriculture, forestry, and fisheries",1,5,4,7,['Biological sciences'],"['Agriculture, forestry, and fisheries' 'Other humanities' 'Literature'
+ 'Other agricultural sciences']"
+Biological sciences,0,8,12,17,[],"['Agriculture, forestry, and fisheries' 'Biological sciences'
+ 'Art (arts, history of arts, performing arts, music)'
+ 'Animal and dairy science' 'Medical engineering' 'Other humanities'
+ 'Veterinary science' 'Literature' 'Environmental biotechnology'
+ 'Archaeology' 'Other agricultural sciences' 'Health biotechnology']"
+Computer and information sciences,1,6,6,13,"['Electrical engineering, electronic engineering, information engineering']","['Computer and information sciences'
+ 'Art (arts, history of arts, performing arts, music)'
+ 'Media and communications' 'Medical engineering' 'Other humanities'
+ 'Literature']"
+Basic medicine,1,6,5,14,['Clinical medicine'],"['Basic medicine' 'Art (arts, history of arts, performing arts, music)'
+ 'Other humanities' 'Literature' 'Health biotechnology']"
+Sociology,1,7,10,17,['Psychology'],"['History' 'Sociology' 'Other social sciences'
+ 'Art (arts, history of arts, performing arts, music)' 'Religion' 'Law'
+ 'Media and communications' 'Other humanities' 'Literature' 'Archaeology']"
+Languages and linguistics,1,7,3,2,['Psychology'],['Languages and linguistics' 'Other humanities' 'Literature']
+Social and economic geography,2,9,6,12,"['Earth and related environmental sciences', 'Economics and business']","['History' 'Social and economic geography' 'Other social sciences'
+ 'Art (arts, history of arts, performing arts, music)' 'Other humanities'
+ 'Literature']"
+Chemical engineering,2,8,3,7,"['Environmental engineering', 'Chemical sciences']",['Chemical engineering' 'Other humanities' 'Other agricultural sciences']
+Clinical medicine,0,5,10,18,[],"['Health sciences' 'History' 'Basic medicine' 'Clinical medicine'
+ 'Art (arts, history of arts, performing arts, music)'
+ 'Industrial Biotechnology' 'Medical engineering' 'Other humanities'
+ 'Literature' 'Health biotechnology']"
+"Electrical engineering, electronic engineering, information engineering",0,8,6,11,[],"['Computer and information sciences'
+ 'Electrical engineering, electronic engineering, information engineering'
+ 'Art (arts, history of arts, performing arts, music)'
+ 'Medical engineering' 'Other humanities' 'Literature']"
+Political Science,1,7,5,5,['Economics and business'],"['History' 'Political Science'
+ 'Art (arts, history of arts, performing arts, music)' 'Other humanities'
+ 'Literature']"
+Other social sciences,6,7,3,1,"['Economics and business', 'Social and economic geography', 'Psychology', 'Sociology', 'Earth and related environmental sciences', 'Health sciences']",['Other social sciences' 'Other humanities' 'Literature']
+Nano-technology,3,5,2,6,"['Chemical sciences', 'Materials engineering', 'Physical sciences']",['Nano-technology' 'Other humanities']
+Physical sciences,2,9,4,11,"['Chemical sciences', 'Materials engineering']",['Nano-technology' 'Physical sciences' 'Other humanities' 'Literature']
+Materials engineering,0,10,6,11,[],"['Nano-technology' 'Physical sciences' 'Materials engineering'
+ 'Industrial Biotechnology' 'Other humanities' 'Literature']"
+Civil engineering,0,10,3,6,[],['Civil engineering' 'Other humanities' 'Literature']
+Mechanical engineering,0,12,3,11,[],['Mechanical engineering' 'Other humanities' 'Literature']
+Economics and business,0,10,10,20,[],"['History' 'Social and economic geography' 'Political Science'
+ 'Other social sciences' 'Economics and business'
+ 'Art (arts, history of arts, performing arts, music)'
+ 'Philosophy and ethics' 'Media and communications' 'Other humanities'
+ 'Literature']"
+"Art (arts, history of arts, performing arts, music)",17,9,3,1,"['Psychology', 'Sociology', 'Social and economic geography', 'Economics and business', 'Computer and information sciences', 'Health sciences', 'Educational sciences', 'Clinical medicine', 'Earth and related environmental sciences', 'Electrical engineering, electronic engineering, information engineering', 'Political Science', 'Media and communications', 'History', 'Basic medicine', 'Other engineering and technologies', 'Biological sciences', 'Philosophy and ethics']","['Art (arts, history of arts, performing arts, music)' 'Other humanities'
+ 'Literature']"
+Religion,2,8,3,1,"['Sociology', 'Psychology']",['Religion' 'Other humanities' 'Literature']
+Philosophy and ethics,2,8,5,2,"['Psychology', 'Economics and business']","['History' 'Art (arts, history of arts, performing arts, music)'
+ 'Philosophy and ethics' 'Other humanities' 'Literature']"
+Law,2,9,3,1,"['Sociology', 'Psychology']",['Law' 'Other humanities' 'Literature']
+Media and communications,5,8,4,1,"['Economics and business', 'Psychology', 'Computer and information sciences', 'Health sciences', 'Sociology']","['Art (arts, history of arts, performing arts, music)'
+ 'Media and communications' 'Other humanities' 'Literature']"
+Animal and dairy science,1,8,2,2,['Biological sciences'],['Animal and dairy science' 'Other humanities']
+Industrial Biotechnology,3,9,2,2,"['Chemical sciences', 'Materials engineering', 'Clinical medicine']",['Industrial Biotechnology' 'Other humanities']
+Medical engineering,4,11,2,2,"['Clinical medicine', 'Computer and information sciences', 'Electrical engineering, electronic engineering, information engineering', 'Biological sciences']",['Medical engineering' 'Other humanities']
+Other humanities,41,7,2,0,"['Sociology', 'Psychology', 'Social and economic geography', 'Economics and business', 'History', 'Political Science', 'Health sciences', 'Art (arts, history of arts, performing arts, music)', 'Computer and information sciences', 'Educational sciences', 'Clinical medicine', 'Earth and related environmental sciences', 'Languages and linguistics', 'Philosophy and ethics', 'Media and communications', 'Literature', 'Basic medicine', 'Biological sciences', 'Electrical engineering, electronic engineering, information engineering', 'Other social sciences', 'Other engineering and technologies', 'Religion', 'Mathematics', 'Law', 'Chemical sciences', 'Environmental engineering', 'Physical sciences', 'Materials engineering', 'Civil engineering', 'Mechanical engineering', 'Archaeology', 'Agriculture, forestry, and fisheries', 'Chemical engineering', 'Veterinary science', 'Nano-technology', 'Environmental biotechnology', 'Animal and dairy science', 'Medical engineering', 'Other agricultural sciences', 'Industrial Biotechnology', 'Health biotechnology']",['Other humanities' 'Literature']
+Veterinary science,1,8,2,2,['Biological sciences'],['Other humanities' 'Veterinary science']
+Literature,32,8,2,1,"['Sociology', 'Psychology', 'History', 'Social and economic geography', 'Economics and business', 'Health sciences', 'Political Science', 'Educational sciences', 'Languages and linguistics', 'Clinical medicine', 'Art (arts, history of arts, performing arts, music)', 'Philosophy and ethics', 'Computer and information sciences', 'Basic medicine', 'Biological sciences', 'Media and communications', 'Earth and related environmental sciences', 'Electrical engineering, electronic engineering, information engineering', 'Religion', 'Other humanities', 'Other social sciences', 'Law', 'Mathematics', 'Other engineering and technologies', 'Chemical sciences', 'Physical sciences', 'Environmental engineering', 'Civil engineering', 'Agriculture, forestry, and fisheries', 'Mechanical engineering', 'Archaeology', 'Materials engineering']",['Other humanities' 'Literature']
+Mathematics,0,6,3,7,[],['Other humanities' 'Literature' 'Mathematics']
+Environmental biotechnology,1,8,3,3,['Biological sciences'],"['Other humanities' 'Environmental biotechnology'
+ 'Other agricultural sciences']"
+Archaeology,3,5,3,1,"['Earth and related environmental sciences', 'Sociology', 'Biological sciences']",['Other humanities' 'Literature' 'Archaeology']
+Other agricultural sciences,7,10,2,1,"['Earth and related environmental sciences', 'Environmental engineering', 'Environmental biotechnology', 'Biological sciences', 'Chemical sciences', 'Chemical engineering', 'Agriculture, forestry, and fisheries']",['Other humanities' 'Other agricultural sciences']
+Health biotechnology,3,5,2,1,"['Biological sciences', 'Clinical medicine', 'Basic medicine']",['Other humanities' 'Health biotechnology']
